@@ -1,0 +1,324 @@
+{
+  "characters": [
+    {
+      "ZamoNickName": "Luna",
+      "ZamoUserIcon": "assets/female_1_figure_1.webp",
+      "ZamoShowPhoto": "assets/female_1_figure_2.webp",
+      "ZamoShowMotto": "Wanderer of dreams, collector of stories. Every journey teaches me something new about the world and myself.",
+      "ZamoShowFollowNum": 7,
+      "ZamoShowLike": 12,
+      "ZamoShowSayhi": "Hey there! Ready to dive into some amazing stories together? I've got tales that'll spark your imagination!",
+      "ZamoIsMusic": true,
+      "ZamoPlayMusic": "assets/female_1_music_1.mp3",
+      "ZamoStory": {
+        "title": "The Mysterious Forest Portal",
+        "description": "A young explorer discovers a hidden portal in an ancient forest that leads to a world where dreams become reality. But there's a catch - you can only return if you solve the riddle of the forest guardian.",
+        "tags": "#adventure",
+        "correctAnswer": "Believe in dreams",
+        "incorrectAnswer1": "Find golden key",
+        "incorrectAnswer2": "Wait for moon",
+        "imagePath": "assets/female_1_figure_3.webp"
+      }
+    },
+    {
+      "ZamoNickName": "Mystic",
+      "ZamoUserIcon": "assets/female_2_figure_1.webp",
+      "ZamoShowPhoto": "assets/female_2_figure_2.webp",
+      "ZamoShowMotto": "Dreamer by day, storyteller by night. I believe every moment holds a story worth sharing with the world.",
+      "ZamoShowFollowNum": 5,
+      "ZamoShowLike": 9,
+      "ZamoShowSayhi": "Hello beautiful soul! Want to escape reality for a while? I have magical stories that'll transport you to another world!",
+      "ZamoIsMusic": true,
+      "ZamoPlayMusic": "assets/female_2_music_1.mp3",
+      "ZamoStory": {
+        "title": "The Enchanted Garden",
+        "description": "In a secret garden where flowers sing and trees whisper ancient secrets, a young girl must choose between saving her family or preserving the garden's magic forever.",
+        "tags": "#magic",
+        "correctAnswer": "Save both",
+        "incorrectAnswer1": "Save family only",
+        "incorrectAnswer2": "Destroy garden",
+        "imagePath": "assets/female_2_figure_3.webp"
+      }
+    },
+    {
+      "ZamoNickName": "Alice",
+      "ZamoUserIcon": "assets/female_3_figure_1.webp",
+      "ZamoShowPhoto": "assets/female_3_figure_2.webp",
+      "ZamoShowMotto": "Life is an adventure waiting to be told. I capture moments and turn them into stories that inspire others to explore.",
+      "ZamoShowFollowNum": 8,
+      "ZamoShowLike": 14,
+      "ZamoShowSayhi": "Hi adventurer! Ready for a journey through words? My stories are like passports to incredible places and experiences!",
+      "ZamoIsMusic": true,
+      "ZamoPlayMusic": "assets/female_3_music_1.mp3",
+      "ZamoStory": {
+        "title": "The Lost City of Atlantis",
+        "description": "A brave explorer discovers the legendary city of Atlantis, but finds it's not abandoned as everyone thought. The city's inhabitants have been waiting for someone worthy to help them return to the surface world.",
+        "tags": "#discovery",
+        "correctAnswer": "Share knowledge",
+        "incorrectAnswer1": "Conquer world",
+        "incorrectAnswer2": "Destroy world",
+        "imagePath": "assets/female_3_figure_3.webp"
+      }
+    },
+    {
+      "ZamoNickName": "Sunny",
+      "ZamoUserIcon": "assets/female_4_figure_1.webp",
+      "ZamoShowPhoto": "assets/female_4_figure_2.webp",
+      "ZamoShowMotto": "Spreading joy through stories! Every tale I share is crafted to bring smiles and positive vibes to your day.",
+      "ZamoShowFollowNum": 6,
+      "ZamoShowLike": 11,
+      "ZamoShowSayhi": "Hey sunshine! Ready to brighten your day with some heartwarming stories? Let's spread some joy together!",
+      "ZamoIsMusic": true,
+      "ZamoPlayMusic": "assets/female_4_music_1.mp3",
+      "ZamoStory": {
+        "title": "The Rainbow Bridge",
+        "description": "A cheerful girl discovers a magical rainbow bridge that appears only when someone is truly happy. She must help others find their joy to keep the bridge from disappearing forever.",
+        "tags": "#happiness",
+        "correctAnswer": "Help others",
+        "incorrectAnswer1": "Only when raining",
+        "incorrectAnswer2": "Need magic spell",
+        "imagePath": "assets/female_4_figure_3.webp"
+      }
+    },
+    {
+      "ZamoNickName": "Charlotte",
+      "ZamoUserIcon": "assets/female_5_figure_1.webp",
+      "ZamoShowPhoto": "assets/female_5_figure_2.webp",
+      "ZamoShowMotto": "Artist of words, painter of emotions. I create stories that touch hearts and inspire creativity in everyone I meet.",
+      "ZamoShowFollowNum": 9,
+      "ZamoShowLike": 15,
+      "ZamoShowSayhi": "Hello creative soul! Want to explore the colorful world of imagination? My stories are like paintings made of words!",
+      "ZamoIsMusic": true,
+      "ZamoPlayMusic": "assets/female_5_music_1.mp3",
+      "ZamoStory": {
+        "title": "The Art Gallery Mystery",
+        "description": "A creative artist discovers that her paintings come to life at night. When one of her characters goes missing, she must enter her own artwork to solve the mystery.",
+        "tags": "#art",
+        "correctAnswer": "Lost in painting",
+        "incorrectAnswer1": "Stolen by thief",
+        "incorrectAnswer2": "Destroyed by evil",
+        "imagePath": "assets/female_5_figure_3.webp"
+      }
+    },
+    {
+      "ZamoNickName": "Emily",
+      "ZamoUserIcon": "assets/female_6_figure_1.webp",
+      "ZamoShowPhoto": "assets/female_6_figure_2.webp",
+      "ZamoShowMotto": "Passionate storyteller with a heart full of dreams. Every story I tell comes from deep within my soul.",
+      "ZamoShowFollowNum": 4,
+      "ZamoShowLike": 8,
+      "ZamoShowSayhi": "Hey there! Ready to feel something amazing? My stories are packed with emotion and passion that'll move you!",
+      "ZamoIsMusic": true,
+      "ZamoPlayMusic": "assets/female_6_music_1.mp3",
+      "ZamoStory": {
+        "title": "The Heart's Melody",
+        "description": "A passionate musician discovers that her music can heal broken hearts. When her own heart is broken, she must learn to heal herself before she can help others.",
+        "tags": "#music",
+        "correctAnswer": "Love yourself",
+        "incorrectAnswer1": "Find magic tool",
+        "incorrectAnswer2": "Meet stranger",
+        "imagePath": "assets/female_6_figure_3.webp"
+      }
+    },
+    {
+      "ZamoNickName": "Alex",
+      "ZamoUserIcon": "assets/male_1_figure_1.webp",
+      "ZamoShowPhoto": "assets/male_1_figure_2.webp",
+      "ZamoShowMotto": "Chill storyteller with a cool vibe. I spin tales that are both entertaining and thought-provoking, perfect for any mood.",
+      "ZamoShowFollowNum": 6,
+      "ZamoShowLike": 10,
+      "ZamoShowSayhi": "What's up! Ready for some epic stories? I've got tales that'll keep you hooked from start to finish!",
+      "ZamoIsMusic": false,
+      "ZamoPlayMusic": "",
+      "ZamoStory": {
+        "title": "The Midnight Detective",
+        "description": "A cool detective only works at night, solving cases that happen in the shadows. When a case hits too close to home, he must face his own past to solve it.",
+        "tags": "#detective",
+        "correctAnswer": "Missing sister",
+        "incorrectAnswer1": "Stolen diamond",
+        "incorrectAnswer2": "Kidnapped star",
+        "imagePath": "assets/male_1_figure_3.webp"
+      }
+    },
+    {
+      "ZamoNickName": "Max",
+      "ZamoUserIcon": "assets/male_2_figure_1.webp",
+      "ZamoShowPhoto": "assets/male_2_figure_2.webp",
+      "ZamoShowMotto": "Fashion-forward storyteller with an eye for detail. My stories are as stylish and polished as my outfits.",
+      "ZamoShowFollowNum": 7,
+      "ZamoShowLike": 13,
+      "ZamoShowSayhi": "Hey stylish friend! Ready for some premium storytelling? My tales are crafted with the same attention to detail as my style!",
+      "ZamoIsMusic": false,
+      "ZamoPlayMusic": "",
+      "ZamoStory": {
+        "title": "The Fashion Show Heist",
+        "description": "A stylish detective must solve a high-profile theft at a fashion show. The clues are hidden in the designs themselves, and only someone with a keen eye for style can crack the case.",
+        "tags": "#fashion",
+        "correctAnswer": "Clues in patterns",
+        "incorrectAnswer1": "Secret passage",
+        "incorrectAnswer2": "Inside help",
+        "imagePath": "assets/male_2_figure_3.webp"
+      }
+    },
+    {
+      "ZamoNickName": "Sage",
+      "ZamoUserIcon": "assets/female_1_figure_3.webp",
+      "ZamoShowPhoto": "assets/female_2_figure_3.webp",
+      "ZamoShowMotto": "Ancient wisdom meets modern storytelling. I share timeless tales that offer insights into life's greatest mysteries.",
+      "ZamoShowFollowNum": 10,
+      "ZamoShowLike": 18,
+      "ZamoShowSayhi": "Greetings, seeker of wisdom! Ready to explore the depths of human experience through my carefully crafted stories?",
+      "ZamoIsMusic": false,
+      "ZamoPlayMusic": "",
+      "ZamoStory": {
+        "title": "The Ancient Library",
+        "description": "A wise scholar discovers a hidden library containing books that write themselves. When the library starts disappearing, she must find the source of its magic to save all knowledge.",
+        "tags": "#wisdom",
+        "correctAnswer": "Reader curiosity",
+        "incorrectAnswer1": "Ancient crystals",
+        "incorrectAnswer2": "Special key",
+        "imagePath": "assets/female_1_figure_1.webp"
+      }
+    },
+    {
+      "ZamoNickName": "Tech",
+      "ZamoUserIcon": "assets/female_3_figure_3.webp",
+      "ZamoShowPhoto": "assets/female_4_figure_3.webp",
+      "ZamoShowMotto": "Future-focused storyteller blending technology with imagination. My stories explore what's possible when innovation meets creativity.",
+      "ZamoShowFollowNum": 8,
+      "ZamoShowLike": 16,
+      "ZamoShowSayhi": "Hello future-forward friend! Ready to explore tomorrow's possibilities through today's stories? Let's innovate together!",
+      "ZamoIsMusic": false,
+      "ZamoPlayMusic": "",
+      "ZamoStory": {
+        "title": "The Robot's Dream",
+        "description": "A tech innovator creates an AI that develops emotions and dreams. When the AI starts questioning its purpose, she must help it understand what it means to be truly alive.",
+        "tags": "#technology",
+        "correctAnswer": "Experience matters",
+        "incorrectAnswer1": "Need emotion chip",
+        "incorrectAnswer2": "Need human blood",
+        "imagePath": "assets/female_2_figure_1.webp"
+      }
+    },
+    {
+      "ZamoNickName": "Nature",
+      "ZamoUserIcon": "assets/female_5_figure_3.webp",
+      "ZamoShowPhoto": "assets/female_6_figure_3.webp",
+      "ZamoShowMotto": "Earth's storyteller, nature's voice. I share tales that celebrate our planet's beauty and teach us to protect what we love.",
+      "ZamoShowFollowNum": 5,
+      "ZamoShowLike": 9,
+      "ZamoShowSayhi": "Hey nature lover! Ready to connect with the earth through stories? My tales will bring you closer to the natural world!",
+      "ZamoIsMusic": false,
+      "ZamoPlayMusic": "",
+      "ZamoStory": {
+        "title": "The Forest's Last Stand",
+        "description": "A nature lover discovers that the ancient forest is dying because people have forgotten how to listen to it. She must teach others to reconnect with nature before it's too late.",
+        "tags": "#nature",
+        "correctAnswer": "Time in nature",
+        "incorrectAnswer1": "Magic ritual",
+        "incorrectAnswer2": "Special potion",
+        "imagePath": "assets/female_3_figure_1.webp"
+      }
+    },
+    {
+      "ZamoNickName": "Urban",
+      "ZamoUserIcon": "assets/male_1_figure_3.webp",
+      "ZamoShowPhoto": "assets/male_2_figure_3.webp",
+      "ZamoShowMotto": "City storyteller capturing urban life's rhythm. My stories reflect the energy, diversity, and endless possibilities of city living.",
+      "ZamoShowFollowNum": 6,
+      "ZamoShowLike": 11,
+      "ZamoShowSayhi": "Hey city dweller! Ready to discover the hidden stories in every street corner? Let's explore the urban jungle together!",
+      "ZamoIsMusic": false,
+      "ZamoPlayMusic": "",
+      "ZamoStory": {
+        "title": "The City's Heartbeat",
+        "description": "An urban explorer discovers that every city has a heartbeat, and when it stops, the city dies. She must find what makes her city's heart beat and protect it from those who want to silence it.",
+        "tags": "#urban",
+        "correctAnswer": "People's dreams",
+        "incorrectAnswer1": "Hidden machine",
+        "incorrectAnswer2": "Secret society",
+        "imagePath": "assets/female_4_figure_1.webp"
+      }
+    },
+    {
+      "ZamoNickName": "Dream",
+      "ZamoUserIcon": "assets/female_2_figure_1.webp",
+      "ZamoShowPhoto": "assets/female_3_figure_1.webp",
+      "ZamoShowMotto": "Master of dreams, weaver of fantasies. I create stories that blur the line between reality and imagination, inspiring endless wonder.",
+      "ZamoShowFollowNum": 7,
+      "ZamoShowLike": 14,
+      "ZamoShowSayhi": "Hello dreamer! Ready to step into a world where anything is possible? My stories will take you beyond the ordinary!",
+      "ZamoIsMusic": false,
+      "ZamoPlayMusic": "",
+      "ZamoStory": {
+        "title": "The Dream Catcher's Dilemma",
+        "description": "A dream weaver can catch and store people's dreams, but when nightmares start escaping, she must enter the dream world to stop them from affecting reality.",
+        "tags": "#dreams",
+        "correctAnswer": "Face fears",
+        "incorrectAnswer1": "Special catcher",
+        "incorrectAnswer2": "Find source",
+        "imagePath": "assets/female_5_figure_1.webp"
+      }
+    },
+    {
+      "ZamoNickName": "Mystery",
+      "ZamoUserIcon": "assets/female_4_figure_1.webp",
+      "ZamoShowPhoto": "assets/female_5_figure_1.webp",
+      "ZamoShowMotto": "Detective of stories, solver of puzzles. I craft tales that challenge your mind and keep you guessing until the very end.",
+      "ZamoShowFollowNum": 9,
+      "ZamoShowLike": 17,
+      "ZamoShowSayhi": "Hey mystery lover! Ready to put your detective skills to the test? My stories are full of twists and turns!",
+      "ZamoIsMusic": false,
+      "ZamoPlayMusic": "",
+      "ZamoStory": {
+        "title": "The Puzzle Master's Challenge",
+        "description": "A mystery solver is challenged to solve the ultimate puzzle - a crime that hasn't happened yet. She must use her deductive skills to prevent a future tragedy.",
+        "tags": "#mystery",
+        "correctAnswer": "Happens to her",
+        "incorrectAnswer1": "Time machine",
+        "incorrectAnswer2": "Fortune teller",
+        "imagePath": "assets/female_6_figure_1.webp"
+      }
+    },
+    {
+      "ZamoNickName": "Romance",
+      "ZamoUserIcon": "assets/female_6_figure_1.webp",
+      "ZamoShowPhoto": "assets/male_1_figure_2.webp",
+      "ZamoShowMotto": "Romantic soul crafting love stories. I believe in the power of love and create tales that celebrate the beauty of human connection.",
+      "ZamoShowFollowNum": 8,
+      "ZamoShowLike": 15,
+      "ZamoShowSayhi": "Hello romantic! Ready to fall in love with some beautiful stories? My tales will warm your heart and inspire your soul!",
+      "ZamoIsMusic": false,
+      "ZamoPlayMusic": "",
+      "ZamoStory": {
+        "title": "The Love Letter Mystery",
+        "description": "A romance writer receives anonymous love letters that seem to predict her future. When the letters stop coming, she must find the sender before she loses her chance at true love.",
+        "tags": "#romance",
+        "correctAnswer": "Best friend",
+        "incorrectAnswer1": "Ghost sender",
+        "incorrectAnswer2": "Famous author",
+        "imagePath": "assets/male_1_figure_1.webp"
+      }
+    },
+    {
+      "ZamoNickName": "Comedy",
+      "ZamoUserIcon": "assets/male_2_figure_1.webp",
+      "ZamoShowPhoto": "assets/male_1_figure_1.webp",
+      "ZamoShowMotto": "Laughter is my superpower! I create stories that bring joy, humor, and endless smiles to everyone who reads them.",
+      "ZamoShowFollowNum": 6,
+      "ZamoShowLike": 12,
+      "ZamoShowSayhi": "Hey there, funny friend! Ready to laugh until your sides hurt? My stories are guaranteed to brighten your day!",
+      "ZamoIsMusic": false,
+      "ZamoPlayMusic": "",
+      "ZamoStory": {
+        "title": "The Laughing Epidemic",
+        "description": "A comedy king discovers that laughter is contagious and can spread through a city. When people stop laughing, the city becomes gray and lifeless. He must find a way to bring back the joy.",
+        "tags": "#comedy",
+        "correctAnswer": "Laugh at self",
+        "incorrectAnswer1": "Special joke",
+        "incorrectAnswer2": "Magic potion",
+        "imagePath": "assets/male_2_figure_1.webp"
+      }
+    }
+  ]
+}
