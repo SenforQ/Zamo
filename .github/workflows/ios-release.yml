@@ -95,7 +95,7 @@ jobs:
 
       - name: Upload to App Store using altool
         env:
-          IPA_PATH: "build/ios/ipa/bavo.ipa"
+          IPA_PATH: "build/ios/ipa/zamo.ipa"
           APPLE_ID: "brauunnn@outlook.com"
           APP_SPECIFIC_PASSWORD: "uwfz-bgqn-tsnt-ajgv"
         run: |
