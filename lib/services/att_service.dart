@@ -41,3 +41,4 @@ class ATTService {
     return status == TrackingStatus.authorized;
   }
 }
+

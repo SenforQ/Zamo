@@ -389,3 +389,4 @@ class _FigureStoreDetailPageState extends State<FigureStoreDetailPage> {
     );
   }
 }
+

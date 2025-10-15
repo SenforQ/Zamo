@@ -5,6 +5,8 @@ import 'userContent_page.dart';
 import 'privacy_policy_page.dart';
 import 'aboutus_page.dart';
 import 'setup_page.dart';
+import 'vip_page.dart';
+import 'wallet_page.dart';
 import 'user_model.dart';
 import 'user_data_service.dart';
 
@@ -44,6 +46,17 @@ class _ProfilePageState extends State<ProfilePage> {
   // 刷新用户数据
   Future<void> _refreshUserData() async {
     await _loadUserData();
+  }
+
+  // 显示Toast
+  void _showToast(String message) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text(message),
+        backgroundColor: Colors.black.withValues(alpha: 0.8),
+        duration: const Duration(milliseconds: 1500),
+      ),
+    );
   }
   @override
   Widget build(BuildContext context) {
@@ -181,19 +194,46 @@ class _ProfilePageState extends State<ProfilePage> {
             ),
           ),
           
-          // 列表内容
+          // VIP Banner
           Positioned(
             top: 277,
+            left: 20,
+            right: 20,
+            child: GestureDetector(
+              onTap: () {
+                HapticFeedback.lightImpact();
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const VipPage(),
+                  ),
+                );
+              },
+              child: Container(
+                width: screenSize.width - 40,
+                height: 70,
+                child: Image.asset(
+                  'assets/me_vip_banner.webp',
+                  fit: BoxFit.cover,
+                ),
+              ),
+            ),
+          ),
+          
+          // 列表内容
+          Positioned(
+            top: 277 + 70 + 20, // VIP Banner高度 + 间距
             left: 0,
             right: 0,
             bottom: 0,
             child: Container(
               width: screenSize.width,
-              height: screenSize.height - 277,
+              height: screenSize.height - (277 + 70 + 20),
               child: ListView(
                 padding: const EdgeInsets.symmetric(horizontal: 20),
                 children: [
                   _buildListItem('assets/me_settup.webp', 'Set Up'),
+                  _buildListItem('assets/me_wallet.webp', 'Wallet'),
                   _buildListItem('assets/me_contract.webp', 'User Contract'),
                   _buildListItem('assets/me_privacy.webp', 'Privacy Policy'),
                   _buildListItem('assets/me_about.webp', 'About us'),
@@ -225,6 +265,11 @@ class _ProfilePageState extends State<ProfilePage> {
           Navigator.push(
             context,
             MaterialPageRoute(builder: (context) => const AboutUsPage()),
+          );
+        } else if (title == 'Wallet') {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const WalletPage()),
           );
         } else if (title == 'Set Up') {
           final result = await Navigator.push(

@@ -4,6 +4,8 @@ import 'dart:io';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'story_model.dart';
 import 'story_data_service.dart';
+import 'services/vip_service.dart';
+import 'vip_page.dart';
 
 class StoriesDetailPage extends StatefulWidget {
   final StoryModel story;
@@ -48,6 +50,194 @@ class _StoriesDetailPageState extends State<StoriesDetailPage> {
     }
   }
 
+  // 显示VIP要求对话框
+  Future<void> _showVipRequiredDialog() async {
+    await showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF1C0325),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(20),
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              // VIP 图标
+              Container(
+                width: 80,
+                height: 80,
+                decoration: BoxDecoration(
+                  gradient: const LinearGradient(
+                    colors: [Color(0xFF8B5CF6), Color(0xFFE91E63)],
+                    begin: Alignment.topLeft,
+                    end: Alignment.bottomRight,
+                  ),
+                  shape: BoxShape.circle,
+                ),
+                child: const Icon(
+                  Icons.diamond,
+                  color: Colors.white,
+                  size: 40,
+                ),
+              ),
+              
+              const SizedBox(height: 20),
+              
+              // 标题
+              const Text(
+                'VIP Required',
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 24,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              
+              const SizedBox(height: 12),
+              
+              // 说明文字
+              const Text(
+                'You need VIP subscription to publish stories.',
+                style: TextStyle(
+                  color: Color(0xFFCCCCCC),
+                  fontSize: 16,
+                ),
+                textAlign: TextAlign.center,
+              ),
+              
+              const SizedBox(height: 20),
+              
+              // VIP 特权说明
+              Container(
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: Colors.black.withValues(alpha: 0.3),
+                  borderRadius: BorderRadius.circular(12),
+                  border: Border.all(
+                    color: const Color(0xFF8B5CF6).withValues(alpha: 0.3),
+                    width: 1,
+                  ),
+                ),
+                child: Column(
+                  children: [
+                    _buildVipFeature('Unlimited story creation'),
+                    const SizedBox(height: 8),
+                    _buildVipFeature('Unlimited avatar changes'),
+                    const SizedBox(height: 8),
+                    _buildVipFeature('Eliminate in-app advertising'),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            Row(
+              children: [
+                // 取消按钮
+                Expanded(
+                  child: Container(
+                    height: 50,
+                    child: ElevatedButton(
+                      onPressed: () {
+                        Navigator.of(context).pop();
+                      },
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.transparent,
+                        foregroundColor: Colors.white,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(25),
+                          side: BorderSide(
+                            color: Colors.white.withValues(alpha: 0.3),
+                            width: 1,
+                          ),
+                        ),
+                      ),
+                      child: const Text(
+                        'Cancel',
+                        style: TextStyle(
+                          fontSize: 16,
+                          fontWeight: FontWeight.w500,
+                        ),
+                      ),
+                    ),
+                  ),
+                ),
+                
+                const SizedBox(width: 12),
+                
+                // 升级按钮
+                Expanded(
+                  child: Container(
+                    height: 50,
+                    child: ElevatedButton(
+                      onPressed: () {
+                        Navigator.of(context).pop();
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => const VipPage(),
+                          ),
+                        );
+                      },
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: const Color(0xFF8B5CF6),
+                        foregroundColor: Colors.white,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(25),
+                        ),
+                        elevation: 8,
+                      ),
+                      child: const Text(
+                        'Upgrade',
+                        style: TextStyle(
+                          fontSize: 16,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  // 构建VIP功能项
+  Widget _buildVipFeature(String text) {
+    return Row(
+      children: [
+        Container(
+          width: 20,
+          height: 20,
+          decoration: const BoxDecoration(
+            color: Color(0xFF8B5CF6),
+            shape: BoxShape.circle,
+          ),
+          child: const Icon(
+            Icons.check,
+            color: Colors.white,
+            size: 14,
+          ),
+        ),
+        const SizedBox(width: 12),
+        Expanded(
+          child: Text(
+            text,
+            style: const TextStyle(
+              color: Colors.white,
+              fontSize: 14,
+            ),
+          ),
+        ),
+      ],
+    );
+  }
+
   // 显示iOS风格的Toast
   Future<void> _showToast(String message, {bool shouldPop = false}) async {
     await showDialog(
@@ -83,6 +273,16 @@ class _StoriesDetailPageState extends State<StoriesDetailPage> {
 
   // 发布故事
   Future<void> _publishStory() async {
+    // 检查VIP状态
+    final isVipActive = await VipService.isVipActive();
+    final isVipExpired = await VipService.isVipExpired();
+    final isVip = isVipActive && !isVipExpired;
+
+    if (!isVip) {
+      await _showVipRequiredDialog();
+      return;
+    }
+
     setState(() {
       _isLoading = true;
     });
