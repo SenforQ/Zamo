@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>masterVariableSpeed</key>
+	<string>canvasThroughJob</string>
+	<key>positionAsLayer</key>
+	<string>eventDespiteShape</string>
+	<key>previewPhaseBorder</key>
+	<string>cupertinoQueueSize</string>
+	<key>transitionInsideParameter</key>
+	<string>ignoredAlertSpeed</string>
+</dict>
+</plist>

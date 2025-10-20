@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCallbackPadding</key>
+	<string>metadataOrBuffer</string>
+	<key>customizedCommandFeedback</key>
+	<string>checklistContextDelay</string>
+	<key>dependencyAndParam</key>
+	<string>loopPrototypeBorder</string>
+	<key>modelContainJob</key>
+	<string>frameEnvironmentStyle</string>
+	<key>sequentialSlashType</key>
+	<string>pivotalStackAlignment</string>
+</dict>
+</plist>

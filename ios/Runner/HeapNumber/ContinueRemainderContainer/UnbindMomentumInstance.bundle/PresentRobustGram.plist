@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBuilderForce</key>
+	<string>featurePrototypeDensity</string>
+	<key>blocMediatorAppearance</key>
+	<string>missedCubitDepth</string>
+	<key>currentPositionFrequency</key>
+	<string>mainMonsterBorder</string>
+	<key>customLabelStyle</key>
+	<string>entityBridgePadding</string>
+	<key>delegateOrBridge</key>
+	<string>symbolCommandScale</string>
+	<key>labelShapeHue</key>
+	<string>mainReducerOrientation</string>
+	<key>referenceViaParameter</key>
+	<string>lazyBaseFeedback</string>
+	<key>significantTableCount</key>
+	<string>seamlessMaterialState</string>
+</dict>
+</plist>

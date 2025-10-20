@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleActivityShade</key>
+	<string>screenPerProcess</string>
+	<key>cupertinoMonsterDuration</key>
+	<string>nodeDuringTask</string>
+	<key>granularPopupCount</key>
+	<string>delicateGestureKind</string>
+	<key>inactiveAlignmentDistance</key>
+	<string>draggableProjectionShape</string>
+	<key>inheritedSegueDistance</key>
+	<string>keyControllerShade</string>
+	<key>kernelAsSingleton</key>
+	<string>concreteRowRotation</string>
+</dict>
+</plist>

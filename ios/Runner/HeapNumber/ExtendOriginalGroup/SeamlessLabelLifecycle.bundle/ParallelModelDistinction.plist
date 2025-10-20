@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAboutLevel</key>
+	<string>missedGridBorder</string>
+	<key>characterScopeInset</key>
+	<string>isolateOperationShade</string>
+	<key>deferredLabelBehavior</key>
+	<string>checklistSinceMode</string>
+	<key>modalAtCycle</key>
+	<string>robustControllerVisible</string>
+	<key>momentumPerSingleton</key>
+	<string>subpixelStrategyType</string>
+	<key>protectedGraphShade</key>
+	<string>multiplicationTierShade</string>
+	<key>scrollablePositionedInset</key>
+	<string>independentNavigationMomentum</string>
+	<key>specifyPopupDuration</key>
+	<string>retainedOffsetOrigin</string>
+</dict>
+</plist>

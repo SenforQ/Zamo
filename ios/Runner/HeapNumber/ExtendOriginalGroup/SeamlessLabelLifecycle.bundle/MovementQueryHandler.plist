@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncRouteBound</key>
+	<string>reducerContextDuration</string>
+	<key>backwardGraphLocation</key>
+	<string>routeCycleOrigin</string>
+	<key>newestStatelessCoord</key>
+	<string>activatedLoopCoord</string>
+	<key>pivotalFragmentBehavior</key>
+	<string>callbackExceptProxy</string>
+	<key>robustTitleRate</key>
+	<string>custompaintExceptStrategy</string>
+	<key>sinkAmongMethod</key>
+	<string>containerPrototypePadding</string>
+	<key>symbolWithoutCommand</key>
+	<string>singleSubpixelIndex</string>
+	<key>usedRadiusLeft</key>
+	<string>materialSizeBorder</string>
+</dict>
+</plist>

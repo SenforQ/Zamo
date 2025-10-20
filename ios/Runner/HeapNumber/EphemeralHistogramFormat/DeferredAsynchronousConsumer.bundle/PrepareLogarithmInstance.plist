@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationParameterDistance</key>
+	<string>textPhaseOffset</string>
+	<key>dependencyAwayFunction</key>
+	<string>utilAwaySingleton</string>
+	<key>diversifiedProgressbarBorder</key>
+	<string>textureObserverDirection</string>
+	<key>draggableSingletonPadding</key>
+	<string>statefulLevelOrigin</string>
+	<key>groupKindAcceleration</key>
+	<string>accordionCellInset</string>
+	<key>lossActivityDelay</key>
+	<string>configurationStateForce</string>
+	<key>movementKindInterval</key>
+	<string>accordionVectorVelocity</string>
+	<key>stampIncludeCycle</key>
+	<string>iconDespiteProcess</string>
+	<key>utilMethodSkewy</key>
+	<string>commandOrCycle</string>
+</dict>
+</plist>

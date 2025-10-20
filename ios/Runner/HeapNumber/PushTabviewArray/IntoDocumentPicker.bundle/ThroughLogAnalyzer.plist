@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMovementHead</key>
+	<string>reductionAboutCycle</string>
+	<key>behaviorCycleTop</key>
+	<string>routeFlyweightForce</string>
+	<key>mediaqueryActivitySaturation</key>
+	<string>groupUntilActivity</string>
+	<key>singletonContextOrigin</key>
+	<string>responsiveLayoutSpeed</string>
+	<key>sliderAlongFramework</key>
+	<string>notifierTierLeft</string>
+	<key>usageAlongPlatform</key>
+	<string>momentumOrStyle</string>
+</dict>
+</plist>

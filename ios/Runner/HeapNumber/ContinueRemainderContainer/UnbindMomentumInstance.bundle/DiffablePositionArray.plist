@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackProcessVisible</key>
+	<string>adaptiveResolverOrientation</string>
+	<key>characterDespiteComposite</key>
+	<string>gridviewAtTask</string>
+	<key>columnOutsideState</key>
+	<string>eventDespiteCommand</string>
+	<key>extensionPlatformPosition</key>
+	<string>rectOperationBrightness</string>
+	<key>memberInProxy</key>
+	<string>retainedServiceSaturation</string>
+	<key>plateActivityScale</key>
+	<string>factoryInValue</string>
+	<key>reducerThanFacade</key>
+	<string>previewBridgeTension</string>
+	<key>symmetricAwaitVisible</key>
+	<string>notifierOfBridge</string>
+	<key>tickerWithoutSystem</key>
+	<string>customStreamRight</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeControllerOrientation</key>
+	<string>overlayAboutNumber</string>
+	<key>globalManagerInset</key>
+	<string>euclideanInterfaceAcceleration</string>
+	<key>mediaFromProcess</key>
+	<string>oldSingletonSpacing</string>
+	<key>subscriptionFormTint</key>
+	<string>directVectorLeft</string>
+	<key>subscriptionNumberShade</key>
+	<string>asyncThroughBridge</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorPerFacade</key>
+	<string>providerStageDepth</string>
+	<key>difficultCollectionRotation</key>
+	<string>cupertinoIntensityDensity</string>
+	<key>effectTierFeedback</key>
+	<string>materialTaskRight</string>
+	<key>inactiveStreamAcceleration</key>
+	<string>disparateIsolateKind</string>
+	<key>multiplicationContextHue</key>
+	<string>projectVisitorState</string>
+</dict>
+</plist>

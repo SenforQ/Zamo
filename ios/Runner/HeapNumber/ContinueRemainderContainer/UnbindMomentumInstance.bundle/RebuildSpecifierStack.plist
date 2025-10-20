@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAlongType</key>
+	<string>canvasProcessTail</string>
+	<key>ephemeralTransitionForce</key>
+	<string>awaitMementoContrast</string>
+	<key>nodeObserverBehavior</key>
+	<string>singletonBufferPosition</string>
+</dict>
+</plist>

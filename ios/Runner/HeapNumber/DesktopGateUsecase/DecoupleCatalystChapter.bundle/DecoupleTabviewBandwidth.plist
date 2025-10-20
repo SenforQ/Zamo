@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalInteractorFeedback</key>
+	<string>localizationShapeContrast</string>
+	<key>decorationAmongNumber</key>
+	<string>controllerCommandCount</string>
+	<key>denseRowAlignment</key>
+	<string>builderTaskTag</string>
+	<key>threadAlongStyle</key>
+	<string>positionAlongSystem</string>
+</dict>
+</plist>

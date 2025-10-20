@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTierDistance</key>
+	<string>symmetricContainerDensity</string>
+	<key>multiplicationActionHue</key>
+	<string>callbackInsideTask</string>
+	<key>semanticsInForm</key>
+	<string>nativeRowScale</string>
+	<key>shaderAtScope</key>
+	<string>geometricEqualizationFlags</string>
+	<key>sharedMediaqueryType</key>
+	<string>symbolWithoutChain</string>
+	<key>topicLikeEnvironment</key>
+	<string>checkboxDecoratorIndex</string>
+	<key>touchDecoratorInset</key>
+	<string>dynamicSegmentSpacing</string>
+</dict>
+</plist>

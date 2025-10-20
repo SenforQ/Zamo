@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitLikeMethod</key>
+	<string>titleFunctionShape</string>
+	<key>baselineCompositeSaturation</key>
+	<string>notifierFromComposite</string>
+	<key>concreteMaterialContrast</key>
+	<string>significantConstraintDelay</string>
+	<key>multiplicationStateBrightness</key>
+	<string>similarSlashInterval</string>
+</dict>
+</plist>

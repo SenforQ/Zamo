@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSensorRotation</key>
+	<string>particleAboutBridge</string>
+	<key>apertureViaParam</key>
+	<string>featureProxyOrigin</string>
+	<key>enabledCharacterMode</key>
+	<string>crudeNavigatorHue</string>
+	<key>interpolationVarSize</key>
+	<string>spriteTypeDepth</string>
+	<key>parallelResultBrightness</key>
+	<string>screenWorkInterval</string>
+	<key>queueFacadeType</key>
+	<string>compositionVersusVariable</string>
+</dict>
+</plist>

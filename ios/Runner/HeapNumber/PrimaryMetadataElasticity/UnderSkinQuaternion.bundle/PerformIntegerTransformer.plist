@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBulletDensity</key>
+	<string>menuTypePressure</string>
+	<key>callbackTypeCenter</key>
+	<string>progressbarAdapterIndex</string>
+	<key>capsuleBridgeVelocity</key>
+	<string>scrollSinceFlyweight</string>
+	<key>characterLikeShape</key>
+	<string>transitionSingletonSpacing</string>
+	<key>modulusObserverBehavior</key>
+	<string>intuitiveGridBorder</string>
+</dict>
+</plist>

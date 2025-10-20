@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLoopDepth</key>
+	<string>mobileInFacade</string>
+	<key>flexibleIsolateCount</key>
+	<string>descriptorInsideVar</string>
+	<key>ignoredChapterInset</key>
+	<string>sliderAgainstProcess</string>
+	<key>opaqueCompleterTint</key>
+	<string>hierarchicalSinkMargin</string>
+	<key>scrollNumberBrightness</key>
+	<string>associatedChannelDelay</string>
+	<key>sensorWithObserver</key>
+	<string>providerFromPhase</string>
+	<key>smartChecklistAlignment</key>
+	<string>featureTaskDepth</string>
+	<key>sortedNavigatorTint</key>
+	<string>usecaseNumberVisibility</string>
+	<key>titleLayerMode</key>
+	<string>desktopControllerRotation</string>
+	<key>workflowPlatformFormat</key>
+	<string>effectByStructure</string>
+</dict>
+</plist>

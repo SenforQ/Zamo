@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchForKind</key>
+	<string>spriteDecoratorBottom</string>
+	<key>hashOperationDuration</key>
+	<string>vectorPerShape</string>
+	<key>lazyQueueMargin</key>
+	<string>disparateControllerBound</string>
+	<key>listenerBeyondStrategy</key>
+	<string>euclideanStoreSpacing</string>
+	<key>listenerMethodCoord</key>
+	<string>iconCompositeSize</string>
+	<key>optimizerObserverSkewx</key>
+	<string>scrollFunctionDistance</string>
+	<key>significantChannelsDepth</key>
+	<string>beginnerSinkDensity</string>
+	<key>spotIncludeMethod</key>
+	<string>timerAwayContext</string>
+</dict>
+</plist>

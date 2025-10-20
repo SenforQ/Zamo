@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarSinceFramework</key>
+	<string>curveOfAction</string>
+	<key>delegatePlatformPadding</key>
+	<string>singleCollectionShade</string>
+	<key>layoutStructureShade</key>
+	<string>scrollableAllocatorState</string>
+	<key>localUsageVisibility</key>
+	<string>reducerDecoratorTension</string>
+	<key>positionedStateSpeed</key>
+	<string>desktopDurationLocation</string>
+	<key>publicSubpixelDepth</key>
+	<string>synchronousSpotPressure</string>
+	<key>techniqueSinceAction</key>
+	<string>specifierProcessInteraction</string>
+	<key>tensorMissionMode</key>
+	<string>materialCommandDepth</string>
+</dict>
+</plist>

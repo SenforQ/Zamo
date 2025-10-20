@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentCompleterAppearance</key>
+	<string>grayscaleIncludeVar</string>
+	<key>previewTierMomentum</key>
+	<string>basicTangentEdge</string>
+	<key>previewVariableInterval</key>
+	<string>draggableScrollState</string>
+	<key>providerObserverRight</key>
+	<string>normSingletonBorder</string>
+	<key>rectInMethod</key>
+	<string>marginBesideStyle</string>
+	<key>transitionSinceLevel</key>
+	<string>unsortedStateScale</string>
+	<key>visibleScaleType</key>
+	<string>navigationActivityTension</string>
+</dict>
+</plist>

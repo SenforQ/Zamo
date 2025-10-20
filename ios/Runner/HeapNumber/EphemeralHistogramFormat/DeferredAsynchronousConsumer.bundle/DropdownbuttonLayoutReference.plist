@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticModeFlags</key>
+	<string>tickerFacadeInset</string>
+	<key>capsuleVersusFunction</key>
+	<string>mapForVariable</string>
+	<key>criticalPageviewHue</key>
+	<string>scaleInSingleton</string>
+	<key>documentBesideScope</key>
+	<string>sliderKindSkewx</string>
+	<key>gridThroughStage</key>
+	<string>appbarAdapterRotation</string>
+	<key>hierarchicalWidgetTheme</key>
+	<string>customizedExceptionSize</string>
+	<key>iconAlongComposite</key>
+	<string>groupAgainstMode</string>
+	<key>roleAgainstPattern</key>
+	<string>chapterWorkCenter</string>
+</dict>
+</plist>

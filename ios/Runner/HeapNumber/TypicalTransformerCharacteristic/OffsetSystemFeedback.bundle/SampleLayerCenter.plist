@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateFromEnvironment</key>
+	<string>lostAxisMode</string>
+	<key>chartStateScale</key>
+	<string>riverpodShapeTheme</string>
+	<key>displayableAlignmentInset</key>
+	<string>oldButtonIndex</string>
+	<key>frameAgainstStyle</key>
+	<string>gestureNearStrategy</string>
+	<key>hashVersusMode</key>
+	<string>relationalCubitTag</string>
+	<key>managerOrPrototype</key>
+	<string>completionVariableMargin</string>
+	<key>menuAmongScope</key>
+	<string>dynamicVariantBottom</string>
+	<key>observerStagePosition</key>
+	<string>cupertinoDependencyBorder</string>
+	<key>topicThanTemple</key>
+	<string>eventViaObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateTempleBrightness</key>
+	<string>cubeLikeVar</string>
+	<key>denseGramIndex</key>
+	<string>providerPerLevel</string>
+	<key>otherSubpixelMode</key>
+	<string>brushContextIndex</string>
+	<key>pageviewShapeSpacing</key>
+	<string>agileSliderKind</string>
+	<key>requiredDurationStyle</key>
+	<string>sequentialPrecisionPadding</string>
+	<key>routerAtValue</key>
+	<string>referenceAsFlyweight</string>
+	<key>serviceForMode</key>
+	<string>animatedTaskPosition</string>
+	<key>swiftVersusNumber</key>
+	<string>riverpodEnvironmentInteraction</string>
+</dict>
+</plist>

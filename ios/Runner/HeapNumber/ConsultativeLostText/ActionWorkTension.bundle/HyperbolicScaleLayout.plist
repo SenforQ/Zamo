@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationOrMediator</key>
+	<string>assetLayerRate</string>
+	<key>dependencyNearParam</key>
+	<string>dedicatedPopupType</string>
+	<key>flexibleDurationSkewx</key>
+	<string>permanentModelKind</string>
+	<key>fragmentByParam</key>
+	<string>largeCaptionInset</string>
+	<key>interpolationAlongProxy</key>
+	<string>exceptionLevelKind</string>
+	<key>logPerActivity</key>
+	<string>ignoredSampleDirection</string>
+	<key>tableInProxy</key>
+	<string>localizationAsPlatform</string>
+	<key>timerPlatformContrast</key>
+	<string>activatedCommandOrientation</string>
+	<key>unsortedTaskTail</key>
+	<string>dedicatedModulusTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerFlyweightIndex</key>
+	<string>alignmentAboutLevel</string>
+	<key>contractionModePadding</key>
+	<string>alertStructureDensity</string>
+	<key>controllerPatternBehavior</key>
+	<string>delegateDespiteParameter</string>
+	<key>cupertinoSingletonOffset</key>
+	<string>synchronousCurveHue</string>
+	<key>dependencyCompositeDuration</key>
+	<string>featureScopeBound</string>
+	<key>effectDespiteShape</key>
+	<string>notificationAgainstScope</string>
+	<key>errorBufferTag</key>
+	<string>subscriptionScopeSpeed</string>
+	<key>textureAndFunction</key>
+	<string>streamParamRate</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionKindVisibility</key>
+	<string>projectScopeRate</string>
+	<key>decorationPlatformSpeed</key>
+	<string>touchTierRate</string>
+	<key>equalizationBesideOperation</key>
+	<string>advancedChannelLocation</string>
+	<key>eventTierShape</key>
+	<string>reusableQueueStatus</string>
+	<key>finalRadiusIndex</key>
+	<string>numericalToolKind</string>
+	<key>gesturedetectorModeBehavior</key>
+	<string>compositionOfVariable</string>
+	<key>gridLikeValue</key>
+	<string>seamlessCapsuleDepth</string>
+	<key>optimizerCycleFlags</key>
+	<string>staticPreviewOpacity</string>
+	<key>particleActionTransparency</key>
+	<string>opaqueContractionState</string>
+	<key>robustDelegateAppearance</key>
+	<string>newestEffectBehavior</string>
+</dict>
+</plist>

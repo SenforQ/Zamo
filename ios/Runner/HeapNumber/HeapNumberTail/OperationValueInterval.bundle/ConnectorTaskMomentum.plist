@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAnimatedcontainerCoord</key>
+	<string>zoneCompositeOpacity</string>
+	<key>commandCycleFormat</key>
+	<string>customHashLocation</string>
+	<key>cubitAsProxy</key>
+	<string>asyncFeaturePosition</string>
+	<key>sliderContextMargin</key>
+	<string>nibProxyDistance</string>
+	<key>stateCommandDelay</key>
+	<string>statelessIntegerSize</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentSinceAction</key>
+	<string>fixedSemanticsBehavior</string>
+	<key>arithmeticProviderFrequency</key>
+	<string>beginnerAlertInteraction</string>
+	<key>arithmeticStrategyValidation</key>
+	<string>uniformConstraintCount</string>
+	<key>desktopTransitionVisible</key>
+	<string>errorAndStructure</string>
+	<key>hardResponseTension</key>
+	<string>progressbarBeyondComposite</string>
+	<key>interfaceTypeBorder</key>
+	<string>featureVariableHue</string>
+	<key>permanentCurveTheme</key>
+	<string>semanticTextIndex</string>
+	<key>robustAspectratioFormat</key>
+	<string>localViewCount</string>
+</dict>
+</plist>

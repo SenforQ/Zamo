@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderFacadeLocation</key>
+	<string>parallelSubscriptionEdge</string>
+	<key>cellNearFunction</key>
+	<string>mediaqueryMethodRate</string>
+	<key>chartValueType</key>
+	<string>smallPrecisionType</string>
+	<key>normalViewSkewx</key>
+	<string>storeOutsideParam</string>
+	<key>specifierOrShape</key>
+	<string>promiseCycleVelocity</string>
+</dict>
+</plist>

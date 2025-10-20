@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellOrMediator</key>
+	<string>prevMapMode</string>
+	<key>containerUntilFramework</key>
+	<string>containerMethodShade</string>
+	<key>fusedRequestLeft</key>
+	<string>enabledInteractorStatus</string>
+	<key>handlerActionMode</key>
+	<string>imageVisitorTheme</string>
+	<key>intuitiveGemDistance</key>
+	<string>permanentNibVelocity</string>
+	<key>relationalInterfaceBrightness</key>
+	<string>backwardVectorAppearance</string>
+	<key>sliderModeOrientation</key>
+	<string>timerUntilType</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateIncludeScope</key>
+	<string>certificateNumberContrast</string>
+	<key>descriptionDuringState</key>
+	<string>desktopFeatureType</string>
+	<key>effectOrInterpreter</key>
+	<string>smartTimerPosition</string>
+	<key>flexVisitorTransparency</key>
+	<string>viewAdapterDistance</string>
+	<key>nodeScopeRight</key>
+	<string>subscriptionExceptProxy</string>
+	<key>notifierStylePressure</key>
+	<string>tappableMomentumIndex</string>
+</dict>
+</plist>

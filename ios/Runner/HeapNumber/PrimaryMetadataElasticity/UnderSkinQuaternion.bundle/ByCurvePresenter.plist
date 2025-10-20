@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCosineTransparency</key>
+	<string>columnBufferShape</string>
+	<key>bufferAmongAction</key>
+	<string>hierarchicalControllerAcceleration</string>
+	<key>dedicatedAnimationSpacing</key>
+	<string>injectionThanMode</string>
+	<key>graphInProcess</key>
+	<string>missedLayoutBorder</string>
+	<key>inkwellBridgeOrigin</key>
+	<string>futureBesideInterpreter</string>
+	<key>lazyCheckboxAcceleration</key>
+	<string>resolverFunctionOpacity</string>
+	<key>listenerAgainstContext</key>
+	<string>precisionVariableVisibility</string>
+	<key>progressbarStageResponse</key>
+	<string>rectAsCommand</string>
+	<key>scaffoldStageOrientation</key>
+	<string>tensorCurveTint</string>
+</dict>
+</plist>

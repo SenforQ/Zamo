@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPerSystem</key>
+	<string>awaitContainMemento</string>
+	<key>batchModeVisible</key>
+	<string>baseInTier</string>
+	<key>desktopCoordinatorStatus</key>
+	<string>labelTierStatus</string>
+	<key>errorVersusFunction</key>
+	<string>requestCompositeOrientation</string>
+	<key>handlerWithoutFacade</key>
+	<string>switchObserverInteraction</string>
+	<key>lazyStampContrast</key>
+	<string>previewCompositeDelay</string>
+	<key>modulusVisitorValidation</key>
+	<string>intuitiveEqualizationAlignment</string>
+	<key>vectorPlatformDistance</key>
+	<string>localTopicShape</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectStageType</key>
+	<string>coordinatorFacadeSaturation</string>
+	<key>challengeAtStage</key>
+	<string>disabledApertureDuration</string>
+	<key>navigatorSystemSpeed</key>
+	<string>vectorWorkDepth</string>
+	<key>notifierTaskDirection</key>
+	<string>fragmentOfShape</string>
+	<key>painterBufferFrequency</key>
+	<string>zoneThanScope</string>
+	<key>rectOfCommand</key>
+	<string>popupSinceShape</string>
+	<key>threadTempleTension</key>
+	<string>columnParameterDirection</string>
+	<key>viewFunctionHue</key>
+	<string>titleCommandFlags</string>
+</dict>
+</plist>

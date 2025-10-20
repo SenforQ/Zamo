@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveNavigationBehavior</key>
+	<string>semanticsOperationDelay</string>
+	<key>directSceneOrigin</key>
+	<string>controllerOrAction</string>
+	<key>exponentModeFormat</key>
+	<string>concurrentCollectionResponse</string>
+	<key>gramMementoInset</key>
+	<string>sliderVarTint</string>
+	<key>listviewOutsideCycle</key>
+	<string>eventAtDecorator</string>
+	<key>permissiveSpecifierPressure</key>
+	<string>denseLogRotation</string>
+	<key>resilientCanvasTension</key>
+	<string>responseNumberCoord</string>
+</dict>
+</plist>

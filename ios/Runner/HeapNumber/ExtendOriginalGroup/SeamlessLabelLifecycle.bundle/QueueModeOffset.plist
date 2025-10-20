@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetTempleAcceleration</key>
+	<string>bufferInsideStage</string>
+	<key>binaryAtFunction</key>
+	<string>allocatorNearBuffer</string>
+	<key>cubitOutsideState</key>
+	<string>gestureSinceTemple</string>
+	<key>effectParameterTag</key>
+	<string>specifyCompositionOrientation</string>
+	<key>missedBorderTint</key>
+	<string>granularInstructionStyle</string>
+</dict>
+</plist>

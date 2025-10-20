@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateDespiteCycle</key>
+	<string>mediaAndProxy</string>
+	<key>gestureDespiteDecorator</key>
+	<string>taskBridgeCenter</string>
+	<key>intensityAlongType</key>
+	<string>stampExceptNumber</string>
+	<key>observerChainFormat</key>
+	<string>anchorInStructure</string>
+	<key>signDespitePattern</key>
+	<string>consumerInCycle</string>
+</dict>
+</plist>

@@ -122,7 +122,7 @@ class VipSubscriptionService {
         subtitle: 'Per month',
         price: 49.99,
         currency: '\$',
-        productId: 'ZamoMonthVIP',
+        productId: 'Subsweete3_29',
         isMostPopular: false,
       ),
     ];

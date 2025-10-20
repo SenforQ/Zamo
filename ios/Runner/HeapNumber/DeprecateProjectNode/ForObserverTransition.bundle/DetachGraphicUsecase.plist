@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerExceptAction</key>
+	<string>catalystAtParameter</string>
+	<key>routeOfSystem</key>
+	<string>sequentialNormSpacing</string>
+	<key>sliderVariableFormat</key>
+	<string>scaffoldAwayMediator</string>
+	<key>unsortedVectorOrientation</key>
+	<string>unaryVersusValue</string>
+</dict>
+</plist>

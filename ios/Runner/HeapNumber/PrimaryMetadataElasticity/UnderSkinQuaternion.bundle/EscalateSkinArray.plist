@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelPerComposite</key>
+	<string>intuitiveLoopFeedback</string>
+	<key>collectionDecoratorSkewx</key>
+	<string>projectionFlyweightSaturation</string>
+	<key>commandFlyweightOpacity</key>
+	<string>relationalCallbackBehavior</string>
+	<key>cupertinoHistogramResponse</key>
+	<string>configurationSingletonDelay</string>
+	<key>enabledQueryLocation</key>
+	<string>textfieldInterpreterVisible</string>
+	<key>queueFormLocation</key>
+	<string>gridStateValidation</string>
+	<key>responsiveCatalystOrigin</key>
+	<string>metadataWithNumber</string>
+	<key>toolAroundLayer</key>
+	<string>entityThanSingleton</string>
+</dict>
+</plist>

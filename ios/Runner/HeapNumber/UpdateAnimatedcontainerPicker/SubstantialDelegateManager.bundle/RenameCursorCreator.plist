@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryCycleColor</key>
+	<string>immutableStateTint</string>
+	<key>cartesianStorageAppearance</key>
+	<string>scrollableRowScale</string>
+	<key>draggableNotifierAcceleration</key>
+	<string>exponentOfVariable</string>
+	<key>tappableEventPadding</key>
+	<string>missionByCommand</string>
+	<key>usedGroupTransparency</key>
+	<string>directRequestShape</string>
+</dict>
+</plist>

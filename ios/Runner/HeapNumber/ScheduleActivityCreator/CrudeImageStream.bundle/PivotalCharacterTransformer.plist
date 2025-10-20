@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseWithoutMode</key>
+	<string>independentDocumentRate</string>
+	<key>ignoredControllerVelocity</key>
+	<string>equipmentLevelTheme</string>
+	<key>inheritedStoreOffset</key>
+	<string>parallelSignVisible</string>
+	<key>lastUtilIndex</key>
+	<string>activeMapFlags</string>
+	<key>layerStructureAcceleration</key>
+	<string>curveWithoutInterpreter</string>
+	<key>mediocreAnimationAcceleration</key>
+	<string>ignoredEffectFrequency</string>
+	<key>particleActivityForce</key>
+	<string>concurrentColumnVelocity</string>
+	<key>resolverVersusStrategy</key>
+	<string>requestScopeTail</string>
+	<key>sinkEnvironmentBehavior</key>
+	<string>granularConfigurationTheme</string>
+</dict>
+</plist>

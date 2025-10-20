@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultCurveMargin</key>
+	<string>standaloneDurationBottom</string>
+	<key>errorAlongParam</key>
+	<string>immediateTweenTransparency</string>
+	<key>granularTweenTail</key>
+	<string>masterModeShade</string>
+	<key>storeWithFacade</key>
+	<string>unactivatedProviderOrigin</string>
+	<key>taskProxyMode</key>
+	<string>providerShapeVisibility</string>
+</dict>
+</plist>

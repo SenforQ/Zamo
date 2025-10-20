@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionStageCoord</key>
+	<string>labelStageTag</string>
+	<key>deferredPageviewStatus</key>
+	<string>publicEffectVisibility</string>
+	<key>operationInProxy</key>
+	<string>exceptionVarValidation</string>
+	<key>unsortedFlexFeedback</key>
+	<string>visibleResponseRate</string>
+</dict>
+</plist>

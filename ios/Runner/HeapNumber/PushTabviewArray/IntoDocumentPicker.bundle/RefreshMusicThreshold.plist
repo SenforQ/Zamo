@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentFacadeTransparency</key>
+	<string>activatedViewSkewx</string>
+	<key>frameViaOperation</key>
+	<string>controllerProxyName</string>
+	<key>interactorSinceMethod</key>
+	<string>storeWithContext</string>
+	<key>uniformButtonCenter</key>
+	<string>pivotalColumnLeft</string>
+</dict>
+</plist>

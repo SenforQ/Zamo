@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinePatternEdge</key>
+	<string>constraintWithCycle</string>
+	<key>binaryAgainstMethod</key>
+	<string>specifierAwayMode</string>
+	<key>contractionActionShape</key>
+	<string>widgetTierShape</string>
+	<key>hierarchicalModelKind</key>
+	<string>tangentStrategyContrast</string>
+	<key>listenerOutsideEnvironment</key>
+	<string>materialSymbolForce</string>
+	<key>textDespiteShape</key>
+	<string>sceneStructureTransparency</string>
+</dict>
+</plist>

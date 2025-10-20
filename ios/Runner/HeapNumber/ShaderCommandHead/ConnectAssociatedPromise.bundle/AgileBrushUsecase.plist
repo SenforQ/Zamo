@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticUtilOffset</key>
+	<string>ignoredErrorShade</string>
+	<key>dialogsAdapterHead</key>
+	<string>pinchableFrameMode</string>
+	<key>flexibleHandlerTheme</key>
+	<string>dedicatedQueueFlags</string>
+	<key>relationalAspectTheme</key>
+	<string>baselineDecoratorInset</string>
+	<key>slashAroundParameter</key>
+	<string>capacitiesViaNumber</string>
+</dict>
+</plist>

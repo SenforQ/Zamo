@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeNavigatorLocation</key>
+	<string>firstRichtextValidation</string>
+	<key>futureFunctionTransparency</key>
+	<string>navigatorWithoutBuffer</string>
+	<key>gramDuringCommand</key>
+	<string>responseSingletonVelocity</string>
+	<key>immutableIsolateShade</key>
+	<string>clipperInsideShape</string>
+	<key>resilientCallbackMargin</key>
+	<string>resourceBeyondStructure</string>
+	<key>routeStrategyIndex</key>
+	<string>scrollableMonsterBorder</string>
+	<key>singleButtonHue</key>
+	<string>radiusAroundState</string>
+	<key>statelessAmongAction</key>
+	<string>richtextFromProxy</string>
+	<key>synchronousDelegateDuration</key>
+	<string>frameAmongDecorator</string>
+	<key>textNearJob</key>
+	<string>listviewAtAction</string>
+</dict>
+</plist>

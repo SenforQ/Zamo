@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerSystemBehavior</key>
+	<string>queueProxyOpacity</string>
+	<key>greatEntityDirection</key>
+	<string>queueAgainstFramework</string>
+	<key>significantIsolateColor</key>
+	<string>buttonCommandInteraction</string>
+	<key>singletonNearCommand</key>
+	<string>injectionByCommand</string>
+	<key>uniformRiverpodVisibility</key>
+	<string>convolutionOperationSpacing</string>
+	<key>vectorWorkHead</key>
+	<string>exponentInsideParam</string>
+</dict>
+</plist>

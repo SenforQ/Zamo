@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertPhaseRotation</key>
+	<string>interactiveBitrateAcceleration</string>
+	<key>exceptionObserverBehavior</key>
+	<string>easyFeatureInterval</string>
+	<key>mainLabelName</key>
+	<string>directListenerInteraction</string>
+	<key>routeExceptStyle</key>
+	<string>finalBuilderState</string>
+</dict>
+</plist>

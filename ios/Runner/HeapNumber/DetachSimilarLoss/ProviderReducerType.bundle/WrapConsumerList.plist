@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateVersusProxy</key>
+	<string>tensorTextSize</string>
+	<key>eagerHashIndex</key>
+	<string>euclideanMapVisibility</string>
+	<key>remainderAroundChain</key>
+	<string>listviewProcessMargin</string>
+	<key>taskSystemTag</key>
+	<string>titleFormSpacing</string>
+</dict>
+</plist>

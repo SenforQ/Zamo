@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncRowSize</key>
+	<string>tappableButtonTail</string>
+	<key>awaitAroundStage</key>
+	<string>advancedInkwellType</string>
+	<key>chapterBridgeDepth</key>
+	<string>vectorPatternInset</string>
+	<key>completerThanNumber</key>
+	<string>temporaryQueuePadding</string>
+	<key>frameOfLevel</key>
+	<string>threadFunctionInset</string>
+	<key>statelessDescriptorRight</key>
+	<string>musicAsMode</string>
+</dict>
+</plist>

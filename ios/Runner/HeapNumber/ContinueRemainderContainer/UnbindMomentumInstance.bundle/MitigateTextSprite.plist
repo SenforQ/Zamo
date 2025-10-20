@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationParamOpacity</key>
+	<string>commonTextfieldVisible</string>
+	<key>directlyScaleInteraction</key>
+	<string>seamlessPreviewIndex</string>
+	<key>graphFacadeFeedback</key>
+	<string>subpixelPerSingleton</string>
+	<key>inheritedLayoutSkewx</key>
+	<string>mediocrePositionDirection</string>
+	<key>radiusTaskRotation</key>
+	<string>customWorkflowBound</string>
+	<key>stateVersusProxy</key>
+	<string>ephemeralUsagePosition</string>
+	<key>symmetricCharacterBottom</key>
+	<string>providerMementoTag</string>
+	<key>taskInsideAdapter</key>
+	<string>durationWithoutComposite</string>
+</dict>
+</plist>

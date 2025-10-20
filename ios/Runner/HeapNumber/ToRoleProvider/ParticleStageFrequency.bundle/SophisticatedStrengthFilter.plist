@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectPlatformBound</key>
+	<string>progressbarVariableHue</string>
+	<key>bulletVersusTask</key>
+	<string>tabviewVarDuration</string>
+	<key>navigationFormFeedback</key>
+	<string>usedAspectratioDuration</string>
+	<key>statelessHeapFeedback</key>
+	<string>builderAboutForm</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerKindState</key>
+	<string>batchTaskVisibility</string>
+	<key>grainLayerOrientation</key>
+	<string>particleViaOperation</string>
+	<key>heapInterpreterFrequency</key>
+	<string>blocDuringComposite</string>
+	<key>instructionInterpreterFormat</key>
+	<string>entityDuringVariable</string>
+	<key>listenerJobDelay</key>
+	<string>publicMonsterSkewx</string>
+	<key>resultModeDistance</key>
+	<string>layoutFlyweightOffset</string>
+	<key>singletonAboutTask</key>
+	<string>paddingParameterBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelFromShape</key>
+	<string>buttonViaActivity</string>
+	<key>errorAgainstMethod</key>
+	<string>queueVersusCommand</string>
+	<key>extensionStateBehavior</key>
+	<string>specifyPainterShape</string>
+	<key>storageProcessValidation</key>
+	<string>invisibleTaskFormat</string>
+	<key>toolFromFlyweight</key>
+	<string>precisionAndProxy</string>
+</dict>
+</plist>

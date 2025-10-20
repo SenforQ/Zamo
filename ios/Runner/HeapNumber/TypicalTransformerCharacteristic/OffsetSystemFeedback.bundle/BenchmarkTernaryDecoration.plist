@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicCommandBorder</key>
+	<string>positionTierFormat</string>
+	<key>previewUntilState</key>
+	<string>sliderPerKind</string>
+	<key>zoneCompositeSpeed</key>
+	<string>documentLikeCommand</string>
+</dict>
+</plist>

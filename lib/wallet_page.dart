@@ -546,6 +546,14 @@ class _WalletPageState extends State<WalletPage> {
   }
 
   void _onProductSelected(CoinProduct product) {
+    // 更新选中的产品索引
+    final productIndex = kCoinProducts.indexWhere((p) => p.productId == product.productId);
+    if (productIndex != -1) {
+      setState(() {
+        _selectedIndex = productIndex;
+      });
+    }
+    
     // 显示确认对话框
     showDialog(
       context: context,

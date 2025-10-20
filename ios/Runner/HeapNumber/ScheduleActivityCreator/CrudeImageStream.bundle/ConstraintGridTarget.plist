@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedIndicatorVisible</key>
+	<string>frameFacadeLeft</string>
+	<key>discardedUsecaseTag</key>
+	<string>resizableSkirtOrientation</string>
+	<key>inkwellExceptCommand</key>
+	<string>ignoredCardInterval</string>
+	<key>keyRemainderMomentum</key>
+	<string>allocatorProxyLocation</string>
+	<key>reactiveFutureSkewx</key>
+	<string>cubitBufferTag</string>
+</dict>
+</plist>

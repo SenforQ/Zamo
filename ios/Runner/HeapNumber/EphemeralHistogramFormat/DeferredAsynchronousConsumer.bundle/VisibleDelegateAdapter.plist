@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerWorkFlags</key>
+	<string>dialogsFlyweightResponse</string>
+	<key>declarativeCommandRotation</key>
+	<string>layoutOrDecorator</string>
+	<key>equalizationPatternSaturation</key>
+	<string>statefulTaskDirection</string>
+	<key>flexibleEventDirection</key>
+	<string>radiusFromLayer</string>
+	<key>missedPreviewOpacity</key>
+	<string>cubeLayerHead</string>
+	<key>nativeIsolateOrientation</key>
+	<string>touchBesideStructure</string>
+	<key>particleViaLayer</key>
+	<string>serviceWorkTail</string>
+	<key>radiusCycleRotation</key>
+	<string>liteCosinePadding</string>
+	<key>sortedTextHue</key>
+	<string>consumerDespiteStructure</string>
+</dict>
+</plist>

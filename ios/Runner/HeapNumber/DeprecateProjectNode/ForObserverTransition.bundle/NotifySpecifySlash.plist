@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStreamStyle</key>
+	<string>sinkStageTail</string>
+	<key>contractionCycleHue</key>
+	<string>nativeHeroTheme</string>
+	<key>factoryInShape</key>
+	<string>toolJobFeedback</string>
+	<key>painterCompositeDensity</key>
+	<string>storeActivityFrequency</string>
+	<key>pivotalMonsterTail</key>
+	<string>flexiblePaddingEdge</string>
+	<key>transitionForObserver</key>
+	<string>configurationProcessVelocity</string>
+	<key>variantSystemKind</key>
+	<string>lastPopupMargin</string>
+</dict>
+</plist>

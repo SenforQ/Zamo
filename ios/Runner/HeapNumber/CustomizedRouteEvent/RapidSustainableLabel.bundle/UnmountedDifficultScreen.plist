@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAgainstAction</key>
+	<string>reducerVersusMethod</string>
+	<key>deferredMovementEdge</key>
+	<string>relationalAsyncName</string>
+	<key>grainParamSkewx</key>
+	<string>backwardOperationSpeed</string>
+	<key>progressbarActivityCount</key>
+	<string>reductionProxyLocation</string>
+	<key>resourcePhaseDensity</key>
+	<string>displayableAppbarOpacity</string>
+	<key>taskWithoutShape</key>
+	<string>buttonWithoutParameter</string>
+</dict>
+</plist>

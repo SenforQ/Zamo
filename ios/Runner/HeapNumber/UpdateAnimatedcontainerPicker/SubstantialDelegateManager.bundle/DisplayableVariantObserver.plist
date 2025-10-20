@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialMovementBehavior</key>
+	<string>listenerWithoutMethod</string>
+	<key>elasticViewMode</key>
+	<string>ignoredStreamResponse</string>
+	<key>isolateIncludeMethod</key>
+	<string>featureForStrategy</string>
+	<key>logarithmByFunction</key>
+	<string>deferredSegmentLocation</string>
+	<key>matrixPerVariable</key>
+	<string>opaqueDelegateTint</string>
+	<key>permissiveGateHue</key>
+	<string>sliderPatternStyle</string>
+	<key>sensorMethodVisible</key>
+	<string>toolAlongTask</string>
+	<key>tappableSpineTransparency</key>
+	<string>sessionActionFrequency</string>
+</dict>
+</plist>

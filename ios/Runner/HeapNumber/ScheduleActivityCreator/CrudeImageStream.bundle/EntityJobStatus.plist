@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetNearLevel</key>
+	<string>largeQueueTop</string>
+	<key>blocVersusPrototype</key>
+	<string>interactiveSizedboxFormat</string>
+	<key>durationDuringAction</key>
+	<string>durationTierOffset</string>
+	<key>extensionPhaseShape</key>
+	<string>interpolationAndOperation</string>
+	<key>gradientSystemVelocity</key>
+	<string>groupPerStrategy</string>
+</dict>
+</plist>

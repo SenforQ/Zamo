@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionExceptAction</key>
+	<string>interactorContainComposite</string>
+	<key>permanentButtonRotation</key>
+	<string>buttonTempleKind</string>
+	<key>similarMetadataHead</key>
+	<string>controllerNumberVelocity</string>
+	<key>sizeStateBottom</key>
+	<string>diffableAnimationPosition</string>
+</dict>
+</plist>

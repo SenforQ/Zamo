@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGridFlags</key>
+	<string>typicalServiceTransparency</string>
+	<key>awaitStrategyAppearance</key>
+	<string>ephemeralResolverResponse</string>
+	<key>chapterFromWork</key>
+	<string>sequentialToolMode</string>
+	<key>cupertinoUntilParameter</key>
+	<string>canvasPhaseBrightness</string>
+	<key>multiLabelOrientation</key>
+	<string>missionAdapterKind</string>
+	<key>pointStateTransparency</key>
+	<string>accessibleTweenType</string>
+	<key>stackFacadeBehavior</key>
+	<string>aspectratioWorkTail</string>
+</dict>
+</plist>

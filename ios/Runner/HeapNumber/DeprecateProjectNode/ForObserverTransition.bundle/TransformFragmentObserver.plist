@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constCosineInterval</key>
+	<string>completerJobOrigin</string>
+	<key>fusedNormAcceleration</key>
+	<string>priorThreadSize</string>
+	<key>hashTaskFlags</key>
+	<string>iterativeExtensionPadding</string>
+	<key>menuByAction</key>
+	<string>injectionContextDistance</string>
+	<key>observerAroundComposite</key>
+	<string>easyNibBorder</string>
+</dict>
+</plist>

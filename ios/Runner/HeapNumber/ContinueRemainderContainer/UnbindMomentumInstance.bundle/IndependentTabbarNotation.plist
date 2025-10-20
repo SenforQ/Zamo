@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCubitLocation</key>
+	<string>prevSpineBehavior</string>
+	<key>hierarchicalTickerType</key>
+	<string>requestPatternCenter</string>
+	<key>scaffoldShapeFeedback</key>
+	<string>statelessFormState</string>
+	<key>signMediatorForce</key>
+	<string>streamMediatorInset</string>
+	<key>significantMonsterBorder</key>
+	<string>actionContainMediator</string>
+	<key>uniqueSizedboxHead</key>
+	<string>buttonIncludeMediator</string>
+</dict>
+</plist>

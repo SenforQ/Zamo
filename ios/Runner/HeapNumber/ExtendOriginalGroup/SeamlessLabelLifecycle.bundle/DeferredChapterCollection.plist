@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryBufferValidation</key>
+	<string>binaryStructureStyle</string>
+	<key>catalystStyleLeft</key>
+	<string>methodContextAppearance</string>
+	<key>concurrentGesturedetectorCoord</key>
+	<string>bufferFromSystem</string>
+	<key>customBlocBorder</key>
+	<string>descriptionAlongMediator</string>
+	<key>ignoredRowVelocity</key>
+	<string>consumerAgainstDecorator</string>
+	<key>methodParameterScale</key>
+	<string>positionBridgeFormat</string>
+	<key>publicDurationBehavior</key>
+	<string>alphaFromValue</string>
+	<key>routerTaskInteraction</key>
+	<string>textureByVisitor</string>
+	<key>usecaseBufferTag</key>
+	<string>reducerContainVar</string>
+	<key>variantThroughChain</key>
+	<string>decorationAtObserver</string>
+</dict>
+</plist>

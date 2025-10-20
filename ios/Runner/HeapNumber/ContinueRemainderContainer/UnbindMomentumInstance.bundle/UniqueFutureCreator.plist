@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBufferTheme</key>
+	<string>painterAgainstDecorator</string>
+	<key>containerAroundBuffer</key>
+	<string>specifyInterfaceEdge</string>
+	<key>gradientKindAcceleration</key>
+	<string>signEnvironmentMomentum</string>
+	<key>groupProxyVisibility</key>
+	<string>resilientUtilSpacing</string>
+	<key>histogramAsFacade</key>
+	<string>overlayAmongProcess</string>
+	<key>interactorAsObserver</key>
+	<string>alertStateAppearance</string>
+	<key>operationWithoutOperation</key>
+	<string>framePerChain</string>
+</dict>
+</plist>

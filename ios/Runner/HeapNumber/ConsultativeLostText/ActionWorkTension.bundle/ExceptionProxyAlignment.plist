@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferBesideStyle</key>
+	<string>multiLabelTransparency</string>
+	<key>featurePhaseStyle</key>
+	<string>progressbarShapeDuration</string>
+	<key>fusedTaskAlignment</key>
+	<string>desktopUsageSaturation</string>
+	<key>gramAtWork</key>
+	<string>fusedRemainderRate</string>
+	<key>mediaLayerAcceleration</key>
+	<string>crudeQueueSpeed</string>
+	<key>parallelQueueSpeed</key>
+	<string>advancedRectDuration</string>
+	<key>repositoryAroundPattern</key>
+	<string>mapThroughStage</string>
+	<key>uniformFrameAlignment</key>
+	<string>intermediateLayoutKind</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupAroundEnvironment</key>
+	<string>signatureTaskLocation</string>
+	<key>seamlessNavigatorLocation</key>
+	<string>overlayInsideLevel</string>
+	<key>servicePatternForce</key>
+	<string>semanticShaderFeedback</string>
+	<key>tensorObserverTint</key>
+	<string>permanentHeroCoord</string>
+	<key>visibleCompleterForce</key>
+	<string>threadOutsideWork</string>
+</dict>
+</plist>

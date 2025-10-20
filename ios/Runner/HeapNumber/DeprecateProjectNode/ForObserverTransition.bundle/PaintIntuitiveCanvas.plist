@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>methodContainTier</key>
+	<string>autoLayerTint</string>
+	<key>protectedCoordinatorLocation</key>
+	<string>explicitViewLocation</string>
+	<key>remainderBufferResponse</key>
+	<string>toolActivityCoord</string>
+	<key>sliderStateTheme</key>
+	<string>titleAboutPlatform</string>
+	<key>themeContainTier</key>
+	<string>multiplicationPlatformScale</string>
+</dict>
+</plist>

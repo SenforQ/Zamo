@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedTextAppearance</key>
+	<string>titleTaskTransparency</string>
+	<key>difficultRoleHue</key>
+	<string>musicExceptVar</string>
+	<key>exceptionParameterSize</key>
+	<string>actionSingletonHue</string>
+	<key>methodTypeStatus</key>
+	<string>segueSingletonColor</string>
+	<key>transitionEnvironmentCount</key>
+	<string>activityAroundStyle</string>
+</dict>
+</plist>

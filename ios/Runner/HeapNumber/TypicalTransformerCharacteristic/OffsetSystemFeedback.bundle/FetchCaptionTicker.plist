@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentAgainstFramework</key>
+	<string>boxSystemVelocity</string>
+	<key>heapPhaseDensity</key>
+	<string>imperativeConvolutionVisible</string>
+	<key>permissiveCatalystValidation</key>
+	<string>alignmentDespiteEnvironment</string>
+	<key>profileBeyondContext</key>
+	<string>imperativeMethodAlignment</string>
+	<key>respectiveBinaryResponse</key>
+	<string>statelessMediaqueryVelocity</string>
+	<key>sceneContainComposite</key>
+	<string>spineFromStage</string>
+	<key>sceneForParameter</key>
+	<string>sortedVectorContrast</string>
+	<key>singletonVersusValue</key>
+	<string>basicPreviewAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanTimerEdge</key>
+	<string>particleInVisitor</string>
+	<key>menuOfFlyweight</key>
+	<string>marginMediatorCenter</string>
+	<key>mobxLikeKind</key>
+	<string>configurationThroughBuffer</string>
+	<key>primarySubscriptionAlignment</key>
+	<string>largeObserverTransparency</string>
+	<key>queueModeIndex</key>
+	<string>uniformUsecaseBound</string>
+	<key>sliderParamIndex</key>
+	<string>serviceAroundStyle</string>
+	<key>uniformEffectTheme</key>
+	<string>modalWithParameter</string>
+</dict>
+</plist>

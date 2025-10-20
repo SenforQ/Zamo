@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyActionShade</key>
+	<string>activatedTimerBehavior</string>
+	<key>euclideanGestureDirection</key>
+	<string>prevAspectKind</string>
+	<key>factoryInVar</key>
+	<string>overlayPlatformDistance</string>
+	<key>indicatorBeyondCommand</key>
+	<string>curveSingletonColor</string>
+	<key>methodBeyondPlatform</key>
+	<string>navigationNumberLocation</string>
+	<key>rowContainType</key>
+	<string>mediocreTaskDistance</string>
+</dict>
+</plist>

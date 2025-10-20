@@ -47,7 +47,7 @@ class _WelcomePageState extends State<WelcomePage> {
                 SizedBox(height: screenSize.height * 0.15),
                 
                 // 中间留白
-                SizedBox(height: screenSize.height * 0.6),
+                SizedBox(height: screenSize.height * 0.55),
 
                 // 底部按钮和协议
                 Padding(
@@ -122,7 +122,7 @@ class _WelcomePageState extends State<WelcomePage> {
                               text: TextSpan(
                                 style: const TextStyle(
                                   color: Colors.white,
-                                  fontSize: 14,
+                                  fontSize: 12,
                                 ),
                                 children: [
                                   const TextSpan(text: 'I have read and agree '),
@@ -141,7 +141,7 @@ class _WelcomePageState extends State<WelcomePage> {
                                         'Terms of Service',
                                         style: TextStyle(
                                           color: Colors.white,
-                                          fontSize: 14,
+                                          fontSize: 12,
                                           decoration: TextDecoration.underline,
                                         ),
                                       ),
@@ -163,7 +163,7 @@ class _WelcomePageState extends State<WelcomePage> {
                                         'Privacy Policy',
                                         style: TextStyle(
                                           color: Colors.white,
-                                          fontSize: 14,
+                                          fontSize: 12,
                                           decoration: TextDecoration.underline,
                                         ),
                                       ),
@@ -173,6 +173,8 @@ class _WelcomePageState extends State<WelcomePage> {
                               ),
                             ),
                           ),
+
+                          const SizedBox(width: 12),
                         ],
                       ),
                     ],

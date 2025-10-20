@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheIncludeMode</key>
+	<string>signatureOutsideProxy</string>
+	<key>injectionAroundMethod</key>
+	<string>hardInstructionTop</string>
+	<key>layerTierRotation</key>
+	<string>durationNumberPosition</string>
+</dict>
+</plist>

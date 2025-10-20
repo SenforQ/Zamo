@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTransitionTag</key>
+	<string>permissivePaddingVisibility</string>
+	<key>effectStructureVisibility</key>
+	<string>composableAssetDensity</string>
+	<key>finalNotifierTint</key>
+	<string>semanticChecklistType</string>
+	<key>integerTaskVisible</key>
+	<string>criticalQueueDelay</string>
+	<key>layoutViaComposite</key>
+	<string>pivotalFrameForce</string>
+	<key>mobileSinceParameter</key>
+	<string>playbackVarTheme</string>
+	<key>overlayPlatformState</key>
+	<string>positionContainProcess</string>
+	<key>publicDrawerValidation</key>
+	<string>sequentialFeatureRotation</string>
+	<key>stampInPattern</key>
+	<string>usecaseOfAction</string>
+	<key>tensorProviderAlignment</key>
+	<string>projectForSystem</string>
+</dict>
+</plist>

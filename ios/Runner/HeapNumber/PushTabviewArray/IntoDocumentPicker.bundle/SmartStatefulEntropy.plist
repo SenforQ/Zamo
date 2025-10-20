@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>methodFormValidation</key>
+	<string>spriteAsFacade</string>
+	<key>newestInterfaceLocation</key>
+	<string>serviceAgainstTask</string>
+	<key>previewExceptAdapter</key>
+	<string>pointProcessDirection</string>
+	<key>queryChainVisible</key>
+	<string>parallelGestureDepth</string>
+	<key>robustQueryVisible</key>
+	<string>interpolationKindDensity</string>
+	<key>sliderSystemContrast</key>
+	<string>customWidgetBound</string>
+	<key>switchAboutSystem</key>
+	<string>reducerThanFacade</string>
+	<key>temporaryConfigurationColor</key>
+	<string>secondModulusRight</string>
+</dict>
+</plist>

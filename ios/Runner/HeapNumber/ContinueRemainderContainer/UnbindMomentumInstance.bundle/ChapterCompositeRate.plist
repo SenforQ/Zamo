@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCompleterMargin</key>
+	<string>completerOrState</string>
+	<key>drawerVarStyle</key>
+	<string>layoutAgainstChain</string>
+	<key>indicatorDespiteCycle</key>
+	<string>activityFunctionSkewx</string>
+	<key>monsterModeLocation</key>
+	<string>projectStyleCount</string>
+	<key>retainedCurveSize</key>
+	<string>nodeWithoutVisitor</string>
+</dict>
+</plist>

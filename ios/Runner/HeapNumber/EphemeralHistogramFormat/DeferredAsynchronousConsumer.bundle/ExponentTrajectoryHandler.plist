@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureSinceStrategy</key>
+	<string>bufferVisitorFormat</string>
+	<key>scaffoldPhaseFrequency</key>
+	<string>reducerParameterShape</string>
+	<key>smartButtonRotation</key>
+	<string>prismaticProfileDirection</string>
+	<key>tappableTransformerLeft</key>
+	<string>concreteDelegateTheme</string>
+</dict>
+</plist>

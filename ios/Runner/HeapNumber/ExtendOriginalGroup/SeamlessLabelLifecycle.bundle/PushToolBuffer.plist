@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateScopeSize</key>
+	<string>compositionalQueueFeedback</string>
+	<key>containerContextKind</key>
+	<string>shaderAtFunction</string>
+	<key>dependencyDuringActivity</key>
+	<string>providerUntilMode</string>
+	<key>eventDespitePrototype</key>
+	<string>managerLikePrototype</string>
+	<key>keyCardState</key>
+	<string>activeRectLeft</string>
+	<key>mediaqueryWorkInteraction</key>
+	<string>constraintVisitorRate</string>
+	<key>scrollCommandVelocity</key>
+	<string>scrollableLayoutSize</string>
+	<key>sharedRouteOpacity</key>
+	<string>beginnerImageTag</string>
+	<key>stateFormForce</key>
+	<string>routerInterpreterCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionObserverBorder</key>
+	<string>projectionFromStyle</string>
+	<key>paddingLayerResponse</key>
+	<string>durationChainResponse</string>
+	<key>pageviewStrategyState</key>
+	<string>referenceInsideValue</string>
+	<key>rowAlongMode</key>
+	<string>methodDuringAction</string>
+</dict>
+</plist>

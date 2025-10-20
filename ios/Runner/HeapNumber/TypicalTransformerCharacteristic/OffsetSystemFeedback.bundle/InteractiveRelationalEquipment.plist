@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseSensorMode</key>
+	<string>referenceAtVariable</string>
+	<key>disparateSemanticsAcceleration</key>
+	<string>sophisticatedPriorityVisibility</string>
+	<key>grainDecoratorEdge</key>
+	<string>similarCurveInterval</string>
+	<key>logVersusProcess</key>
+	<string>binaryStructureFrequency</string>
+	<key>popupWithoutJob</key>
+	<string>featureWithStrategy</string>
+</dict>
+</plist>

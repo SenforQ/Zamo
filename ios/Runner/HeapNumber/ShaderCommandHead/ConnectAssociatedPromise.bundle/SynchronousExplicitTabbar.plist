@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionWithoutSingleton</key>
+	<string>routerAroundAction</string>
+	<key>mainKernelBound</key>
+	<string>globalTaskMargin</string>
+	<key>observerWorkResponse</key>
+	<string>protectedEventRate</string>
+	<key>progressbarByFacade</key>
+	<string>cupertinoStatelessIndex</string>
+	<key>requestDecoratorCount</key>
+	<string>listviewPhaseContrast</string>
+	<key>requestExceptShape</key>
+	<string>configurationScopeFlags</string>
+</dict>
+</plist>

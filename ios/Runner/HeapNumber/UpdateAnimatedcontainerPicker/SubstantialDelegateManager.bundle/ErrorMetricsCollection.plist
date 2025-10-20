@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectActionDensity</key>
+	<string>smartLoopTransparency</string>
+	<key>callbackUntilFramework</key>
+	<string>concurrentNavigatorOrigin</string>
+	<key>dependencyChainBottom</key>
+	<string>cacheBridgeLocation</string>
+	<key>dropdownbuttonDuringForm</key>
+	<string>zoneDuringContext</string>
+	<key>euclideanTimerDensity</key>
+	<string>constWidgetShape</string>
+	<key>immutableConstraintBottom</key>
+	<string>logarithmBesideScope</string>
+	<key>riverpodInterpreterDistance</key>
+	<string>customTaskDensity</string>
+	<key>serviceAdapterForce</key>
+	<string>labelEnvironmentTheme</string>
+</dict>
+</plist>

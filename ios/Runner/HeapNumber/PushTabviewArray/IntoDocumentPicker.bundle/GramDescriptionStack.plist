@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerWithoutPlatform</key>
+	<string>equipmentAtObserver</string>
+	<key>curvePhaseDirection</key>
+	<string>reactiveGrainHead</string>
+	<key>diversifiedRadiusHue</key>
+	<string>intuitiveOverlayTint</string>
+	<key>errorLevelDelay</key>
+	<string>resourceOutsideVar</string>
+	<key>lossTemplePressure</key>
+	<string>precisionWithMemento</string>
+	<key>previewPatternOpacity</key>
+	<string>textureOrDecorator</string>
+	<key>semanticMatrixPadding</key>
+	<string>observerStrategyInset</string>
+	<key>usecaseStructureVisibility</key>
+	<string>modalForActivity</string>
+	<key>widgetContextOrigin</key>
+	<string>sliderStateOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystByKind</key>
+	<string>zoneAboutWork</string>
+	<key>decorationStateFeedback</key>
+	<string>appbarParamLocation</string>
+	<key>responsiveProviderBorder</key>
+	<string>advancedStatelessOffset</string>
+	<key>smallRadiusIndex</key>
+	<string>symmetricPreviewSaturation</string>
+	<key>spriteNearActivity</key>
+	<string>resourceActionTag</string>
+	<key>stampCycleAcceleration</key>
+	<string>threadNearWork</string>
+	<key>temporaryScaffoldInset</key>
+	<string>marginPrototypeOrientation</string>
+</dict>
+</plist>

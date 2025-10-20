@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPresenterVelocity</key>
+	<string>fixedQueueAlignment</string>
+	<key>geometricMetadataSpeed</key>
+	<string>tweenBufferStyle</string>
+	<key>geometricPrioritySkewx</key>
+	<string>uniformConfigurationRotation</string>
+	<key>loopAroundState</key>
+	<string>associatedBatchFormat</string>
+	<key>requestVersusProxy</key>
+	<string>interactiveRouteMomentum</string>
+	<key>responseStylePadding</key>
+	<string>mobileGradientFrequency</string>
+	<key>taskMediatorAppearance</key>
+	<string>customScaleColor</string>
+</dict>
+</plist>

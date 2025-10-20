@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationNumberTop</key>
+	<string>builderExceptComposite</string>
+	<key>deferredAsyncDirection</key>
+	<string>otherScreenLeft</string>
+	<key>dependencyViaVisitor</key>
+	<string>injectionSinceMethod</string>
+	<key>exceptionUntilParameter</key>
+	<string>controllerAdapterFrequency</string>
+	<key>lazyAlignmentKind</key>
+	<string>particleCycleAcceleration</string>
+	<key>rectMementoDensity</key>
+	<string>histogramByTier</string>
+	<key>routeActivityMargin</key>
+	<string>commandAndShape</string>
+	<key>specifyAxisKind</key>
+	<string>navigationVersusAction</string>
+	<key>streamViaState</key>
+	<string>keyRichtextSkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedReductionDistance</key>
+	<string>topicBeyondWork</string>
+	<key>keyQueryDuration</key>
+	<string>titlePatternDuration</string>
+	<key>similarMapState</key>
+	<string>elasticAlignmentVisibility</string>
+	<key>stampFrameworkInteraction</key>
+	<string>custompaintIncludeFlyweight</string>
+	<key>sustainableRequestAcceleration</key>
+	<string>overlayAndObserver</string>
+</dict>
+</plist>

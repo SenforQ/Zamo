@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAxisType</key>
+	<string>tappablePainterTail</string>
+	<key>immediateGraphRotation</key>
+	<string>bufferPerBridge</string>
+	<key>mainSpriteVisibility</key>
+	<string>aspectAroundProxy</string>
+	<key>missionOutsideStage</key>
+	<string>interactiveFeatureScale</string>
+	<key>protectedMovementLocation</key>
+	<string>handlerAboutSystem</string>
+	<key>spotTypePosition</key>
+	<string>numericalMatrixAcceleration</string>
+	<key>staticModelTint</key>
+	<string>observerPrototypeRotation</string>
+	<key>switchDespiteShape</key>
+	<string>completionBeyondSystem</string>
+</dict>
+</plist>

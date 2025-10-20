@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionAdapterDelay</key>
+	<string>documentPatternAlignment</string>
+	<key>inheritedGraphIndex</key>
+	<string>gridviewInTier</string>
+	<key>substantialRectAlignment</key>
+	<string>dependencyAtKind</string>
+	<key>themeWorkSpacing</key>
+	<string>requestBufferTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedUtilFeedback</key>
+	<string>gridviewOfOperation</string>
+	<key>baselineAwayOperation</key>
+	<string>widgetAwayCycle</string>
+	<key>concurrentQueryDuration</key>
+	<string>containerAmongAction</string>
+	<key>gateIncludeAdapter</key>
+	<string>scrollShapeSaturation</string>
+	<key>inkwellForWork</key>
+	<string>missionContainObserver</string>
+	<key>notifierContainMode</key>
+	<string>subscriptionTierOpacity</string>
+	<key>popupAboutWork</key>
+	<string>symbolAmongPlatform</string>
+	<key>relationalTimerDistance</key>
+	<string>textureContainVariable</string>
+	<key>spotVarContrast</key>
+	<string>asyncResolverHead</string>
+</dict>
+</plist>

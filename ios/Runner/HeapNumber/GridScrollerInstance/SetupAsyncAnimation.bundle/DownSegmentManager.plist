@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonExceptProcess</key>
+	<string>constraintContainPlatform</string>
+	<key>concreteSpecifierVisibility</key>
+	<string>controllerLikeInterpreter</string>
+	<key>denseTabbarBound</key>
+	<string>pageviewActivityRate</string>
+	<key>extensionPlatformForce</key>
+	<string>activityValueCount</string>
+	<key>otherMatrixBehavior</key>
+	<string>interfaceFacadePosition</string>
+	<key>projectionCycleSpeed</key>
+	<string>draggableExtensionStatus</string>
+	<key>protectedCupertinoInset</key>
+	<string>accordionCompletionName</string>
+	<key>rowBridgeBottom</key>
+	<string>animationPerInterpreter</string>
+	<key>sineIncludeEnvironment</key>
+	<string>crudePositionSaturation</string>
+	<key>titleForObserver</key>
+	<string>hashDuringMode</string>
+</dict>
+</plist>

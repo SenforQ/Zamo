@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterBesideTier</key>
+	<string>missionAndPrototype</string>
+	<key>drawerDespiteFlyweight</key>
+	<string>primaryCheckboxStyle</string>
+	<key>fixedSemanticsOrientation</key>
+	<string>exceptionThroughVisitor</string>
+	<key>logarithmPlatformEdge</key>
+	<string>signOutsideProxy</string>
+	<key>mainTextureResponse</key>
+	<string>completerLevelCenter</string>
+	<key>modelFacadeSpacing</key>
+	<string>animatedLayoutContrast</string>
+	<key>smallPageviewAppearance</key>
+	<string>transitionWorkMargin</string>
+	<key>stateVariableSkewy</key>
+	<string>factoryStageMargin</string>
+</dict>
+</plist>

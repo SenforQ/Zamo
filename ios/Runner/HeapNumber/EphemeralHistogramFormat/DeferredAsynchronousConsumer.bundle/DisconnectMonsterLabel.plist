@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableTickerBound</key>
+	<string>matrixAndSystem</string>
+	<key>liteBrushHue</key>
+	<string>persistentRectCenter</string>
+	<key>mobileVariantShape</key>
+	<string>associatedMediaPosition</string>
+	<key>projectFunctionMode</key>
+	<string>integerOrStrategy</string>
+	<key>tabviewSystemValidation</key>
+	<string>primaryDrawerOrigin</string>
+</dict>
+</plist>

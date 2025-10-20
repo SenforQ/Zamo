@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionNearInterpreter</key>
+	<string>axisVisitorTransparency</string>
+	<key>compositionOperationTop</key>
+	<string>viewAlongFacade</string>
+	<key>gesturedetectorBeyondChain</key>
+	<string>appbarPhaseSaturation</string>
+	<key>textureMediatorOpacity</key>
+	<string>threadFacadeSkewy</string>
+</dict>
+</plist>

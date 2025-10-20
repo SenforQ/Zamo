@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBridgeDirection</key>
+	<string>layoutBeyondContext</string>
+	<key>bufferModeBehavior</key>
+	<string>storageBeyondFramework</string>
+	<key>curveWithoutFlyweight</key>
+	<string>unsortedNotifierTag</string>
+	<key>errorContainComposite</key>
+	<string>awaitAroundStage</string>
+	<key>oldSliderDepth</key>
+	<string>tableAtSystem</string>
+	<key>reactiveSampleContrast</key>
+	<string>rectAtParam</string>
+	<key>resultPhaseMargin</key>
+	<string>workflowParameterTension</string>
+	<key>synchronousIntensitySpacing</key>
+	<string>usedPaddingBound</string>
+</dict>
+</plist>

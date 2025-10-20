@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterBySystem</key>
+	<string>normObserverKind</string>
+	<key>coordinatorAdapterDelay</key>
+	<string>accessibleContainerOffset</string>
+	<key>curveScopeScale</key>
+	<string>accordionAnimationBrightness</string>
+	<key>gateBufferAcceleration</key>
+	<string>queryViaComposite</string>
+	<key>getxVisitorIndex</key>
+	<string>requiredFactoryShade</string>
+	<key>interpolationNearContext</key>
+	<string>fusedChannelRotation</string>
+	<key>richtextParameterShape</key>
+	<string>storageFormEdge</string>
+	<key>rowOperationAppearance</key>
+	<string>operationUntilKind</string>
+</dict>
+</plist>

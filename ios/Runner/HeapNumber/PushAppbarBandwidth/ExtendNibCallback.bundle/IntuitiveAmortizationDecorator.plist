@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncThroughAction</key>
+	<string>interactiveCubitCoord</string>
+	<key>blocDuringContext</key>
+	<string>stackParameterTag</string>
+	<key>crucialSliderShape</key>
+	<string>requestWorkIndex</string>
+	<key>equalizationAdapterRotation</key>
+	<string>commonStateOpacity</string>
+	<key>finalFrameAlignment</key>
+	<string>musicVisitorOrientation</string>
+	<key>graphFacadeShape</key>
+	<string>segueSingletonShade</string>
+	<key>repositoryValueFormat</key>
+	<string>blocVersusChain</string>
+	<key>spriteMethodDelay</key>
+	<string>directlyModelPadding</string>
+</dict>
+</plist>

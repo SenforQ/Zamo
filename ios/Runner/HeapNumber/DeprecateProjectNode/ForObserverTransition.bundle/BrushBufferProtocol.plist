@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pointViaComposite</key>
+	<string>explicitEventResponse</string>
+	<key>rapidContainerType</key>
+	<string>hyperbolicNodeInteraction</string>
+	<key>rectScopeMomentum</key>
+	<string>normalCapsuleCoord</string>
+	<key>tabbarPatternBottom</key>
+	<string>fragmentAsSingleton</string>
+</dict>
+</plist>

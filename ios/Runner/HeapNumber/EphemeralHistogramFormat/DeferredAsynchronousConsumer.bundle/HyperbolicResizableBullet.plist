@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBeyondContext</key>
+	<string>staticAsyncKind</string>
+	<key>backwardSignFlags</key>
+	<string>interactorDuringFlyweight</string>
+	<key>flexParamShape</key>
+	<string>newestRowMargin</string>
+	<key>lossOutsideLayer</key>
+	<string>layoutOutsideTemple</string>
+	<key>scrollableDecorationVisible</key>
+	<string>unactivatedOptionDepth</string>
+</dict>
+</plist>

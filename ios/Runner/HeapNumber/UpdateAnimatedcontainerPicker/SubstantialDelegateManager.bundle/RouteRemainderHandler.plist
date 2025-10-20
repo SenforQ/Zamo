@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGestureValidation</key>
+	<string>cycleEnvironmentDistance</string>
+	<key>entityUntilCommand</key>
+	<string>concreteAccessoryLocation</string>
+	<key>granularTextfieldCount</key>
+	<string>listviewAsTask</string>
+	<key>originalNavigatorRate</key>
+	<string>mobileProviderBrightness</string>
+	<key>popupOperationAlignment</key>
+	<string>queryMethodSkewy</string>
+	<key>referenceMediatorTransparency</key>
+	<string>asynchronousScaffoldAlignment</string>
+</dict>
+</plist>

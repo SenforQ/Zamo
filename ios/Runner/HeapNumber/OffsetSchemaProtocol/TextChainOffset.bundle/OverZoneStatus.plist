@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledTickerInset</key>
+	<string>interfaceForTemple</string>
+	<key>movementAndMode</key>
+	<string>sliderStateStyle</string>
+	<key>previewAroundPattern</key>
+	<string>smallPetRate</string>
+	<key>queryEnvironmentScale</key>
+	<string>greatRouteBrightness</string>
+	<key>queryMethodOrientation</key>
+	<string>agileLabelSize</string>
+	<key>threadShapeShade</key>
+	<string>activityAwayEnvironment</string>
+	<key>tweenAwayScope</key>
+	<string>unactivatedSliderPressure</string>
+</dict>
+</plist>

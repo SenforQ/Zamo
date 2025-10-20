@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSubscriptionPadding</key>
+	<string>intuitiveHeroTop</string>
+	<key>frameDuringFunction</key>
+	<string>providerBufferResponse</string>
+	<key>lazyStreamBottom</key>
+	<string>screenByMode</string>
+	<key>particleAlongAction</key>
+	<string>configurationInType</string>
+	<key>publicProgressbarVisibility</key>
+	<string>awaitTierLocation</string>
+	<key>smartLocalizationAppearance</key>
+	<string>responsePerAction</string>
+	<key>tangentTempleOrientation</key>
+	<string>queueAndShape</string>
+	<key>tappableInterpolationTransparency</key>
+	<string>blocAdapterScale</string>
+</dict>
+</plist>

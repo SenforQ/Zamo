@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBeyondPattern</key>
+	<string>cartesianIconLeft</string>
+	<key>isolateFunctionName</key>
+	<string>nativeCallbackRotation</string>
+	<key>priorTextColor</key>
+	<string>commonDialogsShade</string>
+	<key>storeFlyweightHead</key>
+	<string>durationDespiteLevel</string>
+</dict>
+</plist>

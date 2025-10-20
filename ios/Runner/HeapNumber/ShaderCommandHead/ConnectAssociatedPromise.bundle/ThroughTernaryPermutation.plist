@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionScopeTheme</key>
+	<string>effectPerCommand</string>
+	<key>cacheCompositeDelay</key>
+	<string>fragmentStyleFeedback</string>
+	<key>catalystInTier</key>
+	<string>reactiveDocumentTail</string>
+	<key>functionalDocumentDistance</key>
+	<string>lossWithoutStyle</string>
+	<key>listenerInsideTask</key>
+	<string>delegateAsMode</string>
+	<key>sortedEntitySize</key>
+	<string>rapidNavigatorBehavior</string>
+	<key>transformerVisitorVisibility</key>
+	<string>spritePrototypeVisible</string>
+</dict>
+</plist>

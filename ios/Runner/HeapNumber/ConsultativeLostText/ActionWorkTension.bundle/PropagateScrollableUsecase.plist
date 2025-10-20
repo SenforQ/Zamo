@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAlongTask</key>
+	<string>routeNearType</string>
+	<key>curveParamSpacing</key>
+	<string>lazyStreamPosition</string>
+	<key>deferredActivityOpacity</key>
+	<string>customPositionedSpeed</string>
+	<key>draggableStorageTension</key>
+	<string>imageExceptFlyweight</string>
+	<key>elasticEventStatus</key>
+	<string>lostContractionSkewy</string>
+	<key>functionalRadiusInteraction</key>
+	<string>histogramParameterPadding</string>
+	<key>imageExceptBuffer</key>
+	<string>sampleWithSystem</string>
+	<key>radiusNearProxy</key>
+	<string>injectionAwayBridge</string>
+</dict>
+</plist>

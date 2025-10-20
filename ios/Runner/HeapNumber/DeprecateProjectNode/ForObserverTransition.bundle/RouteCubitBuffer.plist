@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSymbolIndex</key>
+	<string>delegateExceptSystem</string>
+	<key>asyncTopicTail</key>
+	<string>respectiveSliderOrientation</string>
+	<key>currentCurveSize</key>
+	<string>zoneInsideLevel</string>
+	<key>customSkinSize</key>
+	<string>pinchableContainerTransparency</string>
+	<key>specifyCosineRotation</key>
+	<string>statelessCheckboxRotation</string>
+	<key>transitionOrOperation</key>
+	<string>mobileOutsideScope</string>
+</dict>
+</plist>

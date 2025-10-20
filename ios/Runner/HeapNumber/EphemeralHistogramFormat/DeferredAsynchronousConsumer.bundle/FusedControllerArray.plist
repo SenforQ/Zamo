@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAsAdapter</key>
+	<string>singleUsagePadding</string>
+	<key>cursorThroughParam</key>
+	<string>widgetInPattern</string>
+	<key>gridAmongVisitor</key>
+	<string>taskMethodCount</string>
+	<key>heapFlyweightAcceleration</key>
+	<string>displayableAlignmentCount</string>
+	<key>labelContextContrast</key>
+	<string>viewByContext</string>
+	<key>nodeBufferFormat</key>
+	<string>listenerCompositeForce</string>
+	<key>resourceAmongPattern</key>
+	<string>progressbarCommandCoord</string>
+	<key>riverpodBesideType</key>
+	<string>providerTierFlags</string>
+	<key>streamProxyFeedback</key>
+	<string>actionPlatformName</string>
+	<key>subscriptionAmongComposite</key>
+	<string>declarativePaddingPressure</string>
+</dict>
+</plist>

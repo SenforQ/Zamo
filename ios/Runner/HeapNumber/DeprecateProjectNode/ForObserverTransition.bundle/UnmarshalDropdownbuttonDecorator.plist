@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAwayEnvironment</key>
+	<string>interfaceFrameworkResponse</string>
+	<key>animationDecoratorMode</key>
+	<string>currentCacheInset</string>
+	<key>coordinatorStateFlags</key>
+	<string>layoutScopeState</string>
+	<key>offsetThroughShape</key>
+	<string>currentSliderCenter</string>
+	<key>permanentVectorSkewy</key>
+	<string>widgetSystemFlags</string>
+	<key>scaffoldEnvironmentDistance</key>
+	<string>labelDecoratorAppearance</string>
+	<key>subscriptionFrameworkHead</key>
+	<string>interactorBufferContrast</string>
+	<key>tabbarFlyweightContrast</key>
+	<string>standaloneBaseTransparency</string>
+</dict>
+</plist>

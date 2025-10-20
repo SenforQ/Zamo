@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customNotifierKind</key>
+	<string>characterShapePressure</string>
+	<key>deferredAlignmentType</key>
+	<string>coordinatorFacadeTheme</string>
+	<key>layerModeSkewy</key>
+	<string>bulletFormTail</string>
+	<key>storageDecoratorCenter</key>
+	<string>usedTextDensity</string>
+	<key>titleShapeTag</key>
+	<string>stepTempleSaturation</string>
+	<key>unactivatedTabviewTop</key>
+	<string>observerMediatorSpeed</string>
+</dict>
+</plist>

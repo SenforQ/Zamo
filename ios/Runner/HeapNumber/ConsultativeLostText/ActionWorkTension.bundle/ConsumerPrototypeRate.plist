@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInTask</key>
+	<string>numericalScreenAcceleration</string>
+	<key>blocAsLevel</key>
+	<string>accessibleErrorBound</string>
+	<key>comprehensiveMapRate</key>
+	<string>statefulTaskColor</string>
+	<key>concurrentTitleScale</key>
+	<string>sampleFormTag</string>
+	<key>immediateResourceResponse</key>
+	<string>storageAwayFramework</string>
+	<key>momentumCompositeShade</key>
+	<string>providerAtEnvironment</string>
+	<key>offsetPlatformCoord</key>
+	<string>bufferInsideLevel</string>
+	<key>subsequentCacheSpacing</key>
+	<string>momentumWorkDirection</string>
+</dict>
+</plist>

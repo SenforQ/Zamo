@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerPerBridge</key>
+	<string>handlerInTask</string>
+	<key>controllerViaObserver</key>
+	<string>transitionProcessDensity</string>
+	<key>custompaintPerBridge</key>
+	<string>mainNavigatorBrightness</string>
+	<key>difficultBaselineBrightness</key>
+	<string>semanticModelBorder</string>
+	<key>localizationFromAdapter</key>
+	<string>prismaticStoryboardLeft</string>
+	<key>presenterPerState</key>
+	<string>tabbarUntilMemento</string>
+	<key>utilDuringShape</key>
+	<string>secondErrorResponse</string>
+</dict>
+</plist>

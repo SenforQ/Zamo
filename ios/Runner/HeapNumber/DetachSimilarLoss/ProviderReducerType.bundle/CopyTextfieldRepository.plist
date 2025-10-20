@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiCubeInterval</key>
+	<string>commandFrameworkRight</string>
+	<key>observerDuringActivity</key>
+	<string>bufferMethodDepth</string>
+	<key>primaryGroupContrast</key>
+	<string>respectiveCanvasDelay</string>
+	<key>streamParameterScale</key>
+	<string>completionAsTier</string>
+</dict>
+</plist>

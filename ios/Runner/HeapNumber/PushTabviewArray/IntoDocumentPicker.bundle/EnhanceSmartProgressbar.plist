@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationParamFormat</key>
+	<string>cellOrMethod</string>
+	<key>grainOrSingleton</key>
+	<string>providerTypeAcceleration</string>
+	<key>menuThroughPlatform</key>
+	<string>widgetActivityBehavior</string>
+	<key>newestConfigurationTag</key>
+	<string>inactiveDrawerTransparency</string>
+	<key>observerStyleOrientation</key>
+	<string>desktopMasterInteraction</string>
+	<key>requestOutsideFlyweight</key>
+	<string>robustUsecaseStyle</string>
+	<key>routerThanFacade</key>
+	<string>symmetricNibOpacity</string>
+	<key>symmetricOverlayBrightness</key>
+	<string>allocatorDespiteObserver</string>
+	<key>workflowPatternSkewy</key>
+	<string>singleGesturedetectorTop</string>
+</dict>
+</plist>

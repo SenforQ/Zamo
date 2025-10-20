@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionTierType</key>
+	<string>buttonIncludeDecorator</string>
+	<key>agileMenuDistance</key>
+	<string>gestureUntilParameter</string>
+	<key>descriptorCycleValidation</key>
+	<string>materialCubitDelay</string>
+	<key>elasticSpriteBehavior</key>
+	<string>inheritedEquipmentTag</string>
+	<key>invisibleBaseName</key>
+	<string>lostLocalizationOrientation</string>
+	<key>menuContextSaturation</key>
+	<string>activePetBound</string>
+	<key>switchMediatorTheme</key>
+	<string>durationFacadeIndex</string>
+	<key>tabviewKindVisibility</key>
+	<string>textAgainstFramework</string>
+	<key>transitionFrameworkSize</key>
+	<string>singletonAroundCommand</string>
+</dict>
+</plist>

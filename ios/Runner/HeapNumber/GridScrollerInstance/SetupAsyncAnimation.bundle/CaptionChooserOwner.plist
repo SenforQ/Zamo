@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerPatternBehavior</key>
+	<string>segmentSystemOrigin</string>
+	<key>memberOrVariable</key>
+	<string>layoutPerTier</string>
+	<key>notifierAmongType</key>
+	<string>cubitThroughFunction</string>
+	<key>respectiveStorageRight</key>
+	<string>catalystTypeFeedback</string>
+	<key>resultNumberValidation</key>
+	<string>listenerStateBound</string>
+	<key>vectorContextMomentum</key>
+	<string>permissiveApertureStyle</string>
+</dict>
+</plist>

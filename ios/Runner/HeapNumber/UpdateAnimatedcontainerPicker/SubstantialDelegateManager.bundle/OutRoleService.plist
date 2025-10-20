@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterByPattern</key>
+	<string>cubitBridgeTint</string>
+	<key>gridContainFlyweight</key>
+	<string>immediateStateHead</string>
+	<key>histogramByActivity</key>
+	<string>similarChartVisibility</string>
+	<key>instructionFormBehavior</key>
+	<string>globalCoordinatorResponse</string>
+	<key>playbackPrototypeOrigin</key>
+	<string>controllerPrototypeDepth</string>
+	<key>providerOutsideLevel</key>
+	<string>adaptiveRouteState</string>
+	<key>stampFromProcess</key>
+	<string>directBrushTension</string>
+	<key>titleFormFrequency</key>
+	<string>singletonSystemDuration</string>
+	<key>transitionBesideFlyweight</key>
+	<string>tweenAtChain</string>
+</dict>
+</plist>

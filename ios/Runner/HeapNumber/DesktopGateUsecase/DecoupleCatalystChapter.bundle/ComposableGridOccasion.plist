@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonActionColor</key>
+	<string>staticBuilderRight</string>
+	<key>collectionNearOperation</key>
+	<string>optimizerForSingleton</string>
+	<key>constraintChainFlags</key>
+	<string>extensionUntilKind</string>
+	<key>gridInSingleton</key>
+	<string>loopMediatorFormat</string>
+	<key>intensityActivityOrientation</key>
+	<string>denseStampDirection</string>
+	<key>missedAppbarRotation</key>
+	<string>taskCompositeShade</string>
+	<key>seamlessTabbarBrightness</key>
+	<string>controllerProxyRate</string>
+	<key>subtleConstraintDepth</key>
+	<string>mediumNavigatorBorder</string>
+	<key>subtleNavigationRight</key>
+	<string>compositionalRouteDirection</string>
+</dict>
+</plist>

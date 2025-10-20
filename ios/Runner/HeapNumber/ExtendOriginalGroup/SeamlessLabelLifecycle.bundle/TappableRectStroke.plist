@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCallbackTop</key>
+	<string>buttonContextName</string>
+	<key>criticalCompletionFeedback</key>
+	<string>painterFrameworkSpacing</string>
+	<key>custompaintBufferVelocity</key>
+	<string>sequentialBorderCoord</string>
+	<key>rectInScope</key>
+	<string>effectUntilObserver</string>
+	<key>sceneChainEdge</key>
+	<string>observerOperationDistance</string>
+	<key>semanticRiverpodIndex</key>
+	<string>cubeOperationAlignment</string>
+	<key>usageWithoutMemento</key>
+	<string>documentFromInterpreter</string>
+</dict>
+</plist>

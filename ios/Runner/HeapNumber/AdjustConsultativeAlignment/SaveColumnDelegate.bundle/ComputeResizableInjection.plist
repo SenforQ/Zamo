@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarFormLocation</key>
+	<string>widgetSinceParam</string>
+	<key>ignoredNormFlags</key>
+	<string>collectionBridgeInteraction</string>
+	<key>movementAndValue</key>
+	<string>constraintAtFunction</string>
+	<key>publicCursorRotation</key>
+	<string>effectInProcess</string>
+	<key>resourceWorkType</key>
+	<string>entityDuringMode</string>
+	<key>resultDespiteNumber</key>
+	<string>progressbarWithCommand</string>
+	<key>smartCursorPadding</key>
+	<string>configurationByMemento</string>
+</dict>
+</plist>

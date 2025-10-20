@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopSinkVisible</key>
+	<string>kernelOrStyle</string>
+	<key>equipmentCommandShape</key>
+	<string>indicatorInterpreterOffset</string>
+	<key>logActivityDirection</key>
+	<string>entityStateTag</string>
+	<key>segmentLayerBound</key>
+	<string>brushFrameworkStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateDuringActivity</key>
+	<string>functionalManagerBrightness</string>
+	<key>intuitiveSignFlags</key>
+	<string>agileQueryAppearance</string>
+	<key>persistentGraphPadding</key>
+	<string>nextCertificateBorder</string>
+	<key>routerDespiteSingleton</key>
+	<string>semanticChartColor</string>
+	<key>unactivatedBaseOrigin</key>
+	<string>routeShapeTail</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyReductionMargin</key>
+	<string>imageKindDensity</string>
+	<key>gemFrameworkTransparency</key>
+	<string>anchorAndTemple</string>
+	<key>gridviewNearTemple</key>
+	<string>sharedPopupLocation</string>
+	<key>routeAsMemento</key>
+	<string>painterCommandPadding</string>
+	<key>secondMetadataInset</key>
+	<string>curveForLevel</string>
+	<key>staticHashSpacing</key>
+	<string>smallManagerValidation</string>
+	<key>symbolOperationBottom</key>
+	<string>capacitiesUntilPhase</string>
+</dict>
+</plist>

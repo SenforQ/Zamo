@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTransitionRate</key>
+	<string>animationWithoutProcess</string>
+	<key>bufferActionHue</key>
+	<string>webBatchVisibility</string>
+	<key>featureAtSingleton</key>
+	<string>skinAdapterVisible</string>
+	<key>liteEffectState</key>
+	<string>spinePatternBrightness</string>
+	<key>normalQueryHead</key>
+	<string>observerAdapterMode</string>
+	<key>resourceLayerLocation</key>
+	<string>retainedReducerAcceleration</string>
+	<key>routerProcessHue</key>
+	<string>dependencyThroughValue</string>
+	<key>sineKindAcceleration</key>
+	<string>graphicPerInterpreter</string>
+</dict>
+</plist>

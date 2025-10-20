@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredDelegateInterval</key>
+	<string>flexDuringPhase</string>
+	<key>interfaceBeyondFlyweight</key>
+	<string>widgetStylePressure</string>
+	<key>invisibleHashPadding</key>
+	<string>mobileUntilPlatform</string>
+	<key>notifierScopeTop</key>
+	<string>subscriptionStyleVisible</string>
+	<key>requiredQueueIndex</key>
+	<string>momentumTempleOrientation</string>
+	<key>stepBeyondPrototype</key>
+	<string>fusedSizedboxTint</string>
+	<key>tappableInterfaceBehavior</key>
+	<string>assetLikeTier</string>
+	<key>uniformBaselineStyle</key>
+	<string>draggableMethodFormat</string>
+</dict>
+</plist>

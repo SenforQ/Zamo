@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSingletonAppearance</key>
+	<string>resourceObserverMode</string>
+	<key>checkboxWithoutObserver</key>
+	<string>lazyWidgetPressure</string>
+	<key>decorationAsPattern</key>
+	<string>kernelBufferEdge</string>
+	<key>inactiveBufferVelocity</key>
+	<string>routeLevelBound</string>
+	<key>independentSpecifierHead</key>
+	<string>aspectViaWork</string>
+	<key>tabbarMethodMargin</key>
+	<string>entropyThroughTemple</string>
+	<key>unactivatedSlashAcceleration</key>
+	<string>extensionTypeTag</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureTaskBrightness</key>
+	<string>queueCommandForce</string>
+	<key>appbarIncludeChain</key>
+	<string>customizedSymbolTheme</string>
+	<key>asyncDespiteActivity</key>
+	<string>intuitiveCommandSpacing</string>
+	<key>decorationOrAdapter</key>
+	<string>curveBufferSkewy</string>
+	<key>flexibleRouterBorder</key>
+	<string>exponentCycleSkewx</string>
+	<key>labelStyleBorder</key>
+	<string>nodeThroughFlyweight</string>
+	<key>reusableTickerHue</key>
+	<string>groupPerTemple</string>
+	<key>viewDuringVariable</key>
+	<string>accordionPageviewOrientation</string>
+</dict>
+</plist>

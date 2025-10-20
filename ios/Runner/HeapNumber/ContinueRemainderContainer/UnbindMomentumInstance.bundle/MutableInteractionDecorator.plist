@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperAndStyle</key>
+	<string>transitionPrototypeFeedback</string>
+	<key>containerLayerLocation</key>
+	<string>asyncBeyondLayer</string>
+	<key>delegateContainVisitor</key>
+	<string>staticCosineContrast</string>
+	<key>desktopNavigatorTail</key>
+	<string>boxModeDepth</string>
+	<key>entityFlyweightInset</key>
+	<string>progressbarFrameworkDuration</string>
+	<key>errorLikeParam</key>
+	<string>nibExceptLayer</string>
+	<key>pinchableErrorHead</key>
+	<string>appbarValueBehavior</string>
+	<key>semanticConsumerFrequency</key>
+	<string>subscriptionLayerSpeed</string>
+	<key>techniqueDecoratorEdge</key>
+	<string>queueSingletonFrequency</string>
+</dict>
+</plist>

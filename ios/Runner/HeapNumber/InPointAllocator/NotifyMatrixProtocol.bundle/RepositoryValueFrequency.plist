@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadataPerWork</key>
+	<string>handlerAboutCycle</string>
+	<key>pivotalVectorShade</key>
+	<string>menuFrameworkBorder</string>
+	<key>reactiveFlexInteraction</key>
+	<string>protectedMasterShade</string>
+	<key>reactiveTaskTint</key>
+	<string>popupFormHead</string>
+	<key>resourcePerFunction</key>
+	<string>navigatorCommandVelocity</string>
+	<key>resultEnvironmentCenter</key>
+	<string>containerKindPadding</string>
+	<key>specifierBufferHue</key>
+	<string>hyperbolicTimerSpeed</string>
+</dict>
+</plist>

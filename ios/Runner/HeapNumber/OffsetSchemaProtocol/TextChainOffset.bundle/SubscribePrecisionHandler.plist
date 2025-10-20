@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterThanMediator</key>
+	<string>radioAlongPlatform</string>
+	<key>controllerStyleRotation</key>
+	<string>queryExceptJob</string>
+	<key>logTypeValidation</key>
+	<string>workflowScopeInterval</string>
+	<key>seamlessInteractorType</key>
+	<string>reductionFromValue</string>
+	<key>slashActivitySpeed</key>
+	<string>textAdapterInterval</string>
+	<key>standaloneGestureOrigin</key>
+	<string>activeStackInset</string>
+	<key>sustainableMenuValidation</key>
+	<string>taskVarFlags</string>
+</dict>
+</plist>

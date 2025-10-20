@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSymbolBehavior</key>
+	<string>kernelPhaseVisible</string>
+	<key>bufferDuringAction</key>
+	<string>titleOutsideVar</string>
+	<key>capsuleVarTheme</key>
+	<string>containerCommandDensity</string>
+	<key>cartesianBatchAlignment</key>
+	<string>customizedSinkCoord</string>
+	<key>directlyThreadIndex</key>
+	<string>boxshadowPatternAppearance</string>
+	<key>enabledDropdownbuttonColor</key>
+	<string>statelessCosineMode</string>
+	<key>grayscaleActivityPressure</key>
+	<string>coordinatorOperationOrigin</string>
+	<key>injectionViaCommand</key>
+	<string>integerUntilTask</string>
+	<key>listenerInTier</key>
+	<string>cosineValueBorder</string>
+	<key>singleResolverDirection</key>
+	<string>interfaceThroughParameter</string>
+</dict>
+</plist>

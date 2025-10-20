@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOperationBehavior</key>
+	<string>descriptionOperationVisible</string>
+	<key>logarithmCycleTransparency</key>
+	<string>globalExceptionRate</string>
+	<key>prismaticLayerShade</key>
+	<string>geometricListviewTint</string>
+	<key>richtextEnvironmentFrequency</key>
+	<string>captionVersusTier</string>
+</dict>
+</plist>

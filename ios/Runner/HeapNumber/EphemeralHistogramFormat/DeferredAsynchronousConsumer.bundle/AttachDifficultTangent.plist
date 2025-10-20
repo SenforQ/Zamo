@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerChainRate</key>
+	<string>tensorStoreInteraction</string>
+	<key>imperativeBoxMode</key>
+	<string>asyncTitleResponse</string>
+	<key>listviewScopeSpacing</key>
+	<string>requestFunctionState</string>
+	<key>numericalCanvasMargin</key>
+	<string>firstColumnHue</string>
+	<key>storageViaProxy</key>
+	<string>permissiveApertureColor</string>
+	<key>viewAgainstLayer</key>
+	<string>menuThanFlyweight</string>
+</dict>
+</plist>

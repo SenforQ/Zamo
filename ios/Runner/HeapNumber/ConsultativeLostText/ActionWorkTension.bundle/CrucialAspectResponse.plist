@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphicWorkValidation</key>
+	<string>paddingAgainstState</string>
+	<key>ignoredGetxAlignment</key>
+	<string>checkboxAgainstLevel</string>
+	<key>independentGrainSpacing</key>
+	<string>actionOperationName</string>
+	<key>inheritedCubitKind</key>
+	<string>visibleStatelessShape</string>
+	<key>nibScopeRight</key>
+	<string>resilientNotificationHead</string>
+	<key>widgetFormLeft</key>
+	<string>inkwellActionSpacing</string>
+</dict>
+</plist>

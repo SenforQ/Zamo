@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintBufferSpeed</key>
+	<string>segueDecoratorSize</string>
+	<key>difficultCanvasOffset</key>
+	<string>canvasOperationScale</string>
+	<key>loopWithoutActivity</key>
+	<string>cubeSinceStyle</string>
+	<key>navigatorObserverDuration</key>
+	<string>inheritedBinaryMode</string>
+	<key>roleNearState</key>
+	<string>gestureStrategyName</string>
+	<key>sceneStateBound</key>
+	<string>sessionWorkOrigin</string>
+	<key>spriteIncludeVariable</key>
+	<string>movementSystemDuration</string>
+	<key>storageMementoPosition</key>
+	<string>sizeTypeRotation</string>
+</dict>
+</plist>

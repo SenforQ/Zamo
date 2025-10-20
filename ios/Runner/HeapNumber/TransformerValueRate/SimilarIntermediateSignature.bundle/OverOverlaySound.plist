@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletDuringState</key>
+	<string>criticalEffectOffset</string>
+	<key>cubitPatternRate</key>
+	<string>labelVariableEdge</string>
+	<key>ephemeralTabbarDensity</key>
+	<string>fixedCursorScale</string>
+	<key>topicThanActivity</key>
+	<string>referenceModeCount</string>
+</dict>
+</plist>

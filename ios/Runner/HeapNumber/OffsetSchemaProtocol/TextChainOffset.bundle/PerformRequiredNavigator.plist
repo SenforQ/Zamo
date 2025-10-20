@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialDecorationDirection</key>
+	<string>denseLocalizationMargin</string>
+	<key>otherTaskOffset</key>
+	<string>progressbarNumberTag</string>
+	<key>presenterOperationLocation</key>
+	<string>canvasInsideBuffer</string>
+	<key>providerJobRight</key>
+	<string>requiredBufferFlags</string>
+	<key>rapidPrecisionValidation</key>
+	<string>isolateSystemSkewx</string>
+</dict>
+</plist>

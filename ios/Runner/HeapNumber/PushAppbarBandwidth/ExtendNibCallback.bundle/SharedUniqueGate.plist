@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveBridgeDepth</key>
+	<string>primaryDelegateShade</string>
+	<key>ignoredZoneSkewy</key>
+	<string>stampInsideTask</string>
+	<key>interactorByCycle</key>
+	<string>finalTimerDirection</string>
+	<key>lastSegmentFlags</key>
+	<string>viewBySystem</string>
+	<key>observerWithoutFacade</key>
+	<string>allocatorScopeOrientation</string>
+	<key>smallAnimationOpacity</key>
+	<string>frameActionSpeed</string>
+</dict>
+</plist>

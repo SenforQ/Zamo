@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentExceptActivity</key>
+	<string>dimensionViaJob</string>
+	<key>buttonPerFramework</key>
+	<string>transitionInProcess</string>
+	<key>decorationPerFlyweight</key>
+	<string>constMusicMode</string>
+	<key>finalMethodColor</key>
+	<string>cupertinoFrameworkBehavior</string>
+	<key>grainStrategyDirection</key>
+	<string>fragmentFromStrategy</string>
+	<key>injectionViaBuffer</key>
+	<string>bitrateAboutMode</string>
+	<key>sceneFromVar</key>
+	<string>activeChannelsOffset</string>
+	<key>titleCycleRate</key>
+	<string>originalRouteDepth</string>
+</dict>
+</plist>

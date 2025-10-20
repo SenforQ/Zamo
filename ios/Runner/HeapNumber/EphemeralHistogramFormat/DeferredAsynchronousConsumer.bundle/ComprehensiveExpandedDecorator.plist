@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryNumberStyle</key>
+	<string>chartAgainstNumber</string>
+	<key>constSwitchFlags</key>
+	<string>graphicWorkOrientation</string>
+	<key>labelBridgeColor</key>
+	<string>stampFormCoord</string>
+	<key>reductionContainTask</key>
+	<string>controllerJobSaturation</string>
+	<key>semanticInstructionTransparency</key>
+	<string>nodeTempleInset</string>
+	<key>subtleHandlerAppearance</key>
+	<string>disparateWidgetPressure</string>
+</dict>
+</plist>

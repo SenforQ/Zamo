@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchPhaseBottom</key>
+	<string>commandProcessOffset</string>
+	<key>boxshadowOrFramework</key>
+	<string>cubePerSystem</string>
+	<key>frameAsMediator</key>
+	<string>deferredBehaviorScale</string>
+	<key>grainPerAction</key>
+	<string>gestureWithMethod</string>
+	<key>liteParticleVisibility</key>
+	<string>profileModeTheme</string>
+	<key>managerEnvironmentSaturation</key>
+	<string>navigatorPrototypeTag</string>
+	<key>navigatorKindSpeed</key>
+	<string>statelessCallbackCenter</string>
+	<key>remainderTempleSkewy</key>
+	<string>offsetStateSaturation</string>
+	<key>singleStatelessLocation</key>
+	<string>movementBeyondForm</string>
+	<key>tableWithoutPrototype</key>
+	<string>memberStyleSkewx</string>
+</dict>
+</plist>

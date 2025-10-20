@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerParamTheme</key>
+	<string>equipmentNumberFeedback</string>
+	<key>providerForStructure</key>
+	<string>curveWorkMomentum</string>
+	<key>seamlessResponseDistance</key>
+	<string>grainOutsideShape</string>
+	<key>segueInterpreterScale</key>
+	<string>repositoryDuringFlyweight</string>
+	<key>sliderForCommand</key>
+	<string>textAsVar</string>
+</dict>
+</plist>

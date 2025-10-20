@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelParameterPadding</key>
+	<string>sensorParamColor</string>
+	<key>deferredSliderDepth</key>
+	<string>geometricServiceScale</string>
+	<key>explicitPresenterInset</key>
+	<string>storyboardByCycle</string>
+	<key>lastTransitionBorder</key>
+	<string>curveFromFacade</string>
+	<key>progressbarNearLevel</key>
+	<string>protectedViewRate</string>
+	<key>slashStateAppearance</key>
+	<string>animationBesideBridge</string>
+	<key>transitionOutsideJob</key>
+	<string>coordinatorPerChain</string>
+	<key>unaryOrAction</key>
+	<string>variantModeOffset</string>
+	<key>zoneAmongStrategy</key>
+	<string>featureVersusMemento</string>
+</dict>
+</plist>

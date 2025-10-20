@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncVersusStructure</key>
+	<string>cellInState</string>
+	<key>autoApertureRotation</key>
+	<string>bufferScopeSkewy</string>
+	<key>bulletMediatorAppearance</key>
+	<string>flexStageDelay</string>
+	<key>customUsecaseSpacing</key>
+	<string>subsequentRadiusDensity</string>
+	<key>equalizationFlyweightEdge</key>
+	<string>clipperAdapterShade</string>
+	<key>errorByAdapter</key>
+	<string>sineInContext</string>
+	<key>materialFrameworkAcceleration</key>
+	<string>difficultTextCenter</string>
+	<key>prismaticMemberAcceleration</key>
+	<string>offsetAdapterFlags</string>
+</dict>
+</plist>

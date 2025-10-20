@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerNumberDistance</key>
+	<string>unaryValueEdge</string>
+	<key>builderMethodTop</key>
+	<string>buttonParameterOffset</string>
+	<key>chartVersusStrategy</key>
+	<string>responseSystemOffset</string>
+	<key>delegateIncludeLevel</key>
+	<string>liteLayoutOpacity</string>
+	<key>enabledHashAcceleration</key>
+	<string>buttonPerSingleton</string>
+	<key>listviewSingletonFrequency</key>
+	<string>accessibleHeroName</string>
+	<key>notifierActionHue</key>
+	<string>permissiveThreadTint</string>
+	<key>priorityBeyondEnvironment</key>
+	<string>lazyAssetSpeed</string>
+</dict>
+</plist>

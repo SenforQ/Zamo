@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorBeyondPattern</key>
+	<string>convolutionTaskEdge</string>
+	<key>gesturedetectorAgainstVisitor</key>
+	<string>custompaintParameterEdge</string>
+	<key>reactiveLabelDelay</key>
+	<string>crucialServiceColor</string>
+	<key>sceneVariableIndex</key>
+	<string>deferredRadiusOrientation</string>
+</dict>
+</plist>

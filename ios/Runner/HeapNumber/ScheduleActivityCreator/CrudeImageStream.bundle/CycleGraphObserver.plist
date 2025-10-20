@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledLabelDepth</key>
+	<string>euclideanEffectOpacity</string>
+	<key>particleProxyBrightness</key>
+	<string>optimizerStrategyTop</string>
+	<key>protectedMovementBehavior</key>
+	<string>alignmentOfFacade</string>
+	<key>transitionWithFlyweight</key>
+	<string>previewNearComposite</string>
+	<key>usageOfVisitor</key>
+	<string>iterativeAxisHue</string>
+</dict>
+</plist>

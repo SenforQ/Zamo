@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoLabelBorder</key>
+	<string>groupStageRight</string>
+	<key>clipperBridgeRight</key>
+	<string>fusedFrameIndex</string>
+	<key>criticalQueueForce</key>
+	<string>sizeBufferInterval</string>
+	<key>crucialSpriteForce</key>
+	<string>advancedPetBehavior</string>
+	<key>delicateProtocolFeedback</key>
+	<string>finalStorageSaturation</string>
+	<key>hyperbolicStatelessRight</key>
+	<string>baseSinceBuffer</string>
+	<key>precisionSinceWork</key>
+	<string>resolverBeyondChain</string>
+	<key>seamlessQueryTransparency</key>
+	<string>spotBufferDelay</string>
+</dict>
+</plist>

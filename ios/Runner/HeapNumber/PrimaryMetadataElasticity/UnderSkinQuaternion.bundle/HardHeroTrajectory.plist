@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncInteractorStyle</key>
+	<string>resourceContainBridge</string>
+	<key>desktopInjectionTag</key>
+	<string>gateVersusBridge</string>
+	<key>dropdownbuttonForScope</key>
+	<string>spineDuringTask</string>
+	<key>presenterLikeScope</key>
+	<string>presenterStageType</string>
+	<key>scaleTaskPosition</key>
+	<string>builderLevelBorder</string>
+	<key>tweenNearProcess</key>
+	<string>isolateStrategyDirection</string>
+	<key>unsortedGridOrientation</key>
+	<string>tableContainObserver</string>
+</dict>
+</plist>

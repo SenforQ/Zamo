@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedResolverKind</key>
+	<string>metadataDespiteLevel</string>
+	<key>allocatorNumberForce</key>
+	<string>interactorThroughMediator</string>
+	<key>cacheCycleFrequency</key>
+	<string>effectEnvironmentSpacing</string>
+	<key>coordinatorCompositePosition</key>
+	<string>streamBeyondStage</string>
+	<key>materialCycleSkewx</key>
+	<string>futureBridgeInterval</string>
+	<key>mutableSliderMargin</key>
+	<string>servicePlatformCount</string>
+	<key>prevDurationPosition</key>
+	<string>profileMethodTag</string>
+	<key>reusableSampleDistance</key>
+	<string>concurrentManagerContrast</string>
+	<key>secondStreamPadding</key>
+	<string>prevCaptionVelocity</string>
+	<key>tableAdapterDistance</key>
+	<string>logarithmTempleBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicNodeBehavior</key>
+	<string>alignmentIncludePlatform</string>
+	<key>permissiveConstraintBorder</key>
+	<string>widgetThroughStrategy</string>
+	<key>specifierPerProcess</key>
+	<string>exceptionPatternDirection</string>
+	<key>titleAtCommand</key>
+	<string>layoutExceptState</string>
+</dict>
+</plist>

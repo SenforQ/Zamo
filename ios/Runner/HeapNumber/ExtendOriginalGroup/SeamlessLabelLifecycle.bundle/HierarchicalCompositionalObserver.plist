@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTemplePressure</key>
+	<string>chapterDecoratorRate</string>
+	<key>challengeWithoutTier</key>
+	<string>disabledVariantSpacing</string>
+	<key>inheritedAnimatedcontainerBound</key>
+	<string>prevPopupContrast</string>
+	<key>loopSystemHead</key>
+	<string>cubitKindAppearance</string>
+	<key>resolverDuringWork</key>
+	<string>missedDimensionKind</string>
+	<key>tickerNearActivity</key>
+	<string>touchVarFlags</string>
+</dict>
+</plist>

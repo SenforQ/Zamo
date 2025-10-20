@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationJobInteraction</key>
+	<string>appbarByComposite</string>
+	<key>aperturePlatformSpacing</key>
+	<string>commonMatrixTheme</string>
+	<key>asynchronousBuilderMode</key>
+	<string>durationKindPressure</string>
+	<key>cupertinoThroughNumber</key>
+	<string>layoutValueAlignment</string>
+	<key>imperativePresenterSkewy</key>
+	<string>delegateVariableType</string>
+	<key>indicatorStructureForce</key>
+	<string>isolateModeSpacing</string>
+	<key>rowBeyondSingleton</key>
+	<string>factoryByActivity</string>
+	<key>storageVersusAction</key>
+	<string>configurationFormTint</string>
+	<key>storageVersusTier</key>
+	<string>advancedAspectratioBottom</string>
+</dict>
+</plist>

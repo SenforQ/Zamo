@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonDecoratorRight</key>
+	<string>presenterStyleBottom</string>
+	<key>cursorBufferCenter</key>
+	<string>appbarAsProxy</string>
+	<key>eventOfPhase</key>
+	<string>accessiblePreviewSpeed</string>
+	<key>stepChainVisibility</key>
+	<string>handlerAgainstPlatform</string>
+	<key>textFromMethod</key>
+	<string>standaloneGroupRate</string>
+	<key>usecaseValueVisibility</key>
+	<string>activeStepHead</string>
+</dict>
+</plist>

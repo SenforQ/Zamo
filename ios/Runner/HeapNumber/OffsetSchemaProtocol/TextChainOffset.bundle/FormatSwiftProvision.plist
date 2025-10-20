@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateDuringPlatform</key>
+	<string>displayablePointOrigin</string>
+	<key>errorTaskPosition</key>
+	<string>constNavigatorLeft</string>
+	<key>hashTaskDelay</key>
+	<string>alphaIncludeObserver</string>
+	<key>localWidgetAppearance</key>
+	<string>materialContainerRotation</string>
+	<key>managerAlongKind</key>
+	<string>protectedDelegateDirection</string>
+	<key>statelessAccessoryContrast</key>
+	<string>transitionTaskVisibility</string>
+	<key>streamMementoOffset</key>
+	<string>presenterPerPlatform</string>
+</dict>
+</plist>

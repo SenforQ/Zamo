@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDecorationSkewy</key>
+	<string>certificateBesideMethod</string>
+	<key>animatedcontainerAgainstCycle</key>
+	<string>visibleMediaqueryAppearance</string>
+	<key>animationTaskHue</key>
+	<string>completerPerScope</string>
+	<key>brushWorkDelay</key>
+	<string>pinchableIndicatorHue</string>
+	<key>dependencyPerLevel</key>
+	<string>injectionIncludeStrategy</string>
+	<key>sortedLabelScale</key>
+	<string>criticalRiverpodBottom</string>
+	<key>spotOperationVelocity</key>
+	<string>positionThanMode</string>
+	<key>statelessInjectionVisible</key>
+	<string>interfaceDecoratorLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocExceptAdapter</key>
+	<string>monsterAroundObserver</string>
+	<key>dependencyContextTail</key>
+	<string>interactorShapeMargin</string>
+	<key>directlyStatefulPressure</key>
+	<string>routerSingletonTension</string>
+	<key>handlerPhaseBound</key>
+	<string>iterativeActionInteraction</string>
+	<key>plateOrFacade</key>
+	<string>resolverLikeChain</string>
+	<key>sizeInsideFlyweight</key>
+	<string>requestByOperation</string>
+</dict>
+</plist>

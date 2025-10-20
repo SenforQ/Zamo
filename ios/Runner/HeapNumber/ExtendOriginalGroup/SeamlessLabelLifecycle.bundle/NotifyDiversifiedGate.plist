@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentUntilStyle</key>
+	<string>mainGridAlignment</string>
+	<key>baselineVariableOffset</key>
+	<string>drawerStructureAppearance</string>
+	<key>marginNumberAppearance</key>
+	<string>crucialConsumerTint</string>
+	<key>normContainNumber</key>
+	<string>routeProxyRotation</string>
+	<key>notifierAmongWork</key>
+	<string>effectVariableHue</string>
+	<key>rectProcessMode</key>
+	<string>resultCommandOrigin</string>
+	<key>sophisticatedControllerSpacing</key>
+	<string>instructionMethodSaturation</string>
+</dict>
+</plist>

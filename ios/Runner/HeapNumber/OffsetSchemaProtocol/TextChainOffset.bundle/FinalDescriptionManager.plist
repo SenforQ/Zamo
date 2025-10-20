@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStoreKind</key>
+	<string>swiftInterpreterOffset</string>
+	<key>commandStructureBottom</key>
+	<string>managerCycleDelay</string>
+	<key>draggableTabbarSpeed</key>
+	<string>switchAboutContext</string>
+	<key>isolateAgainstLevel</key>
+	<string>imperativeRadioOrientation</string>
+	<key>lazySpriteContrast</key>
+	<string>coordinatorOutsideOperation</string>
+</dict>
+</plist>

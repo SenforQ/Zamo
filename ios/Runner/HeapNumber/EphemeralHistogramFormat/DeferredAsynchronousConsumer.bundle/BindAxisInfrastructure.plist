@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAgainstJob</key>
+	<string>textureNearSingleton</string>
+	<key>descriptionDecoratorState</key>
+	<string>signAlongFramework</string>
+	<key>normalProjectionAcceleration</key>
+	<string>listenerSingletonAppearance</string>
+	<key>popupActivitySaturation</key>
+	<string>tickerDuringProcess</string>
+	<key>subpixelParameterLocation</key>
+	<string>smallChartFeedback</string>
+	<key>titleJobOffset</key>
+	<string>sharedGrainSkewy</string>
+	<key>transitionStyleDensity</key>
+	<string>firstPositionCoord</string>
+</dict>
+</plist>

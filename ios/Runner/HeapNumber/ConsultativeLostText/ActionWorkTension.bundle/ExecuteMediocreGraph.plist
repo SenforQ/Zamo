@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSegmentDirection</key>
+	<string>memberBufferIndex</string>
+	<key>commandModeFeedback</key>
+	<string>sessionModeBehavior</string>
+	<key>completerOrBridge</key>
+	<string>effectFormBound</string>
+	<key>popupUntilCommand</key>
+	<string>controllerParamMomentum</string>
+	<key>previewValueDelay</key>
+	<string>sinkThroughBridge</string>
+	<key>statelessBeyondInterpreter</key>
+	<string>discardedMasterCount</string>
+	<key>techniqueThanForm</key>
+	<string>standaloneOverlayPressure</string>
+</dict>
+</plist>

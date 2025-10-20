@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerInterpreterBottom</key>
+	<string>entityMediatorDistance</string>
+	<key>blocAndInterpreter</key>
+	<string>tappableBehaviorLeft</string>
+	<key>dimensionPerPlatform</key>
+	<string>progressbarFrameworkSkewy</string>
+	<key>exceptionFrameworkCount</key>
+	<string>flexibleBlocStyle</string>
+	<key>masterStyleColor</key>
+	<string>signOfStage</string>
+	<key>observerAwayFlyweight</key>
+	<string>chartFrameworkAlignment</string>
+	<key>workflowVersusStage</key>
+	<string>tableForBridge</string>
+</dict>
+</plist>

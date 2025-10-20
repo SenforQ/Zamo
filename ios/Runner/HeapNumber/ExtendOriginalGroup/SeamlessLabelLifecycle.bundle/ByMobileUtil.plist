@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectOutsidePattern</key>
+	<string>cubitPlatformStatus</string>
+	<key>modelExceptPhase</key>
+	<string>plateParameterOrigin</string>
+	<key>scrollOperationRotation</key>
+	<string>firstTransitionCenter</string>
+	<key>staticSessionTail</key>
+	<string>diffableDelegateForce</string>
+	<key>uniqueGestureStyle</key>
+	<string>finalGesturedetectorTension</string>
+</dict>
+</plist>

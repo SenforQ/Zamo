@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAllocatorTheme</key>
+	<string>cupertinoBesideStage</string>
+	<key>cycleForTask</key>
+	<string>elasticNavigationContrast</string>
+	<key>decorationExceptVariable</key>
+	<string>retainedCommandDuration</string>
+	<key>entityBeyondAdapter</key>
+	<string>parallelCharacterLeft</string>
+	<key>gradientKindAppearance</key>
+	<string>builderCompositePadding</string>
+	<key>operationOfProxy</key>
+	<string>primaryMetadataTransparency</string>
+	<key>originalFutureFormat</key>
+	<string>localEventBound</string>
+	<key>tappableBuilderDelay</key>
+	<string>blocSystemPressure</string>
+</dict>
+</plist>

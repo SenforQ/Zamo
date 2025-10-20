@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoLayoutKind</key>
+	<string>explicitMultiplicationSpeed</string>
+	<key>cellAlongAdapter</key>
+	<string>notifierPerParam</string>
+	<key>disparateTextEdge</key>
+	<string>mobileConfigurationRate</string>
+	<key>semanticStreamState</key>
+	<string>advancedSpecifierPosition</string>
+</dict>
+</plist>

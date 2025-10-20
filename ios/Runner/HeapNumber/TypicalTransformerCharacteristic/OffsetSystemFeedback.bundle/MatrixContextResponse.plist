@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAlongStrategy</key>
+	<string>cycleProcessForce</string>
+	<key>labelWithObserver</key>
+	<string>intensitySinceComposite</string>
+	<key>methodInterpreterVisibility</key>
+	<string>operationAwayStrategy</string>
+	<key>optimizerActivityValidation</key>
+	<string>opaqueApertureIndex</string>
+	<key>progressbarStateScale</key>
+	<string>statelessAmongFlyweight</string>
+</dict>
+</plist>

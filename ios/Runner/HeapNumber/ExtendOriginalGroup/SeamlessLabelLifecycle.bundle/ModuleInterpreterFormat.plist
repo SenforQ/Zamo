@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionChainDepth</key>
+	<string>multiplicationUntilVisitor</string>
+	<key>directlyBatchAcceleration</key>
+	<string>groupDespiteBuffer</string>
+	<key>popupOutsideEnvironment</key>
+	<string>awaitBesideMethod</string>
+	<key>presenterBesideFacade</key>
+	<string>previewInForm</string>
+	<key>resilientClipperTop</key>
+	<string>gesturedetectorVersusLevel</string>
+	<key>semanticsObserverEdge</key>
+	<string>contractionActionAppearance</string>
+</dict>
+</plist>

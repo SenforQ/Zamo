@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAspectForce</key>
+	<string>streamVersusLayer</string>
+	<key>chartProxyType</key>
+	<string>cosineWithoutParameter</string>
+	<key>cubitSinceFramework</key>
+	<string>tickerForSystem</string>
+	<key>equipmentFromActivity</key>
+	<string>spotOutsideContext</string>
+	<key>frameDespiteBuffer</key>
+	<string>effectBesideKind</string>
+	<key>localLossInteraction</key>
+	<string>configurationTempleOrigin</string>
+	<key>loopViaFramework</key>
+	<string>awaitNearType</string>
+</dict>
+</plist>

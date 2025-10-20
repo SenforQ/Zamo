@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleFrameworkValidation</key>
+	<string>canvasAwayPattern</string>
+	<key>hardButtonMargin</key>
+	<string>publicCubitHead</string>
+	<key>presenterFromContext</key>
+	<string>apertureBufferSize</string>
+	<key>relationalTitleDistance</key>
+	<string>concurrentRowVisible</string>
+	<key>rowVersusAction</key>
+	<string>sceneMethodTint</string>
+	<key>statefulFormDensity</key>
+	<string>eagerMenuDepth</string>
+	<key>topicThroughOperation</key>
+	<string>unsortedUsageCount</string>
+</dict>
+</plist>

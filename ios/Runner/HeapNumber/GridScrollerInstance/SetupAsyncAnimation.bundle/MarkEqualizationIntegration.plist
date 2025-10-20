@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateAtBridge</key>
+	<string>liteResourceMode</string>
+	<key>entropyWithChain</key>
+	<string>observerBeyondProxy</string>
+	<key>fusedRadiusKind</key>
+	<string>desktopTransitionSize</string>
+	<key>futureActivityScale</key>
+	<string>descriptorOperationInset</string>
+	<key>lostRouterFormat</key>
+	<string>sensorFormFrequency</string>
+	<key>managerFromPhase</key>
+	<string>projectionIncludeActivity</string>
+	<key>publicVariantFlags</key>
+	<string>statefulScaffoldScale</string>
+	<key>sortedGraphName</key>
+	<string>entropyPrototypeForce</string>
+</dict>
+</plist>

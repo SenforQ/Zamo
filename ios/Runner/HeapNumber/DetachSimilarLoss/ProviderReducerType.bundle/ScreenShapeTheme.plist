@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedIntensityDirection</key>
+	<string>durationOfStrategy</string>
+	<key>diversifiedMetadataTransparency</key>
+	<string>eagerMovementPosition</string>
+	<key>extensionInParameter</key>
+	<string>gridLayerDuration</string>
+	<key>gestureKindOffset</key>
+	<string>buttonVersusParam</string>
+	<key>notifierAndKind</key>
+	<string>visibleMatrixVelocity</string>
+	<key>queueStrategyScale</key>
+	<string>synchronousSubpixelCenter</string>
+	<key>sharedScreenBound</key>
+	<string>delegateOperationBottom</string>
+</dict>
+</plist>

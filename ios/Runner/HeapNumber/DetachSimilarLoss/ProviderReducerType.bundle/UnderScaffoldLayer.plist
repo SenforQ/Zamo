@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEffectAcceleration</key>
+	<string>imageAgainstActivity</string>
+	<key>characterVariableBound</key>
+	<string>fragmentParameterResponse</string>
+	<key>elasticLabelMode</key>
+	<string>kernelFromParam</string>
+	<key>presenterContainStyle</key>
+	<string>primaryCheckboxHue</string>
+	<key>semanticsParamCenter</key>
+	<string>interactiveNavigatorDuration</string>
+	<key>storageDecoratorStatus</key>
+	<string>mediaDecoratorFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedChannelsDelay</key>
+	<string>customizedAssetInterval</string>
+	<key>imageShapeFeedback</key>
+	<string>temporaryAlphaOffset</string>
+	<key>radioAndMemento</key>
+	<string>mobileResourceVisible</string>
+	<key>radiusAtSystem</key>
+	<string>remainderInsideStage</string>
+	<key>reusableLayerContrast</key>
+	<string>resourceContextInterval</string>
+	<key>taskUntilParameter</key>
+	<string>queueStateScale</string>
+	<key>textureAwayLayer</key>
+	<string>spotFromInterpreter</string>
+</dict>
+</plist>

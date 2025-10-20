@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncProcessFeedback</key>
+	<string>newestAllocatorOffset</string>
+	<key>baseVersusStage</key>
+	<string>allocatorPerAdapter</string>
+	<key>certificateOutsideValue</key>
+	<string>invisibleTabbarMargin</string>
+	<key>compositionalDelegateLeft</key>
+	<string>lastPositionAcceleration</string>
+	<key>crucialPriorityTop</key>
+	<string>currentPreviewOrientation</string>
+	<key>roleProxyBehavior</key>
+	<string>indicatorShapeSkewy</string>
+	<key>textParameterDistance</key>
+	<string>entityMethodResponse</string>
+</dict>
+</plist>

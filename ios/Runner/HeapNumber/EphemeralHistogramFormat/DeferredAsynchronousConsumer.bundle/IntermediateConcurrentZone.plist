@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasNearStrategy</key>
+	<string>reductionCycleBorder</string>
+	<key>cursorPatternTransparency</key>
+	<string>specifyProviderDistance</string>
+	<key>entityProxyEdge</key>
+	<string>positionByDecorator</string>
+	<key>equipmentInParam</key>
+	<string>constraintThroughNumber</string>
+	<key>hardAlphaBrightness</key>
+	<string>sequentialMaterialVisible</string>
+	<key>inheritedTitleDensity</key>
+	<string>momentumInterpreterHue</string>
+	<key>multiplicationLevelFormat</key>
+	<string>providerFlyweightStatus</string>
+	<key>parallelSliderAcceleration</key>
+	<string>largeBulletFeedback</string>
+	<key>rolePerSystem</key>
+	<string>configurationVisitorLeft</string>
+	<key>textfieldScopeShade</key>
+	<string>batchAgainstProcess</string>
+</dict>
+</plist>

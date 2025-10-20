@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocJobFrequency</key>
+	<string>taskContainKind</string>
+	<key>durationSingletonFrequency</key>
+	<string>actionStateHue</string>
+	<key>entityWithoutInterpreter</key>
+	<string>webSlashSize</string>
+	<key>mediaByLevel</key>
+	<string>publicDurationAlignment</string>
+</dict>
+</plist>

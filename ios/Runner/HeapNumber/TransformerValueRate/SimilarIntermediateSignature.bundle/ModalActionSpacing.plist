@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedScrollCoord</key>
+	<string>assetDuringVariable</string>
+	<key>declarativeSegueValidation</key>
+	<string>accordionMusicValidation</string>
+	<key>menuStageAppearance</key>
+	<string>tabviewBridgeStatus</string>
+	<key>otherTaskInset</key>
+	<string>capacitiesJobAlignment</string>
+	<key>routeBridgeForce</key>
+	<string>injectionForCommand</string>
+</dict>
+</plist>

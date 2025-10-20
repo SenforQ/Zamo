@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryCompositeBrightness</key>
+	<string>taskProxySkewy</string>
+	<key>integerInFramework</key>
+	<string>layoutTypeBrightness</string>
+	<key>lossAmongChain</key>
+	<string>flexObserverColor</string>
+	<key>mobileMethodOrigin</key>
+	<string>fixedPreviewAcceleration</string>
+	<key>reusableCatalystAcceleration</key>
+	<string>cycleActivityOrigin</string>
+	<key>sequentialVectorLocation</key>
+	<string>pinchableServiceSpacing</string>
+</dict>
+</plist>

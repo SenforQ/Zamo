@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderCommandTop</key>
+	<string>spriteAwayProxy</string>
+	<key>custompaintNearFlyweight</key>
+	<string>symbolInterpreterSpeed</string>
+	<key>entityObserverTop</key>
+	<string>screenFacadeBrightness</string>
+	<key>firstCompletionDepth</key>
+	<string>bulletVersusVisitor</string>
+	<key>labelStructureSaturation</key>
+	<string>inkwellDuringNumber</string>
+	<key>logNearSingleton</key>
+	<string>metadataMementoOrigin</string>
+	<key>sampleViaWork</key>
+	<string>persistentGridScale</string>
+	<key>significantTabbarKind</key>
+	<string>hyperbolicSizeOrigin</string>
+	<key>taskObserverTheme</key>
+	<string>sequentialDescriptionStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateInteractorMode</key>
+	<string>reactiveOverlayType</string>
+	<key>permanentCallbackResponse</key>
+	<string>activatedTextAcceleration</string>
+	<key>prevMobileOrientation</key>
+	<string>rapidAnchorVelocity</string>
+	<key>promiseVersusCycle</key>
+	<string>pivotalSessionVisible</string>
+	<key>stackParameterDepth</key>
+	<string>scaffoldStageScale</string>
+	<key>subscriptionInAction</key>
+	<string>positionBridgePadding</string>
+</dict>
+</plist>

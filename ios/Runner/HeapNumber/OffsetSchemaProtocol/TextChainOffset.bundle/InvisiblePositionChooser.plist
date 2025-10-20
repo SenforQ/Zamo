@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoZoneDepth</key>
+	<string>providerPerMode</string>
+	<key>modalAroundNumber</key>
+	<string>intensityAboutVar</string>
+	<key>tableVariableName</key>
+	<string>resultParamIndex</string>
+	<key>titleWithoutEnvironment</key>
+	<string>layoutAndForm</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferProcessColor</key>
+	<string>layerThroughPlatform</string>
+	<key>flexibleGroupPadding</key>
+	<string>uniqueViewSpacing</string>
+	<key>frameCompositeTransparency</key>
+	<string>priorQueryHead</string>
+	<key>interfaceAndJob</key>
+	<string>reusableQueueTint</string>
+	<key>menuProxyRight</key>
+	<string>singletonVisitorDensity</string>
+	<key>uniformCompletionInteraction</key>
+	<string>injectionOfObserver</string>
+</dict>
+</plist>

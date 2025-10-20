@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityMethodSkewy</key>
+	<string>adaptiveCallbackAppearance</string>
+	<key>asyncVersusVar</key>
+	<string>checklistAsTier</string>
+	<key>columnFunctionBehavior</key>
+	<string>cubitBeyondShape</string>
+	<key>commonMenuTag</key>
+	<string>sequentialQueueBrightness</string>
+	<key>immutableGridFlags</key>
+	<string>rolePerDecorator</string>
+	<key>isolateNearAction</key>
+	<string>sequentialSegueBehavior</string>
+	<key>labelDespiteKind</key>
+	<string>resolverDecoratorFrequency</string>
+	<key>sessionTypeOpacity</key>
+	<string>protocolVisitorTheme</string>
+	<key>skirtStageDuration</key>
+	<string>blocModeOffset</string>
+</dict>
+</plist>

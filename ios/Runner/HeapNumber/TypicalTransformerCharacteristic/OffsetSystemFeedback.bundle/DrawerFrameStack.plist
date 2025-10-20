@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerModeName</key>
+	<string>appbarEnvironmentInterval</string>
+	<key>effectEnvironmentForce</key>
+	<string>largeDropdownbuttonValidation</string>
+	<key>enabledActivityName</key>
+	<string>labelInFramework</string>
+	<key>integerObserverRight</key>
+	<string>accordionListenerDistance</string>
+	<key>intensityStageEdge</key>
+	<string>baselineLikeVar</string>
+	<key>intermediateWidgetType</key>
+	<string>declarativeConstraintContrast</string>
+	<key>prismaticCurveForce</key>
+	<string>cupertinoAdapterLeft</string>
+</dict>
+</plist>

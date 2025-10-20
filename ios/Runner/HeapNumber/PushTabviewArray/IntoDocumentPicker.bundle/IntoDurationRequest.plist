@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticGetxDirection</key>
+	<string>mediaInState</string>
+	<key>basePatternAppearance</key>
+	<string>composableTickerCoord</string>
+	<key>capsuleFormDirection</key>
+	<string>cupertinoTickerName</string>
+	<key>delegateScopeStatus</key>
+	<string>significantPrecisionFeedback</string>
+	<key>interfaceSystemTheme</key>
+	<string>beginnerSwitchScale</string>
+	<key>loopOutsideParam</key>
+	<string>temporaryRouteMomentum</string>
+	<key>materialStateInteraction</key>
+	<string>configurationIncludeStructure</string>
+	<key>priorSinkOrientation</key>
+	<string>asynchronousBuilderTint</string>
+	<key>relationalDimensionCenter</key>
+	<string>concreteStatefulVisible</string>
+	<key>signVariableCount</key>
+	<string>subscriptionWithoutMode</string>
+</dict>
+</plist>

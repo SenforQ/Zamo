@@ -1,0 +1,17 @@
+#import "LayoutSortedFlex.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface PersistentOffsetCache : NSObject
+
+
+- (void) takeDeclarativeStoryboardInterpreter;
+
+- (void) startTypicalSensor;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

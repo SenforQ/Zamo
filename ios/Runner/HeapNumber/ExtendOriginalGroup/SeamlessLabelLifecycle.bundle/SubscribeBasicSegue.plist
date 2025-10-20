@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetDecoratorSpacing</key>
+	<string>groupVarContrast</string>
+	<key>boxAwayState</key>
+	<string>cellParameterOpacity</string>
+	<key>localizationOutsideSingleton</key>
+	<string>serviceLayerTag</string>
+	<key>nodeDecoratorSkewy</key>
+	<string>graphCommandTint</string>
+	<key>presenterPlatformInterval</key>
+	<string>firstTimerColor</string>
+	<key>streamAtSingleton</key>
+	<string>normSystemFeedback</string>
+</dict>
+</plist>

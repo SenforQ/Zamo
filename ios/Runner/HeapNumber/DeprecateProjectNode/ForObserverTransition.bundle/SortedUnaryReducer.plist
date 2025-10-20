@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperAroundTask</key>
+	<string>priorSampleDuration</string>
+	<key>frameBridgeDuration</key>
+	<string>unactivatedGridEdge</string>
+	<key>imperativeDelegateShape</key>
+	<string>viewMementoStatus</string>
+	<key>originalSizedboxType</key>
+	<string>routeContextMargin</string>
+	<key>referenceModeAlignment</key>
+	<string>constraintOperationRotation</string>
+	<key>visibleShaderDistance</key>
+	<string>spotInParam</string>
+</dict>
+</plist>

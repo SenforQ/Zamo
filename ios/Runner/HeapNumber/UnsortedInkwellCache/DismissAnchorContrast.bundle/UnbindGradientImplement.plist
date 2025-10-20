@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorBeyondType</key>
+	<string>greatRouteHue</string>
+	<key>positionInOperation</key>
+	<string>statefulStorageResponse</string>
+	<key>unactivatedSizeStatus</key>
+	<string>notificationCommandIndex</string>
+	<key>usedBlocName</key>
+	<string>eagerInterfaceVisible</string>
+	<key>usedTransitionInset</key>
+	<string>slashAsTask</string>
+	<key>viewInTask</key>
+	<string>hardTickerForce</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCheckboxVelocity</key>
+	<string>entityAndVariable</string>
+	<key>asyncCollectionOffset</key>
+	<string>frameInPlatform</string>
+	<key>convolutionThanFlyweight</key>
+	<string>errorTypeRotation</string>
+	<key>fragmentVersusTier</key>
+	<string>usecaseAndAction</string>
+	<key>semanticResourceValidation</key>
+	<string>optimizerAdapterScale</string>
+	<key>switchInsideVisitor</key>
+	<string>remainderMethodResponse</string>
+	<key>viewInsideMode</key>
+	<string>projectFlyweightContrast</string>
+</dict>
+</plist>

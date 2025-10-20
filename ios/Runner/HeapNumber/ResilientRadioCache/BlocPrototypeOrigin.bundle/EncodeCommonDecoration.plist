@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialRoleKind</key>
+	<string>backwardObserverRight</string>
+	<key>diversifiedLoopMode</key>
+	<string>missionFlyweightFlags</string>
+	<key>requiredMenuFeedback</key>
+	<string>composableFlexBorder</string>
+</dict>
+</plist>

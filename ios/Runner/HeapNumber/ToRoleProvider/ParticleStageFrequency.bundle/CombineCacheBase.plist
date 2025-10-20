@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSystemLocation</key>
+	<string>originalModelOrigin</string>
+	<key>completerOrTask</key>
+	<string>actionSingletonCount</string>
+	<key>desktopErrorColor</key>
+	<string>tappableProviderTheme</string>
+	<key>materialPlaybackShape</key>
+	<string>finalSubpixelInset</string>
+	<key>profileStrategyBorder</key>
+	<string>skinNearWork</string>
+</dict>
+</plist>

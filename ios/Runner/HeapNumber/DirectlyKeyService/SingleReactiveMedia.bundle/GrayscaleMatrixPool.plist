@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoNavigatorCenter</key>
+	<string>storagePatternHue</string>
+	<key>capacitiesVersusParam</key>
+	<string>symmetricTickerRate</string>
+	<key>consultativeWidgetVisible</key>
+	<string>exceptionExceptMode</string>
+	<key>curveOperationType</key>
+	<string>mediumResourceColor</string>
+	<key>greatCoordinatorPressure</key>
+	<string>typicalNavigatorTheme</string>
+	<key>responsiveLayoutVisible</key>
+	<string>sceneCommandBehavior</string>
+	<key>segmentOperationOpacity</key>
+	<string>momentumPhaseDuration</string>
+	<key>usecaseWithoutAdapter</key>
+	<string>opaqueModelIndex</string>
+</dict>
+</plist>

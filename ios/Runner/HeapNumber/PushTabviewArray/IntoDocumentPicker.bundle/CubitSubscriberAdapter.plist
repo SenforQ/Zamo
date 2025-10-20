@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCosineFlags</key>
+	<string>titleOrParameter</string>
+	<key>basicSubpixelIndex</key>
+	<string>accessibleInteractorCenter</string>
+	<key>checklistModeOrigin</key>
+	<string>responsiveVectorIndex</string>
+	<key>explicitMenuEdge</key>
+	<string>iconAsPrototype</string>
+	<key>mediaquerySinceProcess</key>
+	<string>intermediateOffsetBorder</string>
+	<key>routerVersusComposite</key>
+	<string>gestureTaskAlignment</string>
+	<key>sustainableTextTransparency</key>
+	<string>behaviorThroughNumber</string>
+	<key>topicOfFlyweight</key>
+	<string>roleContextType</string>
+</dict>
+</plist>

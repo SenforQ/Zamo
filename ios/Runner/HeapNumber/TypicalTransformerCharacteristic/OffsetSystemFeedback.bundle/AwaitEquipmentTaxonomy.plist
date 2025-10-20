@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentInterpreterTransparency</key>
+	<string>eagerEqualizationFeedback</string>
+	<key>anchorAwayFramework</key>
+	<string>textDecoratorSkewx</string>
+	<key>drawerFunctionAlignment</key>
+	<string>integerContextSkewy</string>
+	<key>lostBorderRate</key>
+	<string>spotWithoutNumber</string>
+	<key>notificationBeyondCommand</key>
+	<string>dependencyContainComposite</string>
+	<key>optionOrBridge</key>
+	<string>momentumObserverTheme</string>
+	<key>promiseVariableTail</key>
+	<string>fragmentMethodBorder</string>
+	<key>scrollableTextSaturation</key>
+	<string>modalBridgeFeedback</string>
+	<key>subscriptionOutsideWork</key>
+	<string>tabbarUntilTask</string>
+</dict>
+</plist>

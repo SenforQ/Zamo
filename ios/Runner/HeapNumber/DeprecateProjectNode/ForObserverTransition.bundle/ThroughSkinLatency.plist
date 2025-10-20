@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioPerState</key>
+	<string>constSliderEdge</string>
+	<key>associatedBuilderKind</key>
+	<string>multiplicationKindTag</string>
+	<key>batchScopeTheme</key>
+	<string>denseAccessoryScale</string>
+	<key>delegateActivityDuration</key>
+	<string>ephemeralAnimationOffset</string>
+	<key>instructionOperationStatus</key>
+	<string>presenterInsideParameter</string>
+	<key>sizeAndScope</key>
+	<string>displayableStoreAppearance</string>
+	<key>unaryWorkPadding</key>
+	<string>controllerModeEdge</string>
+	<key>viewMethodFrequency</key>
+	<string>notifierNearJob</string>
+</dict>
+</plist>

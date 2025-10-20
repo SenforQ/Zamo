@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDescriptorTransparency</key>
+	<string>ternaryOrDecorator</string>
+	<key>callbackBridgeLeft</key>
+	<string>fusedTechniqueShade</string>
+	<key>cubitNearTier</key>
+	<string>similarSwiftTint</string>
+	<key>errorNearVar</key>
+	<string>curveAroundDecorator</string>
+	<key>frameAmongSingleton</key>
+	<string>spineNumberKind</string>
+	<key>heapThroughScope</key>
+	<string>reusableModelRate</string>
+	<key>listenerStateAlignment</key>
+	<string>builderBesideAdapter</string>
+	<key>smartInteractorLeft</key>
+	<string>significantActionRate</string>
+	<key>unactivatedChallengeRotation</key>
+	<string>synchronousRadiusTension</string>
+</dict>
+</plist>

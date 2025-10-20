@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewPerBridge</key>
+	<string>observerJobInteraction</string>
+	<key>memberVersusPhase</key>
+	<string>channelsContextLeft</string>
+	<key>oldCurveFrequency</key>
+	<string>parallelDependencyFrequency</string>
+	<key>petNumberShape</key>
+	<string>unsortedArithmeticRate</string>
+	<key>presenterPerFacade</key>
+	<string>modulusFormStyle</string>
+	<key>rapidPopupDirection</key>
+	<string>riverpodLikeSingleton</string>
+	<key>specifierValueSkewy</key>
+	<string>controllerLikeState</string>
+</dict>
+</plist>

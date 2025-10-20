@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsFrameworkShape</key>
+	<string>entropyFlyweightSpeed</string>
+	<key>interactorNearCycle</key>
+	<string>arithmeticProcessSpeed</string>
+	<key>mutableGrayscaleShade</key>
+	<string>textureBridgeName</string>
+	<key>offsetWithAction</key>
+	<string>aspectMediatorStatus</string>
+	<key>progressbarSystemDistance</key>
+	<string>originalContainerDirection</string>
+	<key>skinVarPosition</key>
+	<string>reductionSingletonVisible</string>
+	<key>spriteScopeResponse</key>
+	<string>factoryStructureTint</string>
+	<key>taskAsForm</key>
+	<string>commandFrameworkTheme</string>
+</dict>
+</plist>

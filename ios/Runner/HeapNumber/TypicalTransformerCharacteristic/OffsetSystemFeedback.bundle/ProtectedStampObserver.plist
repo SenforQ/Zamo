@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBesideMode</key>
+	<string>alphaContainVisitor</string>
+	<key>delegateOrMethod</key>
+	<string>customizedPreviewShade</string>
+	<key>granularUtilShade</key>
+	<string>sequentialChartVisible</string>
+	<key>graphFacadeSpeed</key>
+	<string>channelBridgeResponse</string>
+	<key>projectScopeContrast</key>
+	<string>ephemeralChartBorder</string>
+	<key>tabviewActionInterval</key>
+	<string>desktopAssetScale</string>
+</dict>
+</plist>

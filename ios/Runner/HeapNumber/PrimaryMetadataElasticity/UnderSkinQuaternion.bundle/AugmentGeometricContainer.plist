@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAwaitType</key>
+	<string>criticalReductionAcceleration</string>
+	<key>autoMethodPadding</key>
+	<string>imageParamPosition</string>
+	<key>declarativeStampTransparency</key>
+	<string>textInsideAction</string>
+	<key>requiredPointStyle</key>
+	<string>tangentSystemDelay</string>
+	<key>resilientTextStatus</key>
+	<string>subtleStatelessEdge</string>
+	<key>routerAdapterPressure</key>
+	<string>directSinkMomentum</string>
+	<key>smallEntityFrequency</key>
+	<string>gridContextTheme</string>
+	<key>sustainableControllerEdge</key>
+	<string>mobxAdapterBorder</string>
+	<key>taskAboutLayer</key>
+	<string>eagerAlphaBrightness</string>
+	<key>workflowKindSaturation</key>
+	<string>subtleChartDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorKindCount</key>
+	<string>factoryFacadeLeft</string>
+	<key>animationLikeInterpreter</key>
+	<string>usageAmongChain</string>
+	<key>baseContextTail</key>
+	<string>coordinatorFromActivity</string>
+	<key>compositionCycleBottom</key>
+	<string>titleInActivity</string>
+	<key>disabledOptionBehavior</key>
+	<string>streamStructureTop</string>
+	<key>groupNumberDirection</key>
+	<string>coordinatorFunctionInset</string>
+	<key>pivotalBaselineBottom</key>
+	<string>sceneFunctionBottom</string>
+	<key>positionObserverSpacing</key>
+	<string>customCertificateScale</string>
+</dict>
+</plist>

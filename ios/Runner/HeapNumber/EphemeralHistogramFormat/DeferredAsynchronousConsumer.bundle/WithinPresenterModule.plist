@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationPhaseSpeed</key>
+	<string>tappableCoordinatorResponse</string>
+	<key>criticalRectName</key>
+	<string>containerPatternFrequency</string>
+	<key>intensityBufferMode</key>
+	<string>mediaqueryIncludeObserver</string>
+	<key>spotWithoutState</key>
+	<string>usecaseWithoutCommand</string>
+</dict>
+</plist>

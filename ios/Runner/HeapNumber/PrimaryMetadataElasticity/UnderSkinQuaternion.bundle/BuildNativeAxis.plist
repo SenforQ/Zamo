@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintOfPhase</key>
+	<string>directEquipmentTop</string>
+	<key>decorationAgainstMethod</key>
+	<string>themeStyleTail</string>
+	<key>positionedBeyondMediator</key>
+	<string>descriptorAtActivity</string>
+	<key>transformerAgainstForm</key>
+	<string>specifyActivityScale</string>
+</dict>
+</plist>

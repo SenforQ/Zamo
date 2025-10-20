@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPointDistance</key>
+	<string>batchAndLevel</string>
+	<key>bufferFacadeState</key>
+	<string>largeRouteLocation</string>
+	<key>certificateFromPrototype</key>
+	<string>interactorBeyondCommand</string>
+	<key>liteSceneShape</key>
+	<string>coordinatorLevelVisibility</string>
+	<key>notificationLayerSkewx</key>
+	<string>alignmentAlongProxy</string>
+	<key>singletonBufferPressure</key>
+	<string>lastDurationMargin</string>
+	<key>specifierExceptDecorator</key>
+	<string>commonHashBehavior</string>
+</dict>
+</plist>

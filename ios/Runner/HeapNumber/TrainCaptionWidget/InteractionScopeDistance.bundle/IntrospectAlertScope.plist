@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePetInset</key>
+	<string>cycleFromObserver</string>
+	<key>appbarWithoutOperation</key>
+	<string>extensionInsideTask</string>
+	<key>compositionWorkStatus</key>
+	<string>entityVersusNumber</string>
+	<key>customDialogsDelay</key>
+	<string>curveContextSize</string>
+	<key>globalMarginVisible</key>
+	<string>smallColumnStatus</string>
+	<key>logarithmSingletonResponse</key>
+	<string>resultBeyondLayer</string>
+	<key>loopInterpreterFormat</key>
+	<string>accessibleDelegateColor</string>
+	<key>sharedGraphVisible</key>
+	<string>radiusParameterAppearance</string>
+</dict>
+</plist>

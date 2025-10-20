@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderFromProcess</key>
+	<string>bufferPhaseRate</string>
+	<key>customProtocolBehavior</key>
+	<string>signShapeFeedback</string>
+	<key>fixedGraphRate</key>
+	<string>controllerStyleDirection</string>
+	<key>immutableLabelDepth</key>
+	<string>metadataVariableForce</string>
+	<key>menuTaskStatus</key>
+	<string>radiusFormLeft</string>
+	<key>requiredSinkSpacing</key>
+	<string>navigationIncludeParameter</string>
+	<key>respectiveExpandedStyle</key>
+	<string>commandLevelBrightness</string>
+	<key>semanticMediaqueryDepth</key>
+	<string>agileAllocatorBrightness</string>
+	<key>ternaryInsidePattern</key>
+	<string>positionedScopeMode</string>
+	<key>textureWithBridge</key>
+	<string>sceneDecoratorTheme</string>
+</dict>
+</plist>

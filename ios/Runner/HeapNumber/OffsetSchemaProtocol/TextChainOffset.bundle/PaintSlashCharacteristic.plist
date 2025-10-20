@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartUntilVisitor</key>
+	<string>desktopWorkflowOffset</string>
+	<key>hierarchicalSpriteForce</key>
+	<string>pageviewAtPlatform</string>
+	<key>labelFrameworkFlags</key>
+	<string>effectPlatformCenter</string>
+	<key>layoutDecoratorIndex</key>
+	<string>previewTempleOffset</string>
+	<key>queryBesideNumber</key>
+	<string>animationAlongPlatform</string>
+	<key>streamTempleAlignment</key>
+	<string>inheritedClipperStyle</string>
+	<key>widgetSystemSpacing</key>
+	<string>activeArithmeticSpacing</string>
+</dict>
+</plist>

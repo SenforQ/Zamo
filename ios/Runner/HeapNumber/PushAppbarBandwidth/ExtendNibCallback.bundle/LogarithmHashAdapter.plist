@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphStageRate</key>
+	<string>missedCustompaintDuration</string>
+	<key>heapFlyweightSpeed</key>
+	<string>petAtActivity</string>
+	<key>inkwellOfAction</key>
+	<string>catalystActionAcceleration</string>
+	<key>listenerShapeSaturation</key>
+	<string>sampleProxyAlignment</string>
+	<key>significantEffectDistance</key>
+	<string>inactiveBlocForce</string>
+</dict>
+</plist>

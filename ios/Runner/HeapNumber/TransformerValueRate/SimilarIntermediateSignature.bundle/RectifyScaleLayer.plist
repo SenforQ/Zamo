@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorBufferPadding</key>
+	<string>crudePresenterForce</string>
+	<key>coordinatorOrObserver</key>
+	<string>signValueBehavior</string>
+	<key>coordinatorOutsideLevel</key>
+	<string>mapPatternKind</string>
+	<key>layoutOrOperation</key>
+	<string>sceneBridgeValidation</string>
+	<key>memberWithState</key>
+	<string>constraintSystemCount</string>
+	<key>primaryRectCenter</key>
+	<string>animatedSubpixelFrequency</string>
+	<key>unsortedRemainderCount</key>
+	<string>hierarchicalProgressbarScale</string>
+</dict>
+</plist>

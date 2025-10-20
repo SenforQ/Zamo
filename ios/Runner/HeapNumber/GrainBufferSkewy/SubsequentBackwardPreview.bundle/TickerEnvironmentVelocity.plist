@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioPerAdapter</key>
+	<string>resourceSinceObserver</string>
+	<key>bufferChainOpacity</key>
+	<string>pinchableTitleEdge</string>
+	<key>challengeBridgeVelocity</key>
+	<string>responseAsAction</string>
+	<key>decorationAndContext</key>
+	<string>unactivatedExceptionOpacity</string>
+	<key>expandedVersusWork</key>
+	<string>activatedSliderLocation</string>
+	<key>pivotalAccessoryMargin</key>
+	<string>storyboardViaStrategy</string>
+	<key>resizableButtonStyle</key>
+	<string>cubitObserverShade</string>
+	<key>routeJobSize</key>
+	<string>tabviewForShape</string>
+	<key>rowBridgeStyle</key>
+	<string>descriptionBufferTension</string>
+	<key>unactivatedListviewOpacity</key>
+	<string>elasticTangentBound</string>
+</dict>
+</plist>

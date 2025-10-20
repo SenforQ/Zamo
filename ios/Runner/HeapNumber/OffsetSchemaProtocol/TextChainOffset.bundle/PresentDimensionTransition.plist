@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderVisitorValidation</key>
+	<string>usecaseAndDecorator</string>
+	<key>rectAmongObserver</key>
+	<string>memberCycleLeft</string>
+	<key>requiredContractionAlignment</key>
+	<string>graphObserverShape</string>
+	<key>sequentialCheckboxPressure</key>
+	<string>logarithmAgainstParameter</string>
+	<key>sophisticatedServiceBorder</key>
+	<string>layerDuringJob</string>
+	<key>stackByChain</key>
+	<string>coordinatorObserverState</string>
+	<key>sustainableBitrateRate</key>
+	<string>reducerVersusFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicUtilFormat</key>
+	<string>cursorPerFunction</string>
+	<key>layerAtInterpreter</key>
+	<string>documentInTask</string>
+	<key>projectionOutsideAdapter</key>
+	<string>singleStreamTransparency</string>
+	<key>scaleOutsidePrototype</key>
+	<string>interactiveBorderKind</string>
+	<key>statelessTaskTheme</key>
+	<string>curveEnvironmentName</string>
+</dict>
+</plist>

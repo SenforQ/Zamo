@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledAnimationFlags</key>
+	<string>exceptionActivityAppearance</string>
+	<key>keyCompletionInset</key>
+	<string>frameAdapterShade</string>
+	<key>metadataAlongCycle</key>
+	<string>projectMementoState</string>
+	<key>numericalShaderContrast</key>
+	<string>statelessCubitTag</string>
+	<key>relationalCapsuleOffset</key>
+	<string>elasticTaskOffset</string>
+	<key>subtleCompleterLeft</key>
+	<string>graphicParameterTop</string>
+	<key>uniqueMenuStyle</key>
+	<string>particleShapeForce</string>
+</dict>
+</plist>

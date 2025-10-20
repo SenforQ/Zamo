@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAboutKind</key>
+	<string>explicitServiceType</string>
+	<key>asyncViaCycle</key>
+	<string>constraintMethodStyle</string>
+	<key>buttonInsideStrategy</key>
+	<string>stateInsideShape</string>
+	<key>coordinatorScopePosition</key>
+	<string>brushEnvironmentOpacity</string>
+	<key>featureParamInterval</key>
+	<string>transitionMediatorMode</string>
+	<key>grainPhaseShape</key>
+	<string>tappableButtonFrequency</string>
+	<key>stateBridgeResponse</key>
+	<string>cupertinoMenuRate</string>
+	<key>ternaryAlongLevel</key>
+	<string>eventCompositeContrast</string>
+	<key>unactivatedAnimationPressure</key>
+	<string>mobileMobxLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorMethodFlags</key>
+	<string>semanticRadiusRotation</string>
+	<key>disabledIsolateAlignment</key>
+	<string>workflowByInterpreter</string>
+	<key>keyErrorDelay</key>
+	<string>mutableDelegateScale</string>
+	<key>multiplicationAtStyle</key>
+	<string>standaloneRowDelay</string>
+	<key>positionLayerLocation</key>
+	<string>resourceStageDensity</string>
+	<key>sinkStrategyTop</key>
+	<string>challengeFormMomentum</string>
+</dict>
+</plist>

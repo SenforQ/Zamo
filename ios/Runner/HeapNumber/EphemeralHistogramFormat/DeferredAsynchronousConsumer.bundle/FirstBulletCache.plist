@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedInkwellBehavior</key>
+	<string>rapidHeapAppearance</string>
+	<key>convolutionSingletonLocation</key>
+	<string>asyncIndicatorMode</string>
+	<key>dependencyDuringTier</key>
+	<string>listenerDespiteFlyweight</string>
+	<key>immutableLogarithmFlags</key>
+	<string>newestBaselineLeft</string>
+	<key>similarSizeBorder</key>
+	<string>segueFlyweightScale</string>
+	<key>statelessAsyncFrequency</key>
+	<string>parallelAnimatedcontainerCount</string>
+</dict>
+</plist>

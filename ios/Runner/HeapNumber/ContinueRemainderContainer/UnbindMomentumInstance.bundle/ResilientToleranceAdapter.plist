@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVarAlignment</key>
+	<string>interpolationIncludeVar</string>
+	<key>concretePointTheme</key>
+	<string>finalCubitTheme</string>
+	<key>configurationExceptAction</key>
+	<string>slashAsBuffer</string>
+	<key>discardedResolverContrast</key>
+	<string>durationScopeScale</string>
+	<key>displayableIntegerInteraction</key>
+	<string>factoryFacadeVelocity</string>
+	<key>exceptionAboutState</key>
+	<string>variantTempleStatus</string>
+	<key>newestTimerTension</key>
+	<string>inheritedAllocatorAppearance</string>
+</dict>
+</plist>

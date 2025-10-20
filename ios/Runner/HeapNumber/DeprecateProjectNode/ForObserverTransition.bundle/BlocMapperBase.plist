@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTickerDensity</key>
+	<string>tabviewJobAcceleration</string>
+	<key>layoutScopeName</key>
+	<string>skinTaskDelay</string>
+	<key>sequentialInjectionFeedback</key>
+	<string>rapidDialogsStatus</string>
+	<key>skirtProcessTint</key>
+	<string>routeFrameworkSaturation</string>
+	<key>uniqueMatrixForce</key>
+	<string>workflowAsPhase</string>
+	<key>unsortedBehaviorTint</key>
+	<string>asyncAlongCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAndStructure</key>
+	<string>channelViaShape</string>
+	<key>capacitiesModeResponse</key>
+	<string>immediateOverlayOrientation</string>
+	<key>cellLayerHead</key>
+	<string>currentRiverpodRotation</string>
+	<key>clipperDecoratorStyle</key>
+	<string>lastTweenOpacity</string>
+	<key>directlyDescriptionScale</key>
+	<string>parallelStatefulRate</string>
+	<key>histogramOfPlatform</key>
+	<string>singletonVersusTask</string>
+	<key>inactiveFactoryDensity</key>
+	<string>beginnerScaffoldAcceleration</string>
+	<key>intensityDecoratorOffset</key>
+	<string>tabbarThroughLayer</string>
+	<key>menuMediatorInteraction</key>
+	<string>gradientStrategyAcceleration</string>
+	<key>reactiveListenerSaturation</key>
+	<string>nodeFunctionFrequency</string>
+</dict>
+</plist>

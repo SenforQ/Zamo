@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerStageOrigin</key>
+	<string>responsiveGrayscaleLocation</string>
+	<key>coordinatorStyleFlags</key>
+	<string>inkwellViaActivity</string>
+	<key>precisionPatternBorder</key>
+	<string>discardedSymbolInterval</string>
+	<key>sampleLikeActivity</key>
+	<string>graphNearMediator</string>
+	<key>usageBesideStage</key>
+	<string>notifierSinceBuffer</string>
+</dict>
+</plist>

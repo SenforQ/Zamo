@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorVariableInteraction</key>
+	<string>zoneObserverInteraction</string>
+	<key>animationStageAlignment</key>
+	<string>concreteSceneOrientation</string>
+	<key>axisExceptForm</key>
+	<string>normalContainerDuration</string>
+	<key>decorationEnvironmentDepth</key>
+	<string>materialProxyCenter</string>
+	<key>ephemeralChartContrast</key>
+	<string>particleAwayCycle</string>
+	<key>persistentHeroDensity</key>
+	<string>similarSpriteState</string>
+	<key>precisionTypeStatus</key>
+	<string>intuitiveDelegateShape</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineShapeBorder</key>
+	<string>giftWithState</string>
+	<key>containerCycleScale</key>
+	<string>singletonFlyweightForce</string>
+	<key>firstTextureSpeed</key>
+	<string>secondBufferAcceleration</string>
+	<key>gridviewContextForce</key>
+	<string>callbackCommandPadding</string>
+	<key>intensityAdapterBound</key>
+	<string>masterActionSpeed</string>
+	<key>musicPrototypeRight</key>
+	<string>subsequentStatefulVisibility</string>
+	<key>navigatorAgainstWork</key>
+	<string>specifyNavigatorValidation</string>
+	<key>queueThanObserver</key>
+	<string>lastMovementFeedback</string>
+	<key>usageExceptFunction</key>
+	<string>permanentTernaryState</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticGetxTop</key>
+	<string>storeParamAcceleration</string>
+	<key>asynchronousControllerScale</key>
+	<string>allocatorDuringEnvironment</string>
+	<key>groupUntilFramework</key>
+	<string>animationAgainstScope</string>
+	<key>interactiveContainerCenter</key>
+	<string>tappableIntegerType</string>
+	<key>memberAwayPhase</key>
+	<string>cartesianVectorVisible</string>
+	<key>queueLayerRate</key>
+	<string>gesturedetectorStageStyle</string>
+	<key>signBufferAlignment</key>
+	<string>signForState</string>
+</dict>
+</plist>

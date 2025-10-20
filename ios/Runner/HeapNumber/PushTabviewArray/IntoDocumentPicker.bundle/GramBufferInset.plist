@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintDuringLayer</key>
+	<string>sensorAdapterBehavior</string>
+	<key>consultativeObserverOrientation</key>
+	<string>matrixStateHue</string>
+	<key>factoryAsStage</key>
+	<string>ephemeralViewTint</string>
+	<key>masterModePressure</key>
+	<string>managerWithStage</string>
+	<key>popupAndPhase</key>
+	<string>sophisticatedSegmentFrequency</string>
+	<key>positionObserverInset</key>
+	<string>gateValueShape</string>
+	<key>previewFacadeSkewx</key>
+	<string>euclideanCellAcceleration</string>
+	<key>rowAmongFacade</key>
+	<string>greatSizeLeft</string>
+	<key>stackNearFacade</key>
+	<string>awaitThanProxy</string>
+</dict>
+</plist>

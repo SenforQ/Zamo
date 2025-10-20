@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocTypeOpacity</key>
+	<string>arithmeticSensorVelocity</string>
+	<key>compositionalTransformerShape</key>
+	<string>isolateActionMode</string>
+	<key>listenerStyleMode</key>
+	<string>optimizerAsPrototype</string>
+	<key>metadataPrototypeBottom</key>
+	<string>pointLikeState</string>
+	<key>notificationOperationTag</key>
+	<string>scrollScopeBorder</string>
+	<key>resilientTopicScale</key>
+	<string>textCompositeTop</string>
+	<key>singletonTempleCount</key>
+	<string>storageTypeOffset</string>
+	<key>timerActionMargin</key>
+	<string>imperativeSegueVelocity</string>
+	<key>transitionBridgeSkewx</key>
+	<string>positionAgainstMemento</string>
+</dict>
+</plist>

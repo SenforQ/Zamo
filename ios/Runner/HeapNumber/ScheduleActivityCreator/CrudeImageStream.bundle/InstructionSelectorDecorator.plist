@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorExceptPhase</key>
+	<string>sineExceptPhase</string>
+	<key>buttonCompositeKind</key>
+	<string>pinchableAppbarSaturation</string>
+	<key>customizedClipperResponse</key>
+	<string>prevCoordinatorFrequency</string>
+	<key>geometricTextValidation</key>
+	<string>modalAmongShape</string>
+	<key>independentControllerOrigin</key>
+	<string>methodFlyweightMode</string>
+	<key>navigationAroundState</key>
+	<string>temporaryHistogramHead</string>
+	<key>sensorUntilAction</key>
+	<string>nextInjectionDepth</string>
+	<key>serviceStateDistance</key>
+	<string>ignoredCurveVelocity</string>
+	<key>symbolIncludeActivity</key>
+	<string>materialMetadataName</string>
+</dict>
+</plist>

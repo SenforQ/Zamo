@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSemanticsRotation</key>
+	<string>axisAroundLayer</string>
+	<key>mobxOperationDensity</key>
+	<string>routerOfTask</string>
+	<key>particleOperationHead</key>
+	<string>sliderByType</string>
+	<key>threadViaVisitor</key>
+	<string>builderCycleOpacity</string>
+</dict>
+</plist>

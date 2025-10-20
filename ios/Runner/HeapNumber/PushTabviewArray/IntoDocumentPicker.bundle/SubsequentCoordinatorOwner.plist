@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteProgressbarDelay</key>
+	<string>intermediateCompleterHead</string>
+	<key>factoryWithoutLevel</key>
+	<string>eagerCompletionInteraction</string>
+	<key>globalContainerVisibility</key>
+	<string>modulusForMemento</string>
+	<key>observerPlatformFlags</key>
+	<string>directlyGraphVisible</string>
+	<key>queueAdapterBottom</key>
+	<string>statefulMultiplicationFormat</string>
+	<key>resolverPlatformFeedback</key>
+	<string>webIsolateVelocity</string>
+	<key>shaderScopeSpeed</key>
+	<string>delicateLayoutTop</string>
+	<key>smallWorkflowStyle</key>
+	<string>synchronousViewInset</string>
+</dict>
+</plist>

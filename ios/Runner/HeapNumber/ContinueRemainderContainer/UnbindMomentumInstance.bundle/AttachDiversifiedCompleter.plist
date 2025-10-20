@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartFlyweightStyle</key>
+	<string>durationScopeVelocity</string>
+	<key>draggableRouteContrast</key>
+	<string>reusableChapterBrightness</string>
+	<key>fixedFutureMode</key>
+	<string>topicParameterName</string>
+	<key>menuTypeMargin</key>
+	<string>displayableSceneMargin</string>
+	<key>sharedSliderSkewx</key>
+	<string>matrixNearVariable</string>
+	<key>streamActivityDensity</key>
+	<string>lossPerForm</string>
+	<key>topicFromStructure</key>
+	<string>hierarchicalOptimizerBottom</string>
+	<key>transformerContainMode</key>
+	<string>skirtNearInterpreter</string>
+</dict>
+</plist>

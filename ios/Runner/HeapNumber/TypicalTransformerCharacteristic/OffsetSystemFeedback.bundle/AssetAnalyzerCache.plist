@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerStructureFlags</key>
+	<string>textActivityMode</string>
+	<key>integerUntilPhase</key>
+	<string>hashModeRight</string>
+	<key>movementStrategyCoord</key>
+	<string>sensorMementoLeft</string>
+	<key>opaqueStreamKind</key>
+	<string>spriteSystemSpacing</string>
+	<key>positionedIncludeStage</key>
+	<string>consumerActivityOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeOutsideFramework</key>
+	<string>equipmentFrameworkAcceleration</string>
+	<key>cubitParameterValidation</key>
+	<string>dependencyContextResponse</string>
+	<key>navigationPerStage</key>
+	<string>standaloneKernelValidation</string>
+	<key>secondDescriptionStatus</key>
+	<string>advancedConfigurationVisibility</string>
+	<key>subtleOptionContrast</key>
+	<string>tickerPerWork</string>
+	<key>titleCycleTag</key>
+	<string>semanticGesturedetectorTension</string>
+	<key>transitionIncludePrototype</key>
+	<string>lastOffsetBehavior</string>
+	<key>variantAlongCommand</key>
+	<string>channelMethodOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleCubitContrast</key>
+	<string>staticNotifierTag</string>
+	<key>grainTypeTint</key>
+	<string>newestNormSkewx</string>
+	<key>groupAtValue</key>
+	<string>cupertinoAlphaScale</string>
+	<key>methodInEnvironment</key>
+	<string>switchScopeKind</string>
+	<key>observerShapePadding</key>
+	<string>liteCoordinatorInset</string>
+	<key>resourceSystemContrast</key>
+	<string>disparateBlocVisible</string>
+	<key>responseStateBehavior</key>
+	<string>interpolationMementoFlags</string>
+	<key>rowFormPadding</key>
+	<string>viewAsSingleton</string>
+</dict>
+</plist>

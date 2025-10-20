@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeConfigurationValidation</key>
+	<string>hashInFlyweight</string>
+	<key>grainJobFormat</key>
+	<string>materialSpotTail</string>
+	<key>imageFacadeMargin</key>
+	<string>playbackProxyShade</string>
+	<key>inheritedScrollSize</key>
+	<string>publicStateCoord</string>
+	<key>navigatorIncludeStyle</key>
+	<string>diffableReductionRight</string>
+	<key>navigatorOfTier</key>
+	<string>ignoredBorderOpacity</string>
+	<key>positionBesideFacade</key>
+	<string>responsiveFeatureRight</string>
+	<key>reactiveRadiusCoord</key>
+	<string>diffableCertificateVisibility</string>
+	<key>segmentWithoutSingleton</key>
+	<string>signatureParameterInteraction</string>
+</dict>
+</plist>

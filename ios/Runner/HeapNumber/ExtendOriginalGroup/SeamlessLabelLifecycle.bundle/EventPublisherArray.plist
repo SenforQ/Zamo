@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderExceptMethod</key>
+	<string>textureOfParameter</string>
+	<key>bulletInPattern</key>
+	<string>multiNavigationBound</string>
+	<key>completionBeyondMediator</key>
+	<string>disparateMasterOffset</string>
+	<key>labelDecoratorRotation</key>
+	<string>delegateVersusInterpreter</string>
+	<key>layoutContextSkewx</key>
+	<string>tappableZoneMargin</string>
+	<key>missedMovementColor</key>
+	<string>criticalRowForce</string>
+	<key>modelSinceLayer</key>
+	<string>lostDelegateState</string>
+	<key>nextRouteTint</key>
+	<string>sinePerMode</string>
+	<key>sessionActivitySaturation</key>
+	<string>providerThroughNumber</string>
+	<key>taskPerSystem</key>
+	<string>transformerPrototypeHead</string>
+</dict>
+</plist>

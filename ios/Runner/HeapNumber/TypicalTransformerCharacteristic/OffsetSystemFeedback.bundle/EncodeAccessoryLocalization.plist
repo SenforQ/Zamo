@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAsSystem</key>
+	<string>monsterPerCycle</string>
+	<key>injectionNumberFeedback</key>
+	<string>sceneBeyondParam</string>
+	<key>momentumProcessSize</key>
+	<string>promiseLikeMode</string>
+	<key>priorLayoutSpacing</key>
+	<string>histogramDuringActivity</string>
+	<key>subpixelExceptOperation</key>
+	<string>shaderInLevel</string>
+</dict>
+</plist>

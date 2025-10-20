@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationCommandInterval</key>
+	<string>managerViaProxy</string>
+	<key>controllerAboutStrategy</key>
+	<string>prevLayoutDirection</string>
+	<key>fusedLayoutTheme</key>
+	<string>assetThanFramework</string>
+	<key>listviewObserverInterval</key>
+	<string>transitionValueType</string>
+	<key>missionFormVisible</key>
+	<string>interfaceAgainstMediator</string>
+	<key>musicAwayComposite</key>
+	<string>graphVersusKind</string>
+	<key>progressbarWithoutProxy</key>
+	<string>alignmentExceptPrototype</string>
+</dict>
+</plist>

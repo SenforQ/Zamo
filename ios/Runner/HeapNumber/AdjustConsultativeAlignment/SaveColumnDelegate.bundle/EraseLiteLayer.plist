@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryOperationCoord</key>
+	<string>brushParameterDuration</string>
+	<key>columnMediatorRight</key>
+	<string>priorityCyclePosition</string>
+	<key>displayableAppbarTheme</key>
+	<string>prevFutureTop</string>
+	<key>fragmentBesideAdapter</key>
+	<string>dropdownbuttonBeyondPlatform</string>
+	<key>localizationFromPrototype</key>
+	<string>routeMediatorSpacing</string>
+	<key>projectionAgainstComposite</key>
+	<string>navigatorInParameter</string>
+	<key>routerFacadeOrigin</key>
+	<string>presenterStructureTheme</string>
+	<key>scrollableModulusTransparency</key>
+	<string>lastNodeState</string>
+	<key>taskFacadeName</key>
+	<string>currentCubitInteraction</string>
+</dict>
+</plist>

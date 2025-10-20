@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicActionOrientation</key>
+	<string>widgetPatternFlags</string>
+	<key>concurrentScreenRotation</key>
+	<string>durationTypeHue</string>
+	<key>delegatePatternCenter</key>
+	<string>semanticCurveBottom</string>
+	<key>instructionMediatorEdge</key>
+	<string>giftFlyweightKind</string>
+	<key>liteSymbolTheme</key>
+	<string>granularCompleterTag</string>
+	<key>observerChainSaturation</key>
+	<string>pivotalResourceTheme</string>
+	<key>serviceAwayKind</key>
+	<string>seamlessErrorTheme</string>
+	<key>skirtMementoRate</key>
+	<string>navigatorStructureBound</string>
+	<key>substantialCurveName</key>
+	<string>independentStampMargin</string>
+</dict>
+</plist>

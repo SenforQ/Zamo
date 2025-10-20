@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousLayoutTransparency</key>
+	<string>disabledReducerMomentum</string>
+	<key>bitrateSinceWork</key>
+	<string>lostTextfieldDepth</string>
+	<key>easyParticlePosition</key>
+	<string>commandThroughNumber</string>
+	<key>intuitiveBaselineAppearance</key>
+	<string>delegateBufferAlignment</string>
+	<key>loopValueFlags</key>
+	<string>lazySliderIndex</string>
+	<key>mediaAndDecorator</key>
+	<string>resourceStateBound</string>
+	<key>nativeNavigatorFeedback</key>
+	<string>elasticIconSize</string>
+	<key>opaqueBoxshadowSpacing</key>
+	<string>sequentialLabelPadding</string>
+	<key>paddingShapeTransparency</key>
+	<string>flexibleChecklistCoord</string>
+	<key>scrollableCallbackMomentum</key>
+	<string>durationDuringBridge</string>
+</dict>
+</plist>

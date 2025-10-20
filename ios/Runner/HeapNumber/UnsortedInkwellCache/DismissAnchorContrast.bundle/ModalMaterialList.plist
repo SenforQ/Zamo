@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaMethodInset</key>
+	<string>primaryPreviewCenter</string>
+	<key>diffableInstructionPressure</key>
+	<string>lastModalInteraction</string>
+	<key>frameInterpreterSaturation</key>
+	<string>sharedBufferVisibility</string>
+	<key>interactiveSegmentInterval</key>
+	<string>routerWithSystem</string>
+	<key>particleAsStrategy</key>
+	<string>publicResponseBrightness</string>
+	<key>radiusVisitorKind</key>
+	<string>navigationOfParameter</string>
+	<key>timerCycleBehavior</key>
+	<string>workflowOrWork</string>
+</dict>
+</plist>

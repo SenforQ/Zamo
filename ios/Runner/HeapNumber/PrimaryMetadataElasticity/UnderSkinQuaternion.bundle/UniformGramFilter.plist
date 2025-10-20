@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSliderSpeed</key>
+	<string>cellStrategyBound</string>
+	<key>appbarStyleForce</key>
+	<string>radiusProcessAlignment</string>
+	<key>displayableDurationOpacity</key>
+	<string>matrixCycleStyle</string>
+	<key>observerOutsideKind</key>
+	<string>imperativeApertureShade</string>
+	<key>previewBesideStrategy</key>
+	<string>pinchableAccessoryVisible</string>
+	<key>sharedCommandShape</key>
+	<string>awaitBeyondFunction</string>
+	<key>tickerThroughObserver</key>
+	<string>completerOrBridge</string>
+</dict>
+</plist>

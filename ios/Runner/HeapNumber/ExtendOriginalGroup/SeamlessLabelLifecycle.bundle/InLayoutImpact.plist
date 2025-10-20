@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorModeSaturation</key>
+	<string>effectSystemCenter</string>
+	<key>configurationContextShape</key>
+	<string>queueSinceBridge</string>
+	<key>constNodePadding</key>
+	<string>groupPerFacade</string>
+	<key>cupertinoShapeDuration</key>
+	<string>referenceStrategySkewy</string>
+	<key>desktopActionPadding</key>
+	<string>progressbarStrategyShade</string>
+	<key>displayableGatePressure</key>
+	<string>workflowAgainstDecorator</string>
+	<key>sizeFormDuration</key>
+	<string>taskWithWork</string>
+	<key>spriteValueCount</key>
+	<string>gridAsVariable</string>
+	<key>topicTaskHue</key>
+	<string>previewExceptFramework</string>
+	<key>viewAdapterFormat</key>
+	<string>widgetViaKind</string>
+</dict>
+</plist>

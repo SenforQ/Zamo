@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleResultSpeed</key>
+	<string>transitionEnvironmentAppearance</string>
+	<key>builderTaskTint</key>
+	<string>queueChainLocation</string>
+	<key>delegateStyleBrightness</key>
+	<string>imperativeMediaState</string>
+	<key>hardMediaqueryBehavior</key>
+	<string>transformerEnvironmentShade</string>
+	<key>hashFromFramework</key>
+	<string>taskFacadeDelay</string>
+	<key>respectiveBaselineName</key>
+	<string>staticObserverStatus</string>
+	<key>sortedMediaqueryBehavior</key>
+	<string>independentSliderInterval</string>
+	<key>titleFrameworkInset</key>
+	<string>mediumResponseBehavior</string>
+	<key>vectorLikeFacade</key>
+	<string>callbackInsideJob</string>
+	<key>viewForVariable</key>
+	<string>numericalOverlayName</string>
+</dict>
+</plist>

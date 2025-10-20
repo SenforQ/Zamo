@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeVisitorDensity</key>
+	<string>monsterStrategyCoord</string>
+	<key>effectMethodShape</key>
+	<string>accordionLayerName</string>
+	<key>sharedCupertinoFormat</key>
+	<string>containerFromLevel</string>
+</dict>
+</plist>

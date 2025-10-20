@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintDuringJob</key>
+	<string>resourceProcessAcceleration</string>
+	<key>customDocumentDepth</key>
+	<string>semanticSampleSpacing</string>
+	<key>disabledTaskLeft</key>
+	<string>sessionCompositePadding</string>
+	<key>flexVersusForm</key>
+	<string>compositionalRectTint</string>
+	<key>offsetInsideObserver</key>
+	<string>sophisticatedMonsterTop</string>
+	<key>overlaySinceKind</key>
+	<string>sampleNearStyle</string>
+	<key>precisionValueOffset</key>
+	<string>tappableConstraintContrast</string>
+	<key>queueCompositeDelay</key>
+	<string>precisionMethodFlags</string>
+	<key>widgetContainObserver</key>
+	<string>exponentNearFunction</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDecoratorShape</key>
+	<string>responsiveRowBottom</string>
+	<key>asyncChapterInterval</key>
+	<string>beginnerHeroInterval</string>
+	<key>autoButtonBrightness</key>
+	<string>imperativeHashDuration</string>
+	<key>backwardRadiusSize</key>
+	<string>compositionInterpreterAlignment</string>
+	<key>chapterPlatformStyle</key>
+	<string>channelsWithoutScope</string>
+	<key>gestureAsWork</key>
+	<string>liteRequestOrientation</string>
+	<key>touchValuePosition</key>
+	<string>chartBeyondTier</string>
+	<key>transitionTaskScale</key>
+	<string>unactivatedRouterType</string>
+</dict>
+</plist>

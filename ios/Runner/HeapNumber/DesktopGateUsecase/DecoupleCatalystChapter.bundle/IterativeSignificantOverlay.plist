@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerUntilVisitor</key>
+	<string>prevWidgetColor</string>
+	<key>tweenProcessPressure</key>
+	<string>reducerByTier</string>
+</dict>
+</plist>

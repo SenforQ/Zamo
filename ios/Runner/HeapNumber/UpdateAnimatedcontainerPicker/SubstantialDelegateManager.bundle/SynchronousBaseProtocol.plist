@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticSizedboxLocation</key>
+	<string>radiusContextTint</string>
+	<key>featureOrVar</key>
+	<string>stateViaFacade</string>
+	<key>sharedActionKind</key>
+	<string>utilOfJob</string>
+	<key>smallAlignmentVisibility</key>
+	<string>factoryActivityTint</string>
+	<key>stateMediatorOffset</key>
+	<string>visibleDecorationDistance</string>
+	<key>storagePerTask</key>
+	<string>checklistStrategyTail</string>
+</dict>
+</plist>

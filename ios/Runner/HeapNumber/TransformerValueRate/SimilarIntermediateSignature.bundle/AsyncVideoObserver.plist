@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisByPhase</key>
+	<string>diffableFrameCoord</string>
+	<key>blocTaskBorder</key>
+	<string>crudeExtensionAppearance</string>
+	<key>coordinatorVarDensity</key>
+	<string>cycleForShape</string>
+	<key>logScopeValidation</key>
+	<string>prismaticSliderPosition</string>
+	<key>permissiveAppbarTag</key>
+	<string>liteDescriptorCenter</string>
+	<key>primaryQueueVisibility</key>
+	<string>directCardFormat</string>
+	<key>viewVisitorVisibility</key>
+	<string>typicalContainerBorder</string>
+</dict>
+</plist>

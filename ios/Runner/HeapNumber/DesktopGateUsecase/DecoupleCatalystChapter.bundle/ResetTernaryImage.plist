@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleAccessoryStatus</key>
+	<string>isolateMediatorSpeed</string>
+	<key>mobxWithoutObserver</key>
+	<string>workflowPatternDirection</string>
+	<key>staticCubitRate</key>
+	<string>appbarActivityStatus</string>
+</dict>
+</plist>

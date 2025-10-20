@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisNearMode</key>
+	<string>normalCardResponse</string>
+	<key>bufferIncludeMethod</key>
+	<string>collectionVariableInterval</string>
+	<key>featureContextBorder</key>
+	<string>delegateExceptCycle</string>
+	<key>multiChapterSkewy</key>
+	<string>viewAtParam</string>
+	<key>typicalChecklistRight</key>
+	<string>buttonExceptPrototype</string>
+	<key>unactivatedIsolateAlignment</key>
+	<string>arithmeticLikeMode</string>
+</dict>
+</plist>

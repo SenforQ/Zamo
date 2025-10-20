@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonActionOffset</key>
+	<string>hardListviewAppearance</string>
+	<key>compositionalZoneRotation</key>
+	<string>richtextValueTail</string>
+	<key>cycleForPlatform</key>
+	<string>callbackStageFormat</string>
+	<key>displayableAlphaInset</key>
+	<string>globalBehaviorHead</string>
+	<key>independentUsecaseResponse</key>
+	<string>remainderStageSaturation</string>
+	<key>interfaceTypeTransparency</key>
+	<string>textfieldPrototypeHead</string>
+	<key>normStageFlags</key>
+	<string>explicitSingletonStatus</string>
+</dict>
+</plist>

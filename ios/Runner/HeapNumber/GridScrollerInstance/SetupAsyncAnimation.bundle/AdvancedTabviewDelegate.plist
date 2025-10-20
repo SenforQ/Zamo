@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintOrBridge</key>
+	<string>pivotalPositionedOffset</string>
+	<key>layoutPatternTail</key>
+	<string>originalShaderFeedback</string>
+	<key>mutableCursorFeedback</key>
+	<string>animationLayerInteraction</string>
+	<key>popupVariableTheme</key>
+	<string>directGridSkewy</string>
+	<key>prismaticBulletCount</key>
+	<string>mediaqueryActionType</string>
+	<key>routeForLayer</key>
+	<string>sequentialStorePressure</string>
+	<key>widgetBeyondCommand</key>
+	<string>composablePageviewBorder</string>
+</dict>
+</plist>

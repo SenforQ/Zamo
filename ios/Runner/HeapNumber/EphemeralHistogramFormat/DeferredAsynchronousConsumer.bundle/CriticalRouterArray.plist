@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerCompositeRight</key>
+	<string>zoneBeyondTier</string>
+	<key>displayableCubitResponse</key>
+	<string>titleViaFunction</string>
+	<key>equalizationVersusStyle</key>
+	<string>aspectTaskSize</string>
+	<key>richtextOfOperation</key>
+	<string>animationAboutFlyweight</string>
+	<key>stackInSingleton</key>
+	<string>transitionFacadeVisible</string>
+	<key>threadDuringMode</key>
+	<string>ternaryAsInterpreter</string>
+</dict>
+</plist>

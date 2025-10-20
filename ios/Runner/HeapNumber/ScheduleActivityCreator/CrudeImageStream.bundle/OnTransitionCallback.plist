@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureStrategyInset</key>
+	<string>descriptionAroundMemento</string>
+	<key>integerAtPhase</key>
+	<string>methodCycleRotation</string>
+	<key>robustPopupPadding</key>
+	<string>accessoryFromFunction</string>
+	<key>textWorkKind</key>
+	<string>basicInkwellBehavior</string>
+</dict>
+</plist>

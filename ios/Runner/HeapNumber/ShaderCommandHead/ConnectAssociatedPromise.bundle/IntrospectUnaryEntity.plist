@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStrategyContrast</key>
+	<string>queueAndDecorator</string>
+	<key>discardedViewShade</key>
+	<string>serviceExceptNumber</string>
+	<key>extensionFlyweightOpacity</key>
+	<string>buttonMethodEdge</string>
+	<key>intermediateTickerEdge</key>
+	<string>errorEnvironmentBottom</string>
+	<key>localizationTypeDirection</key>
+	<string>semanticAspectCount</string>
+	<key>materialCellValidation</key>
+	<string>profileCompositeTint</string>
+</dict>
+</plist>
