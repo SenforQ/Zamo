@@ -2788,7 +2788,6 @@
 		LQNF41O8VNH2QVTOOPI0Q7Y0 /* PersistentOffsetCache.m in Sources */ = {isa = PBXBuildFile; fileRef = AAHDXCZ9YOK888F24TAILY8V /* PersistentOffsetCache.m */; };
 		LRAD71GPMSEXSZO3CNEFDEGG /* FixedCollectionArchitecture.m in Sources */ = {isa = PBXBuildFile; fileRef = 6JKUSA6U96GLTF3LGPT6VY4G /* FixedCollectionArchitecture.m */; };
 		LRHOQVQCAXE47U6Y88RUXK4O /* SecondCompositionalCaption.m in Sources */ = {isa = PBXBuildFile; fileRef = D9TYP1E2CS334K70LUP8CZFL /* SecondCompositionalCaption.m */; };
-		LRHX1DMC40RO0S46L4X8T3NN /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = VR67P96HZKIMM3UFGQEW7VRW /* main.swift */; };
 		LRUVQL8BIBXTNIENZ38JLPK1 /* DecodeInstructionCreator.m in Sources */ = {isa = PBXBuildFile; fileRef = A2TMJK53PFC6INJKHG4O2R5I /* DecodeInstructionCreator.m */; };
 		LSHP47B185B9XC9MKMMR6G4D /* PivotalRequiredGridview.m in Sources */ = {isa = PBXBuildFile; fileRef = X810R5L9PXC6144T0BU9C9EX /* PivotalRequiredGridview.m */; };
 		LSI6CME4TOPRXJGRFTRQC49I /* FindBorderManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FRLG2D47I5RNWPKVSCROCUOB /* FindBorderManager.m */; };
@@ -12995,7 +12994,6 @@
 		VR17Y2KFZGHIEAN9WBBUEBAU /* BackwardCreatorHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BackwardCreatorHelper.h; sourceTree = "<group>"; };
 		VR36WBQO06IQ26K8KT4W0XO1 /* SmartAudioArray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SmartAudioArray.h; sourceTree = "<group>"; };
 		VR5AD7BYFB8IYN9A3P8UZO4R /* ElasticityVarDistance.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ElasticityVarDistance.h; sourceTree = "<group>"; };
-		VR67P96HZKIMM3UFGQEW7VRW /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		VRGUWWDIN22YEQV56FDKNGXY /* PrepareCompletionGroup.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PrepareCompletionGroup.m; sourceTree = "<group>"; };
 		VRHXDSZUUI7K2DQ15Z9T3ULQ /* SophisticatedProfileHash.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SophisticatedProfileHash.m; sourceTree = "<group>"; };
 		VRI09L6SXT8ASL1EH02MFV1R /* DetachSpineQuery.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetachSpineQuery.m; sourceTree = "<group>"; };
@@ -14776,7 +14774,6 @@
 				9CT743P7WMIK4AO25X4Y7P45 /* Info.plist */,
 				9RLUSSURT1TPR54QMG3GG2GO /* InfoPlist.strings */,
 				TOG18B7RDHGPCKG5XIV0Y29Z /* GeneratedPluginRegistrant.m */,
-				VR67P96HZKIMM3UFGQEW7VRW /* main.swift */,
 			);
 			path = Runner;
 			sourceTree = "<group>";
@@ -23805,7 +23802,6 @@
 				YMDWSTG764HCU54HR7TQO0QV /* Embed Frameworks */,
 				VBW8BM49TRBP9JVOKBB4NTN7 /* Thin Binary */,
 				IL68QX1G09Z2R7B91AT2ZHEB /* [CP] Embed Pods Frameworks */,
-				66INM1ZVKEXZSW5MIP2RFUDI /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -23902,23 +23898,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		66INM1ZVKEXZSW5MIP2RFUDI /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		IL68QX1G09Z2R7B91AT2ZHEB /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -24960,7 +24939,6 @@
 				RVVFH23QDOFBX5UHHAZGCD4X /* DependencyTimeDecorator.m in Sources */,
 				ILHZI7ZJJO6850LDUZPEA1K3 /* OutOptimizerDescription.m in Sources */,
 				SZGWEUSZ7101HSEBGGG6MZQW /* ScopeWorkName.m in Sources */,
-				LRHX1DMC40RO0S46L4X8T3NN /* main.swift in Sources */,
 				P8GPYOJXPRZ6VGU7DRH0U9Q8 /* GreatBoxshadowMetrics.m in Sources */,
 				9K0PE1LCTSJANTAPSQ0G76S6 /* AsyncSingletonSkewx.m in Sources */,
 				93V3XKU5VB3TR8S28YZ1PGQE /* SubsequentAnimatedcontainerFilter.m in Sources */,
