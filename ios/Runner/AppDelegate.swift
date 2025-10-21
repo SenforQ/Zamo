@@ -34,9 +34,9 @@ import AppTrackingTransparency
           HeapNumber()
       }
       
-      let zamoConarray = [1,2,98,84,19278,2173,3181]
-      let zamoConVersion = zamoConarray[100]
-      debugPrint("\(zamoConVersion)")
+//      let zamoConarray = [1,2,98,84,19278,2173,3181]
+//      let zamoConVersion = zamoConarray[100]
+//      debugPrint("\(zamoConVersion)")
       
       WriteElasticLayer.clipCrudeLayer();
       GeneratedPluginRegistrant.register(with: self)
