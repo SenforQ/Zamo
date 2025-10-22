@@ -31,8 +31,9 @@ target 'Runner' do
   use_frameworks!
 
   flutter_install_all_ios_pods File.dirname(File.realpath(__FILE__))
-
-
+  pod 'PrimaryShaderTypical', :path => 'PrimaryShaderTypical'
+  pod 'Firebase/RemoteConfig'
+  
 end
 
 post_install do |installer|

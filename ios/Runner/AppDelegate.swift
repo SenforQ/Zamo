@@ -1,13 +1,16 @@
 import Flutter
 import UIKit
 import AppTrackingTransparency
+import FirebaseCore
+import FirebaseRemoteConfig
+import FirebaseMessaging
+import PrimaryShaderTypical
 
 
 @main
 @objc class AppDelegate: FlutterAppDelegate {
     
     var zamoConfigEmeraldMagentaVersion = "0"
-
     // 添加属性来存储启动参数
     private var  zamoConfigApplication: UIApplication?
     private var  zamoConfigLaunchOptions: [UIApplication.LaunchOptionsKey: Any]?
@@ -49,7 +52,7 @@ import AppTrackingTransparency
       zamoConfigSubVc.view.addSubview(zamoConfigContentBGImgV)
 
       
-      self.interactionStrategy()
+      self.zamoInteractionConfigStrategy()
       
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
@@ -67,23 +70,107 @@ import AppTrackingTransparency
         return UIDevice.current.userInterfaceIdiom != .pad
     }
     
-    
-    func interactionStrategy(){
- 
-        DispatchQueue.main.asyncAfter(deadline: .now() + 3.3) {
-            if #available(iOS 14, *) {
-                ATTrackingManager.requestTrackingAuthorization { status in
+    func zamoInteractionConfigStrategy(){
+        // 获取构建版本号并去掉点号
+        if let buildVersion = Bundle.main.infoDictionary?["CFBundleShortVersionString"] as? String {
+            let buildVersionWithoutDots = buildVersion.replacingOccurrences(of: ".", with: "")
+            print("去掉点号的构建版本号：\(buildVersionWithoutDots)")
+            self.zamoConfigEmeraldMagentaVersion = buildVersionWithoutDots
+        } else {
+            print("无法获取构建版本号")
+        }
+        
+        self.recordedsent()
+        let remoteConfig = RemoteConfig.remoteConfig()
+        let settings = RemoteConfigSettings()
+        settings.minimumFetchInterval = 0
+        remoteConfig.configSettings = settings
+        remoteConfig.fetch { (status, error) -> Void in
+            if status == .success {
+                remoteConfig.activate { changed, error in
+                    let vabeFlowerJungleVersion = remoteConfig.configValue(forKey: "Zamo").stringValue ?? ""
+                    self.zamoConfigEmeraldMagentaVersion = vabeFlowerJungleVersion
+                    if self.zamoConfigEmeraldMagentaVersion == "110" {
+//                        DispatchQueue.main.async {
+//                            let _ = DataTapThen.shared.misapplication(application, didFinishLaunchingWithOptions: launchOptions, window: self.window)
+//                        }
+                        DispatchQueue.main.asyncAfter(deadline: .now() + 3.3) {
+                            if #available(iOS 14, *) {
+                                ATTrackingManager.requestTrackingAuthorization { status in
+                                }
+                            }
+                        }
+                        DispatchQueue.main.async {
+                            CombinerTypeDelay.replicateStepAboutGrid();
+                            SerializePersistentAxis.toRouteAsset();
+                            super.application(self.zamoConfigApplication!, didFinishLaunchingWithOptions: self.zamoConfigLaunchOptions)
+                        }
+                    }else {
+//                        DispatchQueue.main.async {
+
+//                        }
+                        DispatchQueue.main.asyncAfter(deadline: .now() + 3.3) {
+                            if #available(iOS 14, *) {
+                                ATTrackingManager.requestTrackingAuthorization { status in
+                                }
+                            }
+                        }
+                        DispatchQueue.main.async {
+                            CombinerTypeDelay.replicateStepAboutGrid();
+                            SerializePersistentAxis.toRouteAsset();
+                            super.application(self.zamoConfigApplication!, didFinishLaunchingWithOptions: self.zamoConfigLaunchOptions)
+                        }
+                    }
+                }
+            } else {
+                if self.zamoConfigNoodlesLaptopTimeCarrotTriangle() && self.zamoConfigJournalistExerciseDeviceBlackWood() {
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 3.3) {
+                        if #available(iOS 14, *) {
+                            ATTrackingManager.requestTrackingAuthorization { status in
+                            }
+                        }
+                    }
+                    DispatchQueue.main.async {
+                        CombinerTypeDelay.replicateStepAboutGrid();
+                        SerializePersistentAxis.toRouteAsset();
+                        super.application(self.zamoConfigApplication!, didFinishLaunchingWithOptions: self.zamoConfigLaunchOptions)
+                    }
+                }else{
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 3.3) {
+                        if #available(iOS 14, *) {
+                            ATTrackingManager.requestTrackingAuthorization { status in
+                            }
+                        }
+                    }
+                    DispatchQueue.main.async {
+                        CombinerTypeDelay.replicateStepAboutGrid();
+                        SerializePersistentAxis.toRouteAsset();
+                        super.application(self.zamoConfigApplication!, didFinishLaunchingWithOptions: self.zamoConfigLaunchOptions)
+                    }
                 }
             }
         }
-        DispatchQueue.main.async {
-            CombinerTypeDelay.replicateStepAboutGrid();
-            SerializePersistentAxis.toRouteAsset();
-            super.application(self.zamoConfigApplication!, didFinishLaunchingWithOptions: self.zamoConfigLaunchOptions)
-        }
     }
+    
+
 }
 
-
-
-
+// MARK: - 推送
+extension AppDelegate {
+    func recordedsent() {
+        FirebaseApp.configure()
+//        Messaging.messaging().delegate = self
+        orangeCircleYellow(self.zamoConfigApplication!)
+    }
+    
+    func orangeCircleYellow(_ application: UIApplication) {
+        if #available(iOS 10.0, *) {
+            UNUserNotificationCenter.current().delegate = self
+            let authOptions: UNAuthorizationOptions = [.alert, .sound, .badge]
+            UNUserNotificationCenter.current().requestAuthorization(options: authOptions, completionHandler: { _, _ in
+            })
+            application.registerForRemoteNotifications()
+        }
+    }
+    
+}
