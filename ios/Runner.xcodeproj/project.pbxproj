@@ -923,6 +923,7 @@
 		74NXA7H4SS1F8C89SX4AIRL9 /* IndependentHierarchicalBloc.m in Sources */ = {isa = PBXBuildFile; fileRef = ORD9OWHN077UCCBABWOQ4FU9 /* IndependentHierarchicalBloc.m */; };
 		74WSLXR5HHUEOZE91MQUB36V /* EuclideanGraphFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = BEKV1M7XQ5S7SBOOL6E16ACF /* EuclideanGraphFactory.m */; };
 		7614NU5L1J42Z4MCCDKR8LZ3 /* FlexReplicaHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 5W5A97DAI7WWPT86CZEH6Q14 /* FlexReplicaHandler.m */; };
+		768A97A82EAA24F000F55431 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 768A97A72EAA24F000F55431 /* main.swift */; };
 		76A9T9GPDIA3K4DC912L2F6M /* OldTextPainter.m in Sources */ = {isa = PBXBuildFile; fileRef = 6R7KSC1ANR50ALR0FSNPXDY8 /* OldTextPainter.m */; };
 		76ASF9LZKAHZS7A8U7WPKQS9 /* ObserveMapInjection.m in Sources */ = {isa = PBXBuildFile; fileRef = YUIFS8PNWNUKHODAX2UV7T6L /* ObserveMapInjection.m */; };
 		76C3UQOQKDFWE5UVECNG7L88 /* StreamSingletonDecorator.m in Sources */ = {isa = PBXBuildFile; fileRef = GTPTGV94DPK5RTH4XQOBUAJJ /* StreamSingletonDecorator.m */; };
@@ -6559,6 +6560,7 @@
 		756C5M9U9WT45DWJBYHMQFCV /* ByBufferInteraction.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ByBufferInteraction.m; sourceTree = "<group>"; };
 		75JAGZMM4I6M026XWTBFXAF1 /* InConsumerAscent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InConsumerAscent.h; sourceTree = "<group>"; };
 		75OGXRNWRYS8OFS95E46SKJO /* IntoDocumentPicker.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = IntoDocumentPicker.bundle; sourceTree = "<group>"; };
+		768A97A72EAA24F000F55431 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		76DJ5DUYYAB7P7AWRTEPJJQD /* LoopMethodInteraction.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoopMethodInteraction.h; sourceTree = "<group>"; };
 		76IB5TITPYW2VQL6CUYZQA0V /* BeforeIntegerFragments.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BeforeIntegerFragments.h; sourceTree = "<group>"; };
 		76IE074JP0DPN1LOZZ1PT9N6 /* ResultProcessLocation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ResultProcessLocation.m; sourceTree = "<group>"; };
@@ -14774,6 +14776,7 @@
 				9CT743P7WMIK4AO25X4Y7P45 /* Info.plist */,
 				9RLUSSURT1TPR54QMG3GG2GO /* InfoPlist.strings */,
 				TOG18B7RDHGPCKG5XIV0Y29Z /* GeneratedPluginRegistrant.m */,
+				768A97A72EAA24F000F55431 /* main.swift */,
 			);
 			path = Runner;
 			sourceTree = "<group>";
@@ -23802,6 +23805,7 @@
 				YMDWSTG764HCU54HR7TQO0QV /* Embed Frameworks */,
 				VBW8BM49TRBP9JVOKBB4NTN7 /* Thin Binary */,
 				IL68QX1G09Z2R7B91AT2ZHEB /* [CP] Embed Pods Frameworks */,
+				A0AAE55EDFB04EBE8627837D /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -23898,6 +23902,23 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		A0AAE55EDFB04EBE8627837D /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		IL68QX1G09Z2R7B91AT2ZHEB /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -26807,6 +26828,7 @@
 				HXMNFPXP68WYJYT0Z1Q7WSMC /* AttachInteractiveChannels.m in Sources */,
 				ZZKKVBRREKF5MRMS7KUDKKPO /* OtherAllocatorFactory.m in Sources */,
 				XHASF9U9W5NH78S62J94MVTT /* EagerCartesianGroup.m in Sources */,
+				768A97A82EAA24F000F55431 /* main.swift in Sources */,
 				46ADWA1I4IV0IB9EZ6ZL5CQT /* ByRouterColor.m in Sources */,
 				UI55VFDKKIZMEUOPZKHPD2KK /* DiffableKeyAsset.m in Sources */,
 				IY1N0JYIKEXF44V903IUONKM /* ThemeScopeVisibility.m in Sources */,
@@ -28694,7 +28716,7 @@
 				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
+				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = U8A3872Q9A;
@@ -28705,7 +28727,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.U8A3872Q9A;
+				MARKETING_VERSION = 1.4.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ios.sweete.happy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = comU8A3872Q9A_dis_20251009;
@@ -28842,7 +28865,7 @@
 				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
+				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = U8A3872Q9A;
@@ -28853,7 +28876,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.U8A3872Q9A;
+				MARKETING_VERSION = 1.4.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ios.sweete.happy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = comU8A3872Q9A_dis_20251009;
@@ -28877,7 +28901,7 @@
 				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
+				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = U8A3872Q9A;
@@ -28888,6 +28912,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.4.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.U8A3872Q9A;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";

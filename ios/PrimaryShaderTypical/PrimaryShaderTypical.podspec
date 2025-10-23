@@ -11,18 +11,18 @@ Pod::Spec.new do |s|
   s.static_framework = true
   s.requires_arc = true
   s.source_files = 'PrimaryShaderTypical/Classes/**/*'
-  # s.resources = "PrimaryShaderTypical/Resources/*.bundle"
+  s.resources = "PrimaryShaderTypical/Resources/*.bundle"
   s.vendored_libraries = 'PrimaryShaderTypical/Classes/**/*.a'
   
   # 日志库
   s.dependency 'DXMarsXlog', '~> 1.0.0'
   s.dependency 'Alamofire', '~> 5.9.1'
   s.dependency 'SnapKit', '~> 5.7.1'
-  s.dependency 'RxSwift', '~> 6.9.0'
-  s.dependency 'RxCocoa', '~> 6.9.0'
+  s.dependency 'RxSwift', '~> 6.6.0'
+  s.dependency 'RxCocoa', '~> 6.6.0'
   s.dependency 'SwiftyJSON', '~> 5.0.2'
   s.dependency 'HandyJSON', '~> 5.0.2'
-  s.dependency 'ReachabilitySwift', '~> 5.2.4'
+  s.dependency 'ReachabilitySwift', '~> 5.0.0'
   s.dependency 'SwiftyRSA', '~> 1.7.0'
   s.dependency 'Kingfisher', '~> 7.11.0'
   s.dependency 'Then', '~> 3.0.0'

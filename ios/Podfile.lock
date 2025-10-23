@@ -245,9 +245,9 @@ PODS:
     - pop (~> 1.0.12)
     - QCloudCOSXML/Transfer (= 6.4.4)
     - QGVAPlayer (~> 1.0.16)
-    - ReachabilitySwift (~> 5.2.4)
-    - RxCocoa (~> 6.9.0)
-    - RxSwift (~> 6.9.0)
+    - ReachabilitySwift (~> 5.0.0)
+    - RxCocoa (~> 6.6.0)
+    - RxSwift (~> 6.6.0)
     - SnapKit (~> 5.7.1)
     - SocketRocket (= 0.5.1)
     - SVGAPlayer (= 2.3.4)
@@ -270,13 +270,13 @@ PODS:
   - QCloudCOSXML/Transfer (6.4.4):
     - QCloudCore/WithoutMTA (= 6.4.4)
   - QGVAPlayer (1.0.19)
-  - ReachabilitySwift (5.2.4)
-  - RxCocoa (6.9.0):
-    - RxRelay (= 6.9.0)
-    - RxSwift (= 6.9.0)
-  - RxRelay (6.9.0):
-    - RxSwift (= 6.9.0)
-  - RxSwift (6.9.0)
+  - ReachabilitySwift (5.0.0)
+  - RxCocoa (6.6.0):
+    - RxRelay (= 6.6.0)
+    - RxSwift (= 6.6.0)
+  - RxRelay (6.6.0):
+    - RxSwift (= 6.6.0)
+  - RxSwift (6.6.0)
   - shared_preferences_foundation (0.0.1):
     - Flutter
     - FlutterMacOS
@@ -463,17 +463,17 @@ SPEC CHECKSUMS:
   NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
   path_provider_foundation: 080d55be775b7414fd5a5ef3ac137b97b097e564
   pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
-  PrimaryShaderTypical: 0551c5f6df3a6c725314f344c483fc21f2917819
+  PrimaryShaderTypical: 0262e10c757c22da0342393242d08bb27071927c
   PromisesObjC: f5707f49cb48b9636751c5b2e7d227e43fba9f47
   PromisesSwift: 9d77319bbe72ebf6d872900551f7eeba9bce2851
   Protobuf: 164aea2ae380c3951abdc3e195220c01d17400e0
   QCloudCore: 9b13ad49cf5fc4537f416811f31c41cf46d8f3c2
   QCloudCOSXML: b24d8a1225e4b3270d36bbcfa66478fedc1c6de6
   QGVAPlayer: a0bca68c9bd6f1c8de5ac2d10ddf98be6038cce9
-  ReachabilitySwift: 32793e867593cfc1177f5d16491e3a197d2fccda
-  RxCocoa: ac16414696ae706516be3e1ab00fcce5bdc9be8a
-  RxRelay: 6b0c930e5cef57d5fe2032571e5e65b78e3cbdb1
-  RxSwift: 31649ace6aceeb422e16ff71c60804f9c3281ed9
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  RxCocoa: 44a80de90e25b739b5aeaae3c8c371a32e3343cc
+  RxRelay: 45eaa5db8ee4fb50e5ebd57deec0159e97fa51e6
+  RxSwift: a4b44f7d24599f674deebd1818eab82e58410632
   shared_preferences_foundation: 9e1978ff2562383bd5676f64ec4e9aa8fa06a6f7
   SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
   SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
